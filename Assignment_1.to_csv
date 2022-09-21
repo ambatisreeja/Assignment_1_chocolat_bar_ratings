@@ -1,0 +1,347 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "5a2cde89",
+   "metadata": {},
+   "source": [
+    "# Step 1: Data Acquisition\n",
+    "\n",
+    "I first collected a dataset of chocolate bar ratings from kaggle.com and saved it as a cvs file"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3cf0b0dd",
+   "metadata": {},
+   "source": [
+    "# Step 2: Data Processing\n",
+    "\n",
+    "I removed the columns \"year_reviewed\", \"bar_name\", and \"review\" from the datset as they were not relevant to what I wanted to analyzed and saved it as a csv file to upload to Jupyter Notebook.  "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "85056773",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import pandas as pd\n",
+    "import numpy as np\n",
+    "import matplotlib.pyplot as plt\n",
+    "\n",
+    "df = pd.read_csv('chocolate_bars_processed.csv')\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "108bb66e",
+   "metadata": {},
+   "source": [
+    "# Step 3: Analysis\n",
+    "\n",
+    "I opened processed csv file in jupyter notebook for further analysis"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 44,
+   "id": "d409a1fe",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>id</th>\n",
+       "      <th>manufacturer</th>\n",
+       "      <th>company_location</th>\n",
+       "      <th>bean_origin</th>\n",
+       "      <th>cocoa_percent</th>\n",
+       "      <th>num_ingredients</th>\n",
+       "      <th>ingredients</th>\n",
+       "      <th>rating</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>2454</td>\n",
+       "      <td>5150</td>\n",
+       "      <td>U.S.A.</td>\n",
+       "      <td>Tanzania</td>\n",
+       "      <td>76.0</td>\n",
+       "      <td>3.0</td>\n",
+       "      <td>B,S,C</td>\n",
+       "      <td>3.25</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>2458</td>\n",
+       "      <td>5150</td>\n",
+       "      <td>U.S.A.</td>\n",
+       "      <td>Dominican Republic</td>\n",
+       "      <td>76.0</td>\n",
+       "      <td>3.0</td>\n",
+       "      <td>B,S,C</td>\n",
+       "      <td>3.50</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>2454</td>\n",
+       "      <td>5150</td>\n",
+       "      <td>U.S.A.</td>\n",
+       "      <td>Madagascar</td>\n",
+       "      <td>76.0</td>\n",
+       "      <td>3.0</td>\n",
+       "      <td>B,S,C</td>\n",
+       "      <td>3.75</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>2542</td>\n",
+       "      <td>5150</td>\n",
+       "      <td>U.S.A.</td>\n",
+       "      <td>Fiji</td>\n",
+       "      <td>68.0</td>\n",
+       "      <td>3.0</td>\n",
+       "      <td>B,S,C</td>\n",
+       "      <td>3.00</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>2546</td>\n",
+       "      <td>5150</td>\n",
+       "      <td>U.S.A.</td>\n",
+       "      <td>Venezuela</td>\n",
+       "      <td>72.0</td>\n",
+       "      <td>3.0</td>\n",
+       "      <td>B,S,C</td>\n",
+       "      <td>3.00</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "     id manufacturer company_location         bean_origin  cocoa_percent  \\\n",
+       "0  2454         5150           U.S.A.            Tanzania           76.0   \n",
+       "1  2458         5150           U.S.A.  Dominican Republic           76.0   \n",
+       "2  2454         5150           U.S.A.          Madagascar           76.0   \n",
+       "3  2542         5150           U.S.A.                Fiji           68.0   \n",
+       "4  2546         5150           U.S.A.           Venezuela           72.0   \n",
+       "\n",
+       "   num_ingredients ingredients  rating  \n",
+       "0              3.0       B,S,C    3.25  \n",
+       "1              3.0       B,S,C    3.50  \n",
+       "2              3.0       B,S,C    3.75  \n",
+       "3              3.0       B,S,C    3.00  \n",
+       "4              3.0       B,S,C    3.00  "
+      ]
+     },
+     "execution_count": 44,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# show dataset\n",
+    "df.head()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 45,
+   "id": "5096e2b9",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "2530\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(len(df))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 46,
+   "id": "692d5b4d",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "<class 'pandas.core.frame.DataFrame'>\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(type(df))"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "63d1edfe",
+   "metadata": {},
+   "source": [
+    "# Step 3.1\n",
+    "\n",
+    "I extracted the columns \"cocoa_percent\" and \"ratings\" so they could be analyzed and displayed"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 54,
+   "id": "f62e1b7c",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "0       76.0\n",
+      "1       76.0\n",
+      "2       76.0\n",
+      "3       68.0\n",
+      "4       72.0\n",
+      "        ... \n",
+      "2525    80.0\n",
+      "2526    75.0\n",
+      "2527    75.0\n",
+      "2528    70.0\n",
+      "2529    72.0\n",
+      "Name: cocoa_percent, Length: 2530, dtype: float64\n"
+     ]
+    }
+   ],
+   "source": [
+    "# add cocoa percentage column to a variable\n",
+    "cocoa = df['cocoa_percent']\n",
+    "print(cocoa)\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 50,
+   "id": "d243372f",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "0       3.25\n",
+      "1       3.50\n",
+      "2       3.75\n",
+      "3       3.00\n",
+      "4       3.00\n",
+      "        ... \n",
+      "2525    2.75\n",
+      "2526    3.75\n",
+      "2527    3.00\n",
+      "2528    3.25\n",
+      "2529    3.50\n",
+      "Name: rating, Length: 2530, dtype: float64\n"
+     ]
+    }
+   ],
+   "source": [
+    "# add rating column to a variable\n",
+    "rating = df['rating']\n",
+    "print(rating)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b74d81ee",
+   "metadata": {},
+   "source": [
+    "# Step 3.2: Final Analysis\n",
+    "\n",
+    "I created a bar graph of the ratings of chocolate bars with various percentages. This graph shows that chocolate bars tend to have higher ratings for cocoa percents within the range 60%-90%."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 60,
+   "id": "84f6433c",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "Text(0.5, 1.0, 'Chocolate Bar Rating Based on Cocoa Percentage')"
+      ]
+     },
+     "execution_count": 60,
+     "metadata": {},
+     "output_type": "execute_result"
+    },
+    {
+     "data": {
+      "image/png": "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\n",
+      "text/plain": [
+       "<Figure size 432x288 with 1 Axes>"
+      ]
+     },
+     "metadata": {
+      "needs_background": "light"
+     },
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "# create bar graph\n",
+    "plt.bar(cocoa, rating)\n",
+    "plt.xlabel('Cocoa Percent')\n",
+    "plt.ylabel('Rating')\n",
+    "plt.title('Chocolate Bar Rating Based on Cocoa Percentage')\n"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.9.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
