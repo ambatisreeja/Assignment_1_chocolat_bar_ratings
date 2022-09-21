@@ -1,0 +1,2531 @@
+id,manufacturer,company_location,bean_origin,cocoa_percent,num_ingredients,ingredients,rating
+2454,5150,U.S.A.,Tanzania,76.0,3.0,"B,S,C",3.25
+2458,5150,U.S.A.,Dominican Republic,76.0,3.0,"B,S,C",3.5
+2454,5150,U.S.A.,Madagascar,76.0,3.0,"B,S,C",3.75
+2542,5150,U.S.A.,Fiji,68.0,3.0,"B,S,C",3.0
+2546,5150,U.S.A.,Venezuela,72.0,3.0,"B,S,C",3.0
+2546,5150,U.S.A.,Uganda,80.0,3.0,"B,S,C",3.25
+2542,5150,U.S.A.,India,68.0,3.0,"B,S,C",3.5
+797,A. Morin,France,Bolivia,70.0,4.0,"B,S,C,L",3.5
+797,A. Morin,France,Peru,63.0,4.0,"B,S,C,L",3.75
+1011,A. Morin,France,Panama,70.0,4.0,"B,S,C,L",2.75
+1015,A. Morin,France,Colombia,70.0,4.0,"B,S,C,L",2.75
+1011,A. Morin,France,Madagascar,70.0,4.0,"B,S,C,L",3.0
+1015,A. Morin,France,Burma,70.0,4.0,"B,S,C,L",3.0
+1011,A. Morin,France,Brazil,70.0,4.0,"B,S,C,L",3.25
+1015,A. Morin,France,Papua New Guinea,70.0,4.0,"B,S,C,L",3.25
+1019,A. Morin,France,Peru,70.0,4.0,"B,S,C,L",3.25
+1019,A. Morin,France,Peru,70.0,4.0,"B,S,C,L",3.5
+1011,A. Morin,France,Ecuador,70.0,4.0,"B,S,C,L",3.75
+1015,A. Morin,France,Venezuela,70.0,4.0,"B,S,C,L",4.0
+1019,A. Morin,France,Peru,63.0,3.0,"B,S,C",4.0
+1315,A. Morin,France,Venezuela,70.0,4.0,"B,S,C,L",2.75
+1315,A. Morin,France,Cuba,70.0,4.0,"B,S,C,L",3.5
+1315,A. Morin,France,Venezuela,70.0,4.0,"B,S,C,L",3.5
+1319,A. Morin,France,Venezuela,70.0,4.0,"B,S,C,L",3.75
+1319,A. Morin,France,Peru,70.0,4.0,"B,S,C,L",4.0
+1676,A. Morin,France,Togo,70.0,4.0,"B,S,C,L",2.75
+1676,A. Morin,France,Togo,70.0,4.0,"B,S,C,L",3.0
+1680,A. Morin,France,Togo,70.0,4.0,"B,S,C,L",3.5
+1704,A. Morin,France,Peru,70.0,4.0,"B,S,C,L",3.5
+1876,A. Morin,France,Sao Tome,63.0,4.0,"B,S,C,L",3.75
+2206,A. Morin,France,Venezuela,70.0,4.0,"B,S,C,L",3.5
+2206,A. Morin,France,Peru,63.0,4.0,"B,S,C,L",3.75
+2648,A. Morin,France,Mexico,70.0,4.0,"B,S,C,L",4.0
+1462,Acalli,U.S.A.,Peru,70.0,2.0,"B,S",3.75
+1470,Acalli,U.S.A.,Peru,70.0,2.0,"B,S",3.75
+2462,Acalli,U.S.A.,Mexico,74.0,2.0,"B,S",3.25
+2470,Acalli,U.S.A.,Peru,70.0,2.0,"B,S",3.5
+705,Adi aka Fijiana (Easy In Ltd),Fiji,Fiji,60.0,3.0,"B,S,C",2.75
+705,Adi aka Fijiana (Easy In Ltd),Fiji,Fiji,80.0,3.0,"B,S,C",3.25
+705,Adi aka Fijiana (Easy In Ltd),Fiji,Fiji,88.0,3.0,"B,S,C",3.5
+705,Adi aka Fijiana (Easy In Ltd),Fiji,Fiji,72.0,3.0,"B,S,C",3.5
+2438,Aelan,Vanuatu,Vanuatu,70.0,2.0,"B,S",2.5
+2438,Aelan,Vanuatu,Vanuatu,70.0,2.0,"B,S",2.75
+2442,Aelan,Vanuatu,Vanuatu,70.0,2.0,"B,S",2.75
+2438,Aelan,Vanuatu,Vanuatu,70.0,2.0,"B,S",3.0
+370,Aequare (Gianduja),Ecuador,Ecuador,55.0,4.0,"B,S,C,V",2.75
+370,Aequare (Gianduja),Ecuador,Ecuador,70.0,4.0,"B,S,C,V",3.0
+316,Ah Cacao,Mexico,Mexico,70.0,3.0,"B,S,C",3.0
+502,Akesson's (Pralus),U.K.,Madagascar,75.0,4.0,"B,S,C,L",2.75
+508,Akesson's (Pralus),U.K.,Brazil,75.0,4.0,"B,S,C,L",2.75
+636,Akesson's (Pralus),U.K.,Indonesia,75.0,4.0,"B,S,C,L",3.75
+1061,Alain Ducasse,France,Venezuela,75.0,5.0,"B,S,C,V,L",2.5
+1173,Alain Ducasse,France,Peru,75.0,5.0,"B,S,C,V,L",2.5
+1215,Alain Ducasse,France,Trinidad,65.0,6.0,"B,S,C,V,L,Sa",2.75
+1215,Alain Ducasse,France,Vietnam,75.0,5.0,"B,S,C,V,Sa",2.75
+1215,Alain Ducasse,France,Madagascar,75.0,5.0,"B,S,C,V,Sa",3.0
+1992,Alain Ducasse,France,Mexico,75.0,6.0,"B,S,C,V,L,Sa",3.5
+1944,Alexandre,Netherlands,Ecuador,70.0,3.0,"B,S,C",3.5
+1944,Alexandre,Netherlands,Nicaragua,70.0,3.0,"B,S,C",3.5
+1944,Alexandre,Netherlands,Tanzania,70.0,3.0,"B,S,C",3.5
+1944,Alexandre,Netherlands,Vietnam,70.0,3.0,"B,S,C",3.5
+1125,Altus aka Cao Artisan,U.S.A.,Venezuela,60.0,4.0,"B,S,C,L",2.5
+1125,Altus aka Cao Artisan,U.S.A.,Dominican Republic,60.0,4.0,"B,S,C,L",3.0
+1133,Altus aka Cao Artisan,U.S.A.,Bolivia,60.0,4.0,"B,S,C,L",3.0
+1129,Altus aka Cao Artisan,U.S.A.,Bolivia,80.0,4.0,"B,S,C,L",3.25
+1133,Altus aka Cao Artisan,U.S.A.,Peru,60.0,4.0,"B,S,C,L",3.25
+1732,Altus aka Cao Artisan,U.S.A.,Bolivia,60.0,3.0,"B,S,C",2.5
+1732,Altus aka Cao Artisan,U.S.A.,Peru,60.0,3.0,"B,S,C",2.5
+1728,Altus aka Cao Artisan,U.S.A.,Nicaragua,60.0,3.0,"B,S,C",2.75
+1732,Altus aka Cao Artisan,U.S.A.,Ecuador,60.0,3.0,"B,S,C",2.75
+1728,Altus aka Cao Artisan,U.S.A.,Peru,60.0,3.0,"B,S,C",3.0
+2044,Altus aka Cao Artisan,U.S.A.,Dominican Republic,70.0,3.0,"B,S,C",3.0
+147,Amano,U.S.A.,Venezuela,70.0,4.0,"B,S,C,V",3.0
+129,Amano,U.S.A.,Madagascar,70.0,4.0,"B,S,C,V",3.5
+175,Amano,U.S.A.,Venezuela,70.0,4.0,"B,S,C,V",3.75
+304,Amano,U.S.A.,Indonesia,70.0,4.0,"B,S,C,V",2.75
+363,Amano,U.S.A.,Venezuela,70.0,4.0,"B,S,C,V",3.0
+544,Amano,U.S.A.,Venezuela,70.0,4.0,"B,S,C,V",3.0
+470,Amano,U.S.A.,Dominican Republic,70.0,4.0,"B,S,C,V",3.75
+470,Amano,U.S.A.,Ecuador,70.0,4.0,"B,S,C,V",4.0
+725,Amano,U.S.A.,Papua New Guinea,70.0,4.0,"B,S,C,V",4.0
+327,Amatller (Simon Coll),Spain,Ecuador,70.0,2.0,"B,S",2.75
+464,Amatller (Simon Coll),Spain,Ecuador,85.0,2.0,"B,S",2.75
+322,Amatller (Simon Coll),Spain,Ghana,70.0,2.0,"B,S",3.0
+464,Amatller (Simon Coll),Spain,Ghana,85.0,2.0,"B,S",3.0
+1964,Amazing Cacao,Russia,Peru,70.0,,,3.0
+1964,Amazing Cacao,Russia,Peru,70.0,,,3.5
+1145,Amazona,Peru,Peru,72.0,3.0,"B,S,C",3.25
+1145,Amazona,Peru,Peru,73.0,3.0,"B,S,C",3.5
+1494,Ambrosia,Canada,Belize,64.0,4.0,"B,S,C,L",3.0
+1494,Ambrosia,Canada,Madagascar,66.0,2.0,"B,S",3.25
+1498,Ambrosia,Canada,Dominican Republic,75.0,2.0,"B,S",3.25
+1498,Ambrosia,Canada,Papua New Guinea,63.0,2.0,"B,S",3.25
+1498,Ambrosia,Canada,Venezuela,70.0,2.0,"B,S",3.25
+1498,Ambrosia,Canada,Peru,68.0,2.0,"B,S",3.5
+75,Amedei,Italy,Blend,66.0,4.0,"B,S,C,V",3.75
+123,Amedei,Italy,Ecuador,70.0,4.0,"B,S,C,V",3.0
+123,Amedei,Italy,Jamaica,70.0,4.0,"B,S,C,V",3.0
+123,Amedei,Italy,Grenada,70.0,4.0,"B,S,C,V",3.5
+129,Amedei,Italy,Trinidad,70.0,4.0,"B,S,C,V",3.5
+170,Amedei,Italy,Blend,63.0,4.0,"B,S,C,V",3.5
+123,Amedei,Italy,Venezuela,70.0,4.0,"B,S,C,V",3.75
+979,Amedei,Italy,Peru,70.0,4.0,"B,S,C,V",3.75
+2088,Amedei,Italy,Madagascar,70.0,4.0,"B,S,C,V",3.0
+2088,Amedei,Italy,Venezuela,70.0,4.0,"B,S,C,V",3.0
+2092,Amedei,Italy,Venezuela,70.0,4.0,"B,S,C,V",3.0
+2092,Amedei,Italy,Blend,75.0,4.0,"B,S,C,V",3.5
+2434,Amedei,Italy,Blend,70.0,3.0,"B,S,C",2.75
+572,AMMA,Brazil,Brazil,85.0,4.0,"B,S,C,L",2.75
+572,AMMA,Brazil,Brazil,50.0,4.0,"B,S,C,L",3.75
+572,AMMA,Brazil,Brazil,75.0,4.0,"B,S,C,L",3.75
+572,AMMA,Brazil,Brazil,60.0,4.0,"B,S,C,L",4.0
+1065,AMMA,Brazil,Brazil,75.0,4.0,"B,S,C,L",3.25
+1259,Anahata,U.S.A.,Dominican Republic,75.0,2.0,"B,S",3.0
+1852,Animas,U.S.A.,Bolivia,75.0,2.0,"B,S",3.5
+2586,Animas,U.S.A.,Belize,75.0,2.0,"B,S",3.0
+2586,Animas,U.S.A.,Guatemala,75.0,2.0,"B,S",3.25
+1379,Ara,France,Mexico,72.0,3.0,"B,S,C",2.5
+1379,Ara,France,Ecuador,75.0,3.0,"B,S,C",2.75
+1375,Ara,France,Madagascar,75.0,3.0,"B,S,C",3.0
+1379,Ara,France,Venezuela,75.0,3.0,"B,S,C",3.0
+1602,Arete,U.S.A.,Brazil,75.0,2.0,"B,S",2.75
+1602,Arete,U.S.A.,Guatemala,70.0,2.0,"B,S",3.25
+1534,Arete,U.S.A.,Brazil,70.0,2.0,"B,S",3.5
+1534,Arete,U.S.A.,Peru,68.0,2.0,"B,S",3.5
+1598,Arete,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.5
+1602,Arete,U.S.A.,Ecuador,75.0,3.0,"B,S,C",3.5
+1534,Arete,U.S.A.,Ecuador,70.0,2.0,"B,S",3.75
+1598,Arete,U.S.A.,Belize,70.0,2.0,"B,S",3.75
+1598,Arete,U.S.A.,Nicaragua,70.0,2.0,"B,S",4.0
+1904,Arete,U.S.A.,Ecuador,70.0,3.0,"B,S,C",3.25
+1904,Arete,U.S.A.,Ecuador,70.0,3.0,"B,S,C",3.25
+1928,Arete,U.S.A.,Fiji,70.0,2.0,"B,S",3.25
+1928,Arete,U.S.A.,Vietnam,73.0,2.0,"B,S",3.25
+1724,Arete,U.S.A.,Trinidad,70.0,2.0,"B,S",3.5
+1900,Arete,U.S.A.,Vietnam,73.0,3.0,"B,S,C",3.5
+1904,Arete,U.S.A.,Guatemala,70.0,2.0,"B,S",3.5
+1908,Arete,U.S.A.,Honduras,70.0,2.0,"B,S",3.5
+1724,Arete,U.S.A.,Tanzania,70.0,2.0,"B,S",3.75
+1904,Arete,U.S.A.,Nicaragua,70.0,3.0,"B,S,C",3.75
+1928,Arete,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.75
+1908,Arete,U.S.A.,Costa Rica,70.0,2.0,"B,S",4.0
+1924,Arete,U.S.A.,Peru,70.0,2.0,"B,S",4.0
+2020,Arete,U.S.A.,India,70.0,2.0,"B,S",3.5
+2020,Arete,U.S.A.,Madagascar,70.0,3.0,"B,S,C",3.5
+2020,Arete,U.S.A.,Vietnam,73.0,3.0,"B,S,C",3.5
+2028,Arete,U.S.A.,Peru,70.0,3.0,"B,S,C",3.5
+2024,Arete,U.S.A.,Bolivia,70.0,2.0,"B,S",4.0
+2028,Arete,U.S.A.,Haiti,70.0,2.0,"B,S",4.0
+2068,Arete,U.S.A.,Trinidad,70.0,2.0,"B,S",3.0
+2254,Arete,U.S.A.,Colombia,70.0,2.0,"B,S",4.0
+2450,Arete,U.S.A.,India,70.0,3.0,"B,S,C",3.0
+2330,Arete,U.S.A.,India,70.0,3.0,"B,S,C",3.25
+2166,Argencove,Nicaragua,Nicaragua,70.0,2.0,"B,S",3.0
+2162,Argencove,Nicaragua,Nicaragua,70.0,2.0,"B,S",3.25
+2162,Argencove,Nicaragua,Nicaragua,70.0,2.0,"B,S",3.5
+2162,Argencove,Nicaragua,Nicaragua,70.0,2.0,"B,S",3.5
+300,Artisan du Chocolat,U.K.,Congo,72.0,3.0,"B,S,C",3.75
+363,Artisan du Chocolat,U.K.,Brazil,72.0,3.0,"B,S,C",1.75
+355,Artisan du Chocolat,U.K.,Venezuela,75.0,3.0,"B,S,C",2.5
+355,Artisan du Chocolat,U.K.,Indonesia,72.0,3.0,"B,S,C",2.75
+363,Artisan du Chocolat,U.K.,Madagascar,80.0,3.0,"B,S,C",3.0
+363,Artisan du Chocolat,U.K.,Peru,75.0,3.0,"B,S,C",3.0
+363,Artisan du Chocolat,U.K.,Dominican Republic,72.0,3.0,"B,S,C",3.25
+486,Artisan du Chocolat,U.K.,Venezuela,100.0,,,1.75
+600,Artisan du Chocolat,U.K.,Costa Rica,72.0,3.0,"B,S,C",3.25
+600,Artisan du Chocolat,U.K.,Vietnam,72.0,3.0,"B,S,C",3.25
+600,Artisan du Chocolat,U.K.,Indonesia,72.0,3.0,"B,S,C",3.5
+531,Artisan du Chocolat,U.K.,Jamaica,72.0,3.0,"B,S,C",3.75
+745,Artisan du Chocolat,U.K.,Panama,72.0,3.0,"B,S,C",2.75
+729,Artisan du Chocolat,U.K.,Haiti,72.0,3.0,"B,S,C",4.0
+947,Artisan du Chocolat,U.K.,Colombia,72.0,3.0,"B,S,C",3.75
+1193,Artisan du Chocolat,U.K.,Trinidad,72.0,3.0,"B,S,C",3.25
+1181,Artisan du Chocolat (Casa Luker),U.K.,Colombia,72.0,4.0,"B,S,C,L",2.75
+2562,Aruntam,Italy,India,72.0,4.0,"B,S,C,L",3.25
+2562,Aruntam,Italy,Madagascar,72.0,4.0,"B,S,C,L",3.25
+2566,Aruntam,Italy,Tanzania,72.0,4.0,"B,S,C,L",3.5
+141,Askinosie,U.S.A.,Mexico,75.0,2.0,"B,S",2.5
+175,Askinosie,U.S.A.,Ecuador,70.0,2.0,"B,S",3.0
+331,Askinosie,U.S.A.,Philippines,77.0,2.0,"B,S",3.75
+647,Askinosie,U.S.A.,Tanzania,72.0,2.0,"B,S",3.75
+661,Askinosie,U.S.A.,Honduras,70.0,2.0,"B,S",3.75
+1780,Askinosie,U.S.A.,Tanzania,68.0,3.0,"B,S,C",3.75
+2434,Atypic,Australia,Solomon Islands,70.0,4.0,"B,S,C,L",3.0
+2056,Auro,Philippines,Philippines,77.0,4.0,"B,S,V,L",2.75
+2056,Auro,Philippines,Philippines,70.0,3.0,"B,S,C",3.0
+2056,Auro,Philippines,Philippines,70.0,3.0,"B,S,C",3.0
+2056,Auro,Philippines,Philippines,70.0,3.0,"B,S,C",3.5
+2672,Avanaa,Canada,Colombia,70.0,2.0,"B,S",2.5
+2672,Avanaa,Canada,Dominican Republic,70.0,2.0,"B,S",3.0
+999,Bahen & Co.,Australia,Brazil,70.0,2.0,"B,S",2.5
+999,Bahen & Co.,Australia,Blend,70.0,2.0,"B,S",2.5
+995,Bahen & Co.,Australia,Madagascar,70.0,2.0,"B,S",3.0
+1474,Bahen & Co.,Australia,Blend,80.0,2.0,"B,S",3.25
+1474,Bahen & Co.,Australia,Papua New Guinea,70.0,2.0,"B,S",3.5
+2146,Baiani,Brazil,Brazil,70.0,2.0,"B,S",3.0
+1454,Bakau,Peru,Peru,70.0,3.0,"B,S,C",2.75
+1454,Bakau,Peru,Peru,70.0,3.0,"B,S,C",3.5
+2290,Bankston,U.S.A.,Belize,72.0,3.0,"B,S,C",2.5
+2294,Bankston,U.S.A.,Uganda,82.0,3.0,"B,S,C",2.75
+2294,Bankston,U.S.A.,Tanzania,72.0,3.0,"B,S,C",3.25
+983,Bar Au Chocolat,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.25
+983,Bar Au Chocolat,U.S.A.,Mexico,70.0,2.0,"B,S",3.5
+983,Bar Au Chocolat,U.S.A.,Madagascar,70.0,2.0,"B,S",3.75
+1295,Bar Au Chocolat,U.S.A.,Peru,70.0,2.0,"B,S",4.0
+1554,Bar Au Chocolat,U.S.A.,Brazil,70.0,2.0,"B,S",3.5
+1980,Bar Au Chocolat,U.S.A.,Costa Rica,72.0,2.0,"B,S",3.5
+1980,Bar Au Chocolat,U.S.A.,Trinidad,80.0,2.0,"B,S",3.5
+955,Baravelli's,Wales,Costa Rica,80.0,4.0,"B,S,C,V",2.75
+1880,Batch,U.S.A.,Ecuador,65.0,3.0,"B,S,C",3.25
+1840,Batch,U.S.A.,Dominican Republic,65.0,3.0,"B,S,C",3.5
+1868,Batch,U.S.A.,Brazil,70.0,3.0,"B,S,C",3.75
+2374,Bean,U.K.,Peru,70.0,4.0,"B,S,C,V",2.25
+1948,Beau Cacao,U.K.,Malaysia,73.0,3.0,"B,S,C",3.0
+1948,Beau Cacao,U.K.,Malaysia,72.0,3.0,"B,S,C",3.25
+1784,Beehive,U.S.A.,Brazil,80.0,3.0,"B,S,C",2.75
+1784,Beehive,U.S.A.,Dominican Republic,70.0,3.0,"B,S,C",2.75
+1784,Beehive,U.S.A.,Ecuador,70.0,3.0,"B,S,C",2.75
+1788,Beehive,U.S.A.,Ecuador,90.0,3.0,"B,S,C",2.75
+586,Belcolade,Belgium,Costa Rica,64.0,4.0,"B,S,C,L",2.75
+586,Belcolade,Belgium,Papua New Guinea,64.0,4.0,"B,S,C,L",2.75
+586,Belcolade,Belgium,Peru,64.0,4.0,"B,S,C,L",2.75
+586,Belcolade,Belgium,Ecuador,71.0,4.0,"B,S,C,L",3.5
+1804,Bellflower,U.S.A.,Bolivia,70.0,3.0,"B,S,C",3.25
+1800,Bellflower,U.S.A.,Tanzania,70.0,3.0,"B,S,C",3.5
+1864,Bellflower,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.5
+2190,Belvie,Vietnam,Vietnam,75.0,3.0,"B,S,C",3.25
+2648,Belvie,Vietnam,Vietnam,70.0,3.0,"B,S,C",3.75
+1768,Belyzium,Germany,Belize,83.0,3.0,"B,S,C",2.75
+1768,Belyzium,Germany,Belize,78.0,3.0,"B,S,C",3.0
+1768,Belyzium,Germany,Belize,83.0,3.0,"B,S,C",3.5
+2246,Benns,Singapore,Vietnam,72.0,4.0,"B,S,C,L",3.0
+2246,Benns,Singapore,India,72.0,4.0,"B,S,C,L",3.0
+2246,Benns,Singapore,Malaysia,72.0,4.0,"B,S,C,L",3.0
+773,Benoit Nihant,Belgium,Madagascar,72.0,3.0,"B,S,C",3.75
+757,Benoit Nihant,Belgium,Indonesia,72.0,3.0,"B,S,C",4.0
+1141,Benoit Nihant,Belgium,Cuba,74.0,3.0,"B,S,C",3.5
+1141,Benoit Nihant,Belgium,Venezuela,74.0,3.0,"B,S,C",3.5
+1141,Benoit Nihant,Belgium,Venezuela,74.0,3.0,"B,S,C",3.5
+1141,Benoit Nihant,Belgium,Ecuador,73.0,3.0,"B,S,C",4.0
+797,Bernachon,France,Blend,55.0,5.0,"B,S,C,V,L",2.75
+508,Beschle (Felchlin),Switzerland,Venezuela,70.0,3.0,"B,S,C",3.25
+508,Beschle (Felchlin),Switzerland,Venezuela,74.0,3.0,"B,S,C",3.25
+508,Beschle (Felchlin),Switzerland,Indonesia,64.0,3.0,"B,S,C",3.5
+508,Beschle (Felchlin),Switzerland,Venezuela,72.0,3.0,"B,S,C",3.5
+636,Beschle (Felchlin),Switzerland,Madagascar,64.0,3.0,"B,S,C",3.0
+636,Beschle (Felchlin),Switzerland,Venezuela,88.0,3.0,"B,S,C",3.0
+636,Beschle (Felchlin),Switzerland,Venezuela,72.0,3.0,"B,S,C",3.5
+636,Beschle (Felchlin),Switzerland,Ecuador,72.0,3.0,"B,S,C",4.0
+1482,Bisou,U.S.A.,Nicaragua,76.0,2.0,"B,S",2.5
+1486,Bisou,U.S.A.,Costa Rica,76.0,2.0,"B,S",2.5
+1486,Bisou,U.S.A.,Costa Rica,78.0,4.0,"B,S,C,V",2.5
+1486,Bisou,U.S.A.,Belize,86.0,4.0,"B,S,C,V",3.25
+2088,Bitacora,Venezuela,Venezuela,70.0,4.0,"B,S,C,L",3.0
+2088,Bitacora,Venezuela,Venezuela,70.0,4.0,"B,S,C,L",3.0
+2084,Bitacora,Venezuela,Venezuela,70.0,4.0,"B,S,C,L",3.5
+233,Bittersweet Origins,U.S.A.,Madagascar,71.0,2.0,"B,S",3.0
+256,Bittersweet Origins,U.S.A.,Ghana,70.0,2.0,"B,S",3.0
+233,Bittersweet Origins,U.S.A.,Panama,75.0,2.0,"B,S",3.5
+233,Bittersweet Origins,U.S.A.,Dominican Republic,68.0,2.0,"B,S",3.75
+414,Bittersweet Origins,U.S.A.,Dominican Republic,75.0,2.0,"B,S",3.0
+423,Bittersweet Origins,U.S.A.,Madagascar,75.0,2.0,"B,S",3.25
+414,Bittersweet Origins,U.S.A.,Dominican Republic,65.0,2.0,"B,S",3.5
+431,Bittersweet Origins,U.S.A.,Madagascar,65.0,2.0,"B,S",3.5
+558,Bittersweet Origins,U.S.A.,Indonesia,65.0,2.0,"B,S",2.75
+565,Bittersweet Origins,U.S.A.,Madagascar,70.0,2.0,"B,S",3.0
+565,Bittersweet Origins,U.S.A.,Venezuela,78.0,2.0,"B,S",3.0
+478,Bittersweet Origins,U.S.A.,Indonesia,75.0,2.0,"B,S",3.25
+502,Bittersweet Origins,U.S.A.,Blend,70.0,2.0,"B,S",3.75
+963,Bittersweet Origins,U.S.A.,Ghana,72.0,3.0,"B,S,C",3.5
+2108,Bixby,U.S.A.,Haiti,70.0,2.0,"B,S",3.0
+2114,Bixby,U.S.A.,Guatemala,70.0,2.0,"B,S",3.0
+2114,Bixby,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.25
+2422,Bixby,U.S.A.,Belize,70.0,2.0,"B,S",2.75
+256,Black Mountain,U.S.A.,Dominican Republic,70.0,3.0,"B,S,C",2.75
+256,Black Mountain,U.S.A.,Venezuela,70.0,3.0,"B,S,C",2.75
+256,Black Mountain,U.S.A.,Nicaragua,70.0,3.0,"B,S,C",3.0
+2574,Black Mountain,U.S.A.,Dominican Republic,70.0,4.0,"B,S,C,L",3.75
+1331,Black River (A. Morin),U.K.,Jamaica,70.0,4.0,"B,S,C,L",2.75
+2590,Black Sheep,U.S.A.,Colombia,72.0,3.0,"B,S,C",3.25
+2590,Black Sheep,U.S.A.,Belize,72.0,3.0,"B,S,C",3.25
+322,Blanxart,Spain,Blend,72.0,4.0,"B,S,C,V",2.75
+1046,Blanxart,Spain,Congo,82.0,4.0,"B,S,C,V",3.5
+911,Blue Bandana,U.S.A.,Guatemala,70.0,3.0,"B,S,C",3.5
+911,Blue Bandana,U.S.A.,Madagascar,70.0,3.0,"B,S,C",3.75
+1752,Blue Bandana,U.S.A.,Guatemala,75.0,2.0,"B,S",2.75
+1756,Blue Bandana,U.S.A.,Dominican Republic,75.0,2.0,"B,S",3.0
+1740,Blue Bandana,U.S.A.,Madagascar,82.0,2.0,"B,S",3.5
+1752,Blue Bandana,U.S.A.,Tanzania,75.0,2.0,"B,S",3.5
+1996,Boho,U.S.A.,Belize,70.0,3.0,"B,S,C",2.75
+2290,Bonaterra,Malaysia,Malaysia,68.0,2.0,"B,S",2.5
+2290,Bonaterra,Malaysia,Malaysia,72.0,2.0,"B,S",2.75
+2290,Bonaterra,Malaysia,Malaysia,74.0,2.0,"B,S",3.25
+81,Bonnat,France,Blend,100.0,,,1.5
+81,Bonnat,France,Sri Lanka,75.0,3.0,"B,S,C",3.0
+24,Bonnat,France,Blend,75.0,3.0,"B,S,C",3.75
+32,Bonnat,France,Venezuela,75.0,3.0,"B,S,C",3.75
+75,Bonnat,France,Madagascar,75.0,3.0,"B,S,C",3.75
+48,Bonnat,France,Venezuela,75.0,3.0,"B,S,C",4.0
+81,Bonnat,France,Venezuela,75.0,3.0,"B,S,C",4.0
+123,Bonnat,France,Ecuador,75.0,3.0,"B,S,C",2.5
+199,Bonnat,France,Venezuela,75.0,3.0,"B,S,C",4.0
+336,Bonnat,France,Peru,75.0,3.0,"B,S,C",2.75
+331,Bonnat,France,Ivory Coast,75.0,3.0,"B,S,C",3.0
+336,Bonnat,France,Mexico,75.0,3.0,"B,S,C",3.0
+395,Bonnat,France,Mexico,75.0,3.0,"B,S,C",3.0
+761,Bonnat,France,Jamaica,75.0,3.0,"B,S,C",3.25
+629,Bonnat,France,Cuba,75.0,3.0,"B,S,C",3.5
+629,Bonnat,France,Peru,75.0,3.0,"B,S,C",3.5
+629,Bonnat,France,Peru,75.0,3.0,"B,S,C",3.5
+672,Bonnat,France,Brazil,75.0,3.0,"B,S,C",3.5
+629,Bonnat,France,Brazil,75.0,3.0,"B,S,C",3.75
+629,Bonnat,France,Haiti,75.0,3.0,"B,S,C",4.0
+629,Bonnat,France,Madagascar,75.0,3.0,"B,S,C",4.0
+1042,Bonnat,France,Gabon,75.0,3.0,"B,S,C",3.25
+1038,Bonnat,France,Brazil,75.0,3.0,"B,S,C",3.5
+1418,Bonnat,France,Dominican Republic,75.0,3.0,"B,S,C",3.25
+1418,Bonnat,France,Blend,65.0,3.0,"B,S,C",3.75
+1339,Bonnat,France,Brazil,75.0,3.0,"B,S,C",4.0
+1912,Bonnat,France,Mexico,75.0,3.0,"B,S,C",3.5
+2246,Bonnat,France,Peru,75.0,3.0,"B,S,C",4.0
+2250,Bonnat,France,Blend,75.0,3.0,"B,S,C",4.0
+2554,Bonnat,France,Nicaragua,75.0,3.0,"B,S,C",3.75
+341,Bouga Cacao (Tulicorp),Ecuador,Ecuador,100.0,,,1.5
+316,Bouga Cacao (Tulicorp),Ecuador,Ecuador,77.0,2.0,"B,S",3.25
+1267,Bowler Man,U.S.A.,Belize,70.0,,,2.75
+1271,Bowler Man,U.S.A.,Dominican Republic,70.0,,,2.75
+2254,Brasstown,U.S.A.,Ecuador,75.0,3.0,"B,S,C",3.5
+2194,Brasstown,U.S.A.,Peru,70.0,3.0,"B,S,C",3.75
+2096,Brasstown,U.S.A.,Bolivia,70.0,3.0,"B,S,C",4.0
+2542,Brasstown,U.S.A.,Tanzania,62.0,3.0,"B,S,C",3.0
+1125,Brasstown aka It's Chocolate,U.S.A.,Dominican Republic,72.0,5.0,"B,S,C,V,L",3.0
+1125,Brasstown aka It's Chocolate,U.S.A.,Ecuador,70.0,5.0,"B,S,C,V,L",3.25
+1129,Brasstown aka It's Chocolate,U.S.A.,Ghana,75.0,5.0,"B,S,C,V,L",3.5
+1129,Brasstown aka It's Chocolate,U.S.A.,Venezuela,85.0,5.0,"B,S,C,V,L",3.5
+1255,Brasstown aka It's Chocolate,U.S.A.,Belize,70.0,3.0,"B,S,C",3.75
+1355,Brasstown aka It's Chocolate,U.S.A.,Venezuela,70.0,3.0,"B,S,C",4.0
+1462,Brasstown aka It's Chocolate,U.S.A.,Dominican Republic,68.0,3.0,"B,S,C",3.75
+1868,Brasstown aka It's Chocolate,U.S.A.,Venezuela,70.0,3.0,"B,S,C",3.5
+1868,Brasstown aka It's Chocolate,U.S.A.,Nicaragua,70.0,3.0,"B,S,C",3.75
+1980,Brasstown aka It's Chocolate,U.S.A.,Dominican Republic,70.0,3.0,"B,S,C",3.25
+1984,Brasstown aka It's Chocolate,U.S.A.,Ecuador,75.0,3.0,"B,S,C",3.75
+1518,Brazen,U.S.A.,Madagascar,80.0,3.0,"B,S,C",2.75
+1514,Brazen,U.S.A.,Dominican Republic,60.0,3.0,"B,S,C",3.0
+1514,Brazen,U.S.A.,Dominican Republic,80.0,3.0,"B,S,C",3.25
+1518,Brazen,U.S.A.,Belize,80.0,3.0,"B,S,C",3.25
+1518,Brazen,U.S.A.,Madagascar,60.0,3.0,"B,S,C",3.25
+1514,Brazen,U.S.A.,Guatemala,70.0,2.0,"B,S",3.5
+1149,Breeze Mill,U.S.A.,Jamaica,70.0,4.0,"B,S,C,V",3.0
+1235,Bright,Australia,Trinidad,68.0,3.0,"B,S,C",2.75
+1231,Bright,Australia,Madagascar,72.0,3.0,"B,S,C",3.0
+1231,Bright,Australia,Dominican Republic,70.0,3.0,"B,S,C",3.5
+1231,Bright,Australia,Ecuador,72.0,3.0,"B,S,C",3.5
+1638,Britarev,Russia,Ecuador,70.0,2.0,"B,S",3.25
+1181,Bronx Grrl Chocolate,U.S.A.,Dominican Republic,68.0,3.0,"B,S,C",2.75
+2052,Bullion,U.K.,Bolivia,70.0,3.0,"B,S,C",2.5
+2052,Bullion,U.K.,Guatemala,70.0,3.0,"B,S,C",3.0
+1323,Burnt Fork Bend,U.S.A.,Ecuador,60.0,3.0,"B,S,C",2.5
+1299,Burnt Fork Bend,U.S.A.,Trinidad,72.0,3.0,"B,S,C",3.25
+1303,Burnt Fork Bend,U.S.A.,Belize,72.0,3.0,"B,S,C",3.25
+1303,Burnt Fork Bend,U.S.A.,Blend,72.0,3.0,"B,S,C",3.25
+1299,Burnt Fork Bend,U.S.A.,Ecuador,72.0,3.0,"B,S,C",3.5
+2314,By Cacao,South Korea,Ecuador,70.0,2.0,"B,S",3.0
+2274,Cacai Cacao,Taiwan,Taiwan,70.0,2.0,"B,S*",3.25
+2274,Cacai Cacao,Taiwan,Philippines,70.0,2.0,"B,S*",3.5
+2330,Cacao 70,Canada,Guatemala,70.0,4.0,"B,S,C,L",3.0
+2266,Cacao 70,Canada,Guatemala,70.0,4.0,"B,S,C,L",3.5
+2266,Cacao 70,Canada,Bolivia,70.0,4.0,"B,S,C,L",3.75
+1606,Cacao Arabuco,Puerto Rico,Puerto Rico,70.0,2.0,"B,S",2.5
+600,Cacao Atlanta,U.S.A.,Venezuela,75.0,2.0,"B,S",2.25
+502,Cacao Atlanta,U.S.A.,Dominican Republic,75.0,2.0,"B,S",2.5
+502,Cacao Atlanta,U.S.A.,Dominican Republic,75.0,2.0,"B,S",2.75
+1215,Cacao Atlanta,U.S.A.,Peru,75.0,2.0,"B,S",2.5
+141,Cacao Barry,France,Venezuela,72.0,5.0,"B,S,C,V,L",2.0
+147,Cacao Barry,France,Mexico,66.0,5.0,"B,S,C,V,L",3.0
+300,Cacao Barry,France,Tanzania,75.0,5.0,"B,S,C,V,L",2.0
+586,Cacao Barry,France,Dominican Republic,70.0,5.0,"B,S,C,V,L",3.0
+1716,Cacao Barry,France,Haiti,65.0,5.0,"B,S,C,V,L",3.5
+2226,Cacao Betulia,Switzerland,Colombia,72.0,2.0,"B,S",2.5
+2230,Cacao Betulia,Switzerland,Colombia,72.0,2.0,"B,S",3.0
+2226,Cacao Betulia,Switzerland,Colombia,72.0,2.0,"B,S",3.75
+1391,Cacao de Origen,Venezuela,Venezuela,75.0,2.0,"B,S",2.5
+1391,Cacao de Origen,Venezuela,Venezuela,74.0,2.0,"B,S",3.25
+1391,Cacao de Origen,Venezuela,Venezuela,75.0,2.0,"B,S",3.5
+1395,Cacao de Origen,Venezuela,Venezuela,70.0,2.0,"B,S",3.75
+1668,Cacao de Origen,Venezuela,Venezuela,74.0,2.0,"B,S",3.25
+1692,Cacao de Origen,Venezuela,Venezuela,75.0,2.0,"B,S",3.25
+1688,Cacao de Origen,Venezuela,Venezuela,77.0,2.0,"B,S",3.5
+2238,Cacao de Origen,Venezuela,Venezuela,75.0,2.0,"B,S",2.75
+2278,Cacao de Origen,Venezuela,Venezuela,75.0,2.0,"B,S",2.5
+2278,Cacao de Origen,Venezuela,Venezuela,70.0,2.0,"B,S",3.0
+2076,Cacao Gonzales,U.S.A.,Venezuela,70.0,2.0,"B,S",3.0
+1434,Cacao Hunters,Colombia,Colombia,69.0,4.0,"B,S,C,L",2.75
+1434,Cacao Hunters,Colombia,Colombia,70.0,4.0,"B,S,C,L",3.25
+1430,Cacao Hunters,Colombia,Colombia,64.0,4.0,"B,S,C,L",3.5
+1430,Cacao Hunters,Colombia,Colombia,70.0,4.0,"B,S,C,L",3.5
+1662,Cacao Hunters,Colombia,Colombia,72.0,3.0,"B,S,C",3.75
+1816,Cacao Hunters,Colombia,Colombia,71.0,3.0,"B,S,C",3.75
+1816,Cacao Hunters,Colombia,Colombia,74.0,3.0,"B,S,C",3.75
+1860,Cacao Market,U.S.A.,Honduras,70.0,4.0,"B,S,C,L",3.5
+641,Cacao Prieto,U.S.A.,Dominican Republic,72.0,2.0,"B,S",3.0
+647,Cacao Prieto,U.S.A.,Dominican Republic,65.0,2.0,"B,S",3.25
+641,Cacao Prieto,U.S.A.,Dominican Republic,66.0,2.0,"B,S",3.75
+991,Cacao Prieto,U.S.A.,Dominican Republic,72.0,2.0,"B,S",3.75
+336,Cacao Sampaka,Spain,Mexico,70.0,4.0,"B,S,C,L",4.0
+346,Cacao Sampaka,Spain,Mexico,70.0,4.0,"B,S,C,L",4.0
+537,Cacao Sampaka,Spain,Grenada,71.0,4.0,"B,S,C,L",3.25
+508,Cacao Sampaka,Spain,Madagascar,71.0,4.0,"B,S,C,L",3.5
+537,Cacao Sampaka,Spain,Venezuela,71.0,4.0,"B,S,C,L",3.5
+537,Cacao Sampaka,Spain,Venezuela,77.0,4.0,"B,S,C,L",3.5
+523,Cacao Sampaka,Spain,Ecuador,71.0,4.0,"B,S,C,L",3.75
+523,Cacao Sampaka,Spain,Papua New Guinea,71.0,4.0,"B,S,C,L",4.0
+1908,Cacao Sampaka,Spain,Congo,70.0,4.0,"B,S,C,L",3.5
+2510,Cacao Santa Fe (Art of Chocolate),U.S.A.,Dominican Republic,72.0,4.0,"B,S,C,V",2.75
+2510,Cacao Santa Fe (Art of Chocolate),U.S.A.,Peru,72.0,4.0,"B,S,C,V",2.75
+2510,Cacao Santa Fe (Art of Chocolate),U.S.A.,Ecuador,72.0,4.0,"B,S,C,V",3.0
+1684,Cacao Store,Japan,Madagascar,70.0,2.0,"B,S",3.0
+1684,Cacao Store,Japan,Peru,70.0,2.0,"B,S",3.25
+1684,Cacao Store,Japan,Vietnam,70.0,2.0,"B,S",3.5
+2084,Cacaodada,South Korea,Ghana,70.0,,,3.0
+2084,Cacaodada,South Korea,Dominican Republic,70.0,,,3.25
+2084,Cacaodada,South Korea,Ecuador,70.0,,,3.5
+2610,Cacaosuyo,Peru,Peru,70.0,2.0,"B,S",3.5
+2614,Cacaosuyo,Peru,Peru,70.0,2.0,"B,S",3.5
+2614,Cacaosuyo,Peru,Peru,80.0,2.0,"B,S",3.5
+2610,Cacaosuyo,Peru,Peru,70.0,2.0,"B,S",4.0
+259,Cacaoyere (Ecuatoriana),Ecuador,Ecuador,91.0,4.0,"B,S,C,L",1.5
+245,Cacaoyere (Ecuatoriana),Ecuador,Ecuador,82.0,4.0,"B,S,C,L",2.5
+237,Cacaoyere (Ecuatoriana),Ecuador,Ecuador,63.0,4.0,"B,S,C,L",3.5
+237,Cacaoyere (Ecuatoriana),Ecuador,Ecuador,71.0,4.0,"B,S,C,L",3.5
+141,Callebaut,Belgium,Ecuador,70.0,,,1.0
+296,Callebaut,Belgium,Grenada,60.0,,,2.75
+749,C-Amaro,Italy,Sao Tome,78.0,2.0,"B,S",2.25
+765,C-Amaro,Italy,Trinidad,70.0,2.0,"B,S",2.5
+809,C-Amaro,Italy,Venezuela,80.0,2.0,"B,S",3.0
+1185,C-Amaro,Italy,Ecuador,100.0,1.0,B,3.5
+1442,C-Amaro,Italy,Cuba,75.0,2.0,"B,S",2.5
+1442,C-Amaro,Italy,Dominican Republic,72.0,2.0,"B,S",3.0
+1442,C-Amaro,Italy,Blend,70.0,2.0,"B,S",3.5
+1804,Cao,U.S.A.,Venezuela,75.0,3.0,"B,S,C",2.5
+1804,Cao,U.S.A.,Tanzania,73.0,3.0,"B,S,C",2.75
+1804,Cao,U.S.A.,Venezuela,70.0,3.0,"B,S,C",3.0
+1808,Cao,U.S.A.,Bolivia,75.0,3.0,"B,S,C",3.0
+1808,Cao,U.S.A.,Brazil,70.0,3.0,"B,S,C",3.25
+2558,Caofiori,Colombia,Colombia,70.0,4.0,"B,S,C,L",3.25
+2558,Caofiori,Colombia,Colombia,70.0,4.0,"B,S,C,L",3.25
+2558,Caofiori,Colombia,Colombia,70.0,4.0,"B,S,C,L",3.5
+2558,Caofiori,Colombia,Colombia,70.0,4.0,"B,S,C,L",3.75
+237,Caoni (Tulicorp),Ecuador,Ecuador,77.0,4.0,"B,S,C,L",2.0
+237,Caoni (Tulicorp),Ecuador,Ecuador,77.0,4.0,"B,S,C,L",2.5
+245,Caoni (Tulicorp),Ecuador,Ecuador,77.0,4.0,"B,S,C,L",2.75
+266,Caoni (Tulicorp),Ecuador,Ecuador,55.0,4.0,"B,S,C,L",3.0
+269,Caoni (Tulicorp),Ecuador,Ecuador,55.0,4.0,"B,S,C,L",3.25
+269,Caoni (Tulicorp),Ecuador,Ecuador,55.0,4.0,"B,S,C,L",3.5
+1263,Captain Pembleton,New Zealand,Papua New Guinea,70.0,3.0,"B,S,C",3.5
+1263,Captain Pembleton,New Zealand,Papua New Guinea,70.0,3.0,"B,S,C",3.75
+2626,CAR Artisan,U.S.A.,Nicaragua,70.0,3.0,"B,S,C",3.0
+2626,CAR Artisan,U.S.A.,Tanzania,70.0,3.0,"B,S,C",3.25
+2630,CAR Artisan,U.S.A.,Peru,70.0,3.0,"B,S,C",3.25
+2630,CAR Artisan,U.S.A.,Mexico,70.0,3.0,"B,S,C",3.25
+845,Caribeans,Costa Rica,Costa Rica,80.0,2.0,"B,S",2.75
+841,Caribeans,Costa Rica,Costa Rica,72.0,2.0,"B,S",3.0
+1586,Caribeans,Costa Rica,Costa Rica,72.0,2.0,"B,S",3.25
+1582,Caribeans,Costa Rica,Guatemala,72.0,3.0,"B,S,C",3.5
+1586,Caribeans,Costa Rica,Costa Rica,72.0,2.0,"B,S",3.5
+1884,Carlotta Chocolat,Colombia,Colombia,65.0,3.0,"B,S,C",3.0
+1888,Carlotta Chocolat,Colombia,Colombia,65.0,3.0,"B,S,C",3.25
+1888,Carlotta Chocolat,Colombia,Colombia,65.0,3.0,"B,S,C",3.25
+1888,Carlotta Chocolat,Colombia,Colombia,65.0,3.0,"B,S,C",3.5
+1888,Carlotta Chocolat,Colombia,Colombia,65.0,3.0,"B,S,C",3.5
+2154,Casa,U.S.A.,Blend,75.0,2.0,"B,S",2.0
+2394,Casa Lasevicius,Brazil,Brazil,71.0,2.0,"B,S",3.0
+2402,Casa Lasevicius,Brazil,Brazil,65.0,2.0,"B,S",3.25
+1105,Castronovo,U.S.A.,Peru,70.0,3.0,"B,S,C",2.5
+1153,Castronovo,U.S.A.,Peru,70.0,3.0,"B,S,C",2.75
+1101,Castronovo,U.S.A.,Bolivia,70.0,3.0,"B,S,C",3.0
+1153,Castronovo,U.S.A.,Venezuela,72.0,3.0,"B,S,C",3.0
+1105,Castronovo,U.S.A.,Venezuela,70.0,3.0,"B,S,C",3.25
+1109,Castronovo,U.S.A.,Nicaragua,72.0,3.0,"B,S,C",3.25
+1101,Castronovo,U.S.A.,Dominican Republic,73.0,2.0,"B,S",3.5
+1407,Castronovo,U.S.A.,Dominican Republic,70.0,3.0,"B,S,C",2.75
+1347,Castronovo,U.S.A.,Colombia,72.0,3.0,"B,S,C",3.5
+1371,Castronovo,U.S.A.,Colombia,76.0,3.0,"B,S,C",3.5
+1570,Castronovo,U.S.A.,Honduras,72.0,3.0,"B,S,C",3.5
+1574,Castronovo,U.S.A.,Venezuela,72.0,3.0,"B,S,C",3.5
+1570,Castronovo,U.S.A.,Dominican Republic,70.0,3.0,"B,S,C",3.75
+1724,Castronovo,U.S.A.,Belize,72.0,3.0,"B,S,C",4.0
+1956,Castronovo,U.S.A.,Venezuela,70.0,2.0,"B,S",3.25
+2354,Castronovo,U.S.A.,Puerto Rico,70.0,3.0,"B,S,C",3.5
+2314,Castronovo,U.S.A.,Mexico,70.0,3.0,"B,S,C",3.75
+2554,Castronovo,U.S.A.,Peru,70.0,3.0,"B,S,C",4.0
+2688,Castronovo,U.S.A.,Venezuela,72.0,3.0,"B,S,C",4.0
+1247,Cello,U.S.A.,Ecuador,70.0,3.0,"B,S,C",2.5
+1247,Cello,U.S.A.,Peru,70.0,3.0,"B,S,C",2.75
+1251,Cello,U.S.A.,Venezuela,70.0,3.0,"B,S,C",2.75
+1251,Cello,U.S.A.,Bolivia,70.0,3.0,"B,S,C",3.0
+404,Cemoi,France,Ecuador,72.0,,,2.75
+1426,Chaleur B,Canada,Uganda,70.0,3.0,"B,S,C",2.75
+2672,Chaleur B,Canada,Madagascar,70.0,3.0,"B,S,C",3.0
+2676,Chaleur B,Canada,Belize,70.0,3.0,"B,S,C",3.0
+2676,Chaleur B,Canada,Peru,72.0,3.0,"B,S,C",3.25
+2028,Chapon,France,Bolivia,74.0,2.0,"B,S",3.0
+2238,Chapon,France,Venezuela,68.0,3.0,"B,S,C",3.5
+1900,Charm School,U.S.A.,Belize,70.0,3.0,"B,S,C",3.25
+252,Chchukululu (Tulicorp),Ecuador,Ecuador,75.0,3.0,"B,S,C",3.0
+486,Chchukululu (Tulicorp),Ecuador,Ecuador,55.0,3.0,"B,S,C",2.75
+1235,Chequessett,U.S.A.,Costa Rica,70.0,3.0,"B,S,C",3.5
+2202,Chequessett,U.S.A.,Peru,72.0,3.0,"B,S,C",3.0
+2422,Chequessett,U.S.A.,Ecuador,72.0,3.0,"B,S,C",3.5
+2668,Chequessett,U.S.A.,Colombia,83.0,3.0,"B,S,C",3.25
+2668,Chequessett,U.S.A.,Dominican Republic,69.0,3.0,"B,S,C",3.25
+672,Chloe Chocolat,France,Blend,70.0,,,3.5
+1454,Chocablog,U.K.,Ecuador,70.0,3.0,"B,S,C",3.25
+1407,Choco Del Sol,Germany,Belize,75.0,2.0,"B,S",3.0
+1407,Choco Del Sol,Germany,Belize,82.0,2.0,"B,S",3.25
+1696,Choco Dong,South Korea,Vietnam,70.0,2.0,"B,S",2.75
+1696,Choco Dong,South Korea,Malaysia,70.0,2.0,"B,S",3.5
+2298,Chococard (Lapos),Hungary,Nicaragua,72.0,3.0,"B,S,C",2.5
+2298,Chococard (Lapos),Hungary,Dominican Republic,71.0,3.0,"B,S,C",3.25
+1482,Chocolarder,U.K.,Peru,65.0,2.0,"B,S",2.5
+1514,Chocolarder,U.K.,Dominican Republic,80.0,2.0,"B,S",2.5
+1482,Chocolarder,U.K.,Peru,65.0,2.0,"B,S",2.75
+2442,Chocolarder,U.K.,Madagascar,74.0,2.0,"B,S",3.0
+647,Chocola'te,U.S.A.,Madagascar,70.0,2.0,"B,S",3.75
+647,Chocola'te,U.S.A.,Venezuela,68.0,2.0,"B,S",3.75
+1772,Chocolate Alchemist-Philly,U.S.A.,Peru,90.0,2.0,"B,S*",2.5
+1772,Chocolate Alchemist-Philly,U.S.A.,Blend,80.0,2.0,"B,S*",2.5
+1760,Chocolate Con Amor,U.S.A.,Bolivia,70.0,2.0,"B,S",2.5
+1760,Chocolate Con Amor,U.S.A.,Uganda,70.0,2.0,"B,S",2.75
+1768,Chocolate Con Amor,U.S.A.,Nicaragua,80.0,2.0,"B,S",2.75
+1764,Chocolate Con Amor,U.S.A.,Dominican Republic,60.0,2.0,"B,S",3.0
+1764,Chocolate Con Amor,U.S.A.,Dominican Republic,75.0,2.0,"B,S",3.0
+1764,Chocolate Con Amor,U.S.A.,Venezuela,80.0,2.0,"B,S",3.0
+1764,Chocolate Con Amor,U.S.A.,Ecuador,70.0,2.0,"B,S",3.25
+1259,Chocolate Conspiracy,U.S.A.,Peru,74.0,3.0,"B,S*,C",2.75
+1530,Chocolate Makers,Amsterdam,Dominican Republic,75.0,3.0,"B,S,C",3.25
+1530,Chocolate Makers,Amsterdam,Congo,68.0,3.0,"B,S,C",3.5
+1530,Chocolate Makers,Amsterdam,Peru,80.0,3.0,"B,S,C",3.75
+919,Chocolate Tree,Scotland,Ecuador,82.0,3.0,"B,S,C",2.5
+919,Chocolate Tree,Scotland,Peru,68.0,3.0,"B,S,C",2.75
+919,Chocolate Tree,Scotland,Madagascar,72.0,3.0,"B,S,C",3.25
+1121,Chocolate Tree,Scotland,Peru,70.0,2.0,"B,S",3.75
+1582,Chocolate Tree,Scotland,Peru,69.0,3.0,"B,S,C",3.75
+1582,Chocolate Tree,Scotland,Venezuela,80.0,2.0,"B,S",3.75
+2700,Chocolate Tree,Scotland,Venezuela,70.0,3.0,"B,S,C",2.75
+2134,Chocolates by Josh (Box Chocolate),U.S.A.,Dominican Republic,72.0,3.0,"B,S,C",3.25
+2294,Chocolatoa,Belgium,India,70.0,3.0,"B,S,C",3.0
+1219,Chocolats Privilege,Canada,Mexico,70.0,4.0,"B,S,C,V",2.5
+2080,Chocolibrium,U.S.A.,India,63.0,3.0,"B,S,C",2.5
+2080,Chocolibrium,U.S.A.,Guatemala,76.0,2.0,"B,S",2.75
+2080,Chocolibrium,U.S.A.,Peru,70.0,2.0,"B,S",2.75
+1454,ChocoReko,Japan,Venezuela,77.0,,,3.0
+682,Chocosol,Canada,Mexico,65.0,,,3.25
+1832,Chocosol,Canada,Mexico,75.0,3.0,"B,S,C",3.25
+2594,Chocotenango,U.S.A.,Guatemala,70.0,2.0,"B,S",3.25
+2598,Chocotenango,U.S.A.,Dominican Republic,73.0,2.0,"B,S",3.25
+2594,Chocotenango,U.S.A.,Belize,70.0,2.0,"B,S",3.5
+117,Chocovic,Spain,Ecuador,71.0,4.0,"B,S,C,L",2.5
+117,Chocovic,Spain,Grenada,71.0,4.0,"B,S,C,L",2.5
+117,Chocovic,Spain,Blend,70.0,4.0,"B,S,C,L",3.0
+209,Chocovic,Spain,Venezuela,71.0,4.0,"B,S,C,L",3.5
+439,Chocovic,Spain,Blend,60.0,4.0,"B,S,C,L",3.25
+439,Chocovic,Spain,Blend,75.0,4.0,"B,S,C,L",3.25
+478,Chocovic,Spain,Mexico,71.0,4.0,"B,S,C,L",3.25
+478,Chocovic,Spain,Madagascar,71.0,4.0,"B,S,C,L",3.5
+1522,Chocovivo,U.S.A.,Mexico,65.0,2.0,"B,S",2.5
+1522,Chocovivo,U.S.A.,Mexico,75.0,2.0,"B,S",2.5
+377,Choklat,Canada,Venezuela,80.0,4.0,"B,S,C,V",2.5
+377,Choklat,Canada,Mexico,70.0,4.0,"B,S,C,V",2.75
+377,Choklat,Canada,Brazil,70.0,4.0,"B,S,C,V",3.0
+377,Choklat,Canada,Brazil,80.0,4.0,"B,S,C,V",3.0
+377,Choklat,Canada,Venezuela,70.0,4.0,"B,S,C,V",3.0
+2534,Chokola,U.S.A.,Guatemala,70.0,2.0,"B,S",3.5
+2514,Chokola,U.S.A.,Venezuela,75.0,2.0,"B,S",3.75
+2534,Chokola,U.S.A.,Belize,70.0,2.0,"B,S",3.75
+2514,Chokola,U.S.A.,Madagascar,67.0,2.0,"B,S",4.0
+2638,Chokola,U.S.A.,Tanzania,75.0,2.0,"B,S",3.5
+2638,Chokola,U.S.A.,Bolivia,75.0,2.0,"B,S",3.75
+1149,Chokolat Elot (Girard),Martinique,Martinique,42.0,4.0,"B,S,V,L",2.75
+2250,Christophe Toury,U.S.A.,Peru,70.0,2.0,"B,S",2.75
+2226,Christopher Elbow,U.S.A.,Peru,75.0,3.0,"B,S,C",3.75
+2314,Christopher Elbow,U.S.A.,Vietnam,72.0,3.0,"B,S,C",3.0
+2310,Christopher Elbow,U.S.A.,Costa Rica,70.0,3.0,"B,S,C",3.25
+2310,Christopher Elbow,U.S.A.,Ecuador,73.0,3.0,"B,S,C",3.5
+2310,Christopher Elbow,U.S.A.,Tanzania,72.0,3.0,"B,S,C",3.5
+2306,Christopher Elbow,U.S.A.,Dominican Republic,72.0,3.0,"B,S,C",3.75
+2310,Christopher Elbow,U.S.A.,Brazil,70.0,3.0,"B,S,C",4.0
+666,Christopher Morel (Felchlin),Canada,Peru,68.0,,,3.75
+445,Chuao Chocolatier,U.S.A.,Venezuela,61.0,5.0,"B,S,C,V,L",3.0
+486,Chuao Chocolatier (Pralus),U.S.A.,Venezuela,77.0,3.0,"B,S,C",2.75
+252,Claudio Corallo,Sao Tome,Blend,100.0,,,1.0
+209,Claudio Corallo,Sao Tome,Blend,80.0,3.0,"B,S,C",3.0
+227,Claudio Corallo,Sao Tome,Blend,75.0,3.0,"B,S,C",3.75
+470,Claudio Corallo,Sao Tome,Blend,73.5,2.0,"B,S",3.75
+2630,Cleveland Chocolate Company,U.S.A.,Dominican Republic,70.0,3.0,"B,S,C",3.5
+2630,Cleveland Chocolate Company,U.S.A.,Haiti,79.0,3.0,"B,S,C",3.5
+1486,Cloudforest,U.S.A.,Ecuador,73.0,2.0,"B,S",3.5
+2474,Coco,Canada,Peru,70.0,3.0,"B,S,C",3.5
+2402,Cocoa Carib,St. Lucia,St. Lucia,70.0,4.0,"B,S,C,V",2.25
+2606,Cocoa Forge,U.S.A.,Peru,68.0,3.0,"B,S,C",3.0
+2606,Cocoa Forge,U.S.A.,Madagascar,77.0,2.0,"B,S",3.25
+2606,Cocoa Forge,U.S.A.,Colombia,70.0,3.0,"B,S,C",3.25
+292,Compania de Chocolate (Salgado),Argentina,Venezuela,80.0,,,2.75
+296,Compania de Chocolate (Salgado),Argentina,Ecuador,88.0,,,2.75
+292,Compania de Chocolate (Salgado),Argentina,Bolivia,72.0,,,3.25
+292,Compania de Chocolate (Salgado),Argentina,Venezuela,70.0,,,3.75
+579,Compania de Chocolate (Salgado),Argentina,Venezuela,70.0,,,3.25
+1630,Condor,U.S.A.,Ecuador,76.0,2.0,"B,S",3.5
+1916,Confluence,U.S.A.,Vietnam,78.0,2.0,"B,S",2.75
+2688,Conjure,U.S.A.,Philippines,70.0,3.0,"B,S,C",2.5
+2688,Conjure,U.S.A.,Ivory Coast,70.0,3.0,"B,S,C",2.5
+2684,Conjure,U.S.A.,Peru,68.0,3.0,"B,S,C",3.25
+2688,Conjure,U.S.A.,Tanzania,75.0,3.0,"B,S,C",3.5
+196,Coppeneur,Germany,Madagascar,72.0,3.0,"B,S,C",3.0
+220,Coppeneur,Germany,Mexico,72.0,3.0,"B,S,C",3.0
+220,Coppeneur,Germany,Venezuela,72.0,3.0,"B,S,C",3.0
+341,Coppeneur,Germany,Peru,72.0,3.0,"B,S,C",3.0
+445,Coppeneur,Germany,Peru,62.0,3.0,"B,S,C",3.25
+451,Coppeneur,Germany,Venezuela,70.0,3.0,"B,S,C",3.5
+451,Coppeneur,Germany,Venezuela,70.0,3.0,"B,S,C",3.75
+558,Coppeneur,Germany,Ecuador,72.0,3.0,"B,S,C",2.5
+478,Coppeneur,Germany,Venezuela,70.0,3.0,"B,S,C",3.0
+558,Coppeneur,Germany,Trinidad,72.0,3.0,"B,S,C",3.0
+470,Coppeneur,Germany,Grenada,72.0,3.0,"B,S,C",3.25
+558,Coppeneur,Germany,Jamaica,72.0,3.0,"B,S,C",3.25
+558,Coppeneur,Germany,Venezuela,72.0,3.0,"B,S,C",3.25
+817,Coppeneur,Germany,Ecuador,100.0,,,1.5
+813,Coppeneur,Germany,Ghana,85.0,3.0,"B,S,C",3.5
+959,Coppeneur,Germany,Madagascar,70.0,3.0,"B,S,C",3.5
+821,Coppeneur,Germany,Blend,72.0,3.0,"B,S,C",3.75
+1169,Coppeneur,Germany,Ecuador,65.0,4.0,"B,S,C,L",3.25
+1984,Coppeneur,Germany,Ghana,75.0,3.0,"B,S,C",3.75
+48,Cote d' Or (Kraft),Belgium,Blend,70.0,,,1.0
+971,Cravve,Australia,Tanzania,75.0,3.0,"B,S,C",3.25
+975,Cravve,Australia,Brazil,65.0,3.0,"B,S,C",3.25
+975,Cravve,Australia,Fiji,67.0,3.0,"B,S,C",3.25
+975,Cravve,Australia,Vanuatu,64.0,3.0,"B,S,C",3.25
+975,Cravve,Australia,Papua New Guinea,75.0,3.0,"B,S,C",3.5
+1283,Cravve,Australia,Papua New Guinea,70.0,3.0,"B,S,C",2.5
+1335,Cravve,Australia,Vanuatu,83.0,3.0,"B,S,C",2.75
+1736,Creo,U.S.A.,Ecuador,85.0,3.0,"B,S,C",3.25
+1736,Creo,U.S.A.,Ecuador,73.0,3.0,"B,S,C",3.75
+2466,Crow and Moss,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.25
+2466,Crow and Moss,U.S.A.,Colombia,70.0,2.0,"B,S",3.25
+2502,Crow and Moss,U.S.A.,Ecuador,70.0,2.0,"B,S",3.25
+2466,Crow and Moss,U.S.A.,Honduras,70.0,2.0,"B,S",3.5
+2656,Crow and Moss,U.S.A.,India,70.0,2.0,"B,S",3.75
+2526,Cultura,U.S.A.,Guatemala,70.0,3.0,"B,S,C",3.25
+2522,Cultura,U.S.A.,Haiti,70.0,3.0,"B,S,C",3.5
+2522,Cultura,U.S.A.,Belize,75.0,3.0,"B,S,C",3.5
+2526,Cultura,U.S.A.,Mexico,70.0,3.0,"B,S,C",3.5
+2622,Cuna de Piedra,Mexico,Mexico,73.0,2.0,"B,S",3.75
+785,Daintree,Australia,Australia,70.0,5.0,"B,S,C,V,L",3.25
+1654,Daintree,Australia,Australia,70.0,3.0,"B,S,C",2.75
+1928,Dalloway,U.S.A.,Dominican Republic,72.0,2.0,"B,S",2.75
+1666,Damson,U.K.,Grenada,70.0,3.0,"B,S,C",2.25
+1666,Damson,U.K.,Nicaragua,70.0,3.0,"B,S,C",2.75
+1610,Damson,U.K.,Trinidad,70.0,3.0,"B,S,C",3.0
+1610,Damson,U.K.,Ecuador,70.0,3.0,"B,S,C",3.5
+2064,Damson,U.K.,Blend,65.0,4.0,"B,S,C,L",2.5
+2574,Dancing Lion,U.S.A.,Puerto Rico,68.0,4.0,"B,S,C,L",2.5
+2574,Dancing Lion,U.S.A.,India,72.0,4.0,"B,S,C,L",3.0
+2574,Dancing Lion,U.S.A.,Peru,72.0,4.0,"B,S,C,L",3.5
+805,Dandelion,U.S.A.,Costa Rica,70.0,2.0,"B,S",3.0
+805,Dandelion,U.S.A.,Colombia,70.0,2.0,"B,S",3.25
+915,Dandelion,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.75
+1026,Dandelion,U.S.A.,Venezuela,70.0,2.0,"B,S",2.75
+1026,Dandelion,U.S.A.,Venezuela,70.0,2.0,"B,S",3.25
+1085,Dandelion,U.S.A.,Venezuela,70.0,2.0,"B,S",3.5
+1153,Dandelion,U.S.A.,Papua New Guinea,70.0,2.0,"B,S",3.5
+1303,Dandelion,U.S.A.,Liberia,70.0,2.0,"B,S",2.75
+1219,Dandelion,U.S.A.,Belize,70.0,2.0,"B,S",3.5
+1295,Dandelion,U.S.A.,Ecuador,70.0,2.0,"B,S",3.5
+1387,Dandelion,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.75
+1446,Dandelion,U.S.A.,Belize,70.0,2.0,"B,S",3.0
+1816,Dandelion,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.75
+2024,Dandelion,U.S.A.,Costa Rica,70.0,2.0,"B,S",3.0
+2178,Dandelion,U.S.A.,Sierra Leone,70.0,2.0,"B,S",3.0
+2178,Dandelion,U.S.A.,Honduras,70.0,2.0,"B,S",3.25
+2178,Dandelion,U.S.A.,India,70.0,2.0,"B,S",3.5
+2386,Dandelion,U.S.A.,Vietnam,70.0,2.0,"B,S",3.5
+2602,Dandelion,U.S.A.,Guatemala,70.0,2.0,"B,S",2.75
+2602,Dandelion,U.S.A.,India,70.0,2.0,"B,S",2.75
+2550,Dandelion,U.S.A.,Peru,70.0,2.0,"B,S",3.25
+2602,Dandelion,U.S.A.,India,70.0,2.0,"B,S",3.25
+2546,Dandelion,U.S.A.,Tanzania,70.0,2.0,"B,S",3.5
+2550,Dandelion,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.5
+2546,Dandelion,U.S.A.,Brazil,70.0,2.0,"B,S",4.0
+654,Dandelion (aka Brower Ave),U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.25
+654,Dandelion (aka Brower Ave),U.S.A.,Madagascar,70.0,2.0,"B,S",3.25
+654,Dandelion (aka Brower Ave),U.S.A.,Tanzania,70.0,2.0,"B,S",3.25
+2550,Dandelion (Japan),U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.0
+423,Danta,Guatemala,Guatemala,75.0,4.0,"B,S,C,V",3.0
+423,Danta,Guatemala,Guatemala,60.0,4.0,"B,S,C,V",3.25
+661,Danta,Guatemala,Guatemala,60.0,4.0,"B,S,C,V",3.5
+987,Danta,Guatemala,Venezuela,75.0,4.0,"B,S,C,V",3.0
+991,Danta,Guatemala,Guatemala,70.0,2.0,"B,S",3.25
+987,Danta,Guatemala,Guatemala,70.0,2.0,"B,S",3.75
+987,Danta,Guatemala,Madagascar,70.0,2.0,"B,S",3.75
+987,Danta,Guatemala,Guatemala,70.0,2.0,"B,S",4.0
+1223,Danta,Guatemala,Guatemala,82.0,4.0,"B,S,C,V",3.25
+1920,DAR,U.S.A.,Venezuela,72.0,2.0,"B,S",2.75
+1920,DAR,U.S.A.,Vietnam,72.0,2.0,"B,S",3.0
+1920,DAR,U.S.A.,Blend,70.0,2.0,"B,S",3.25
+2342,Darcis,Belgium,Peru,72.0,4.0,"B,S,C,L",3.0
+2342,Darcis,Belgium,Vietnam,70.0,4.0,"B,S,C,L",3.25
+1550,Dark Forest,U.S.A.,Madagascar,70.0,3.0,"B,S,C",3.0
+1554,Dark Forest,U.S.A.,Tanzania,70.0,3.0,"B,S,C",3.0
+1550,Dark Forest,U.S.A.,Venezuela,70.0,3.0,"B,S,C",3.25
+1554,Dark Forest,U.S.A.,Ecuador,70.0,3.0,"B,S,C",3.25
+1708,Dark Forest,U.S.A.,Bolivia,75.0,3.0,"B,S,C",3.25
+907,Davis,U.S.A.,Blend,58.0,4.0,"B,S,C,L",3.25
+1093,Davis,U.S.A.,Ghana,70.0,4.0,"B,S,C,L",2.5
+1093,Davis,U.S.A.,Dominican Republic,70.0,4.0,"B,S,C,L",2.75
+1093,Davis,U.S.A.,Venezuela,70.0,4.0,"B,S,C,L",2.75
+1462,De Mendes,Brazil,Brazil,72.0,3.0,"B,S,C",3.5
+1462,De Mendes,Brazil,Brazil,65.0,3.0,"B,S,C",3.5
+1832,De Villiers,South Africa,Uganda,70.0,3.0,"B,S,C",2.5
+1832,De Villiers,South Africa,Madagascar,70.0,3.0,"B,S,C",3.0
+170,Dean and Deluca (Belcolade),U.S.A.,Madagascar,66.0,4.0,"B,S,C,V",2.5
+175,Dean and Deluca (Belcolade),U.S.A.,Costa Rica,64.0,4.0,"B,S,C,V",3.0
+175,Dean and Deluca (Belcolade),U.S.A.,Ecuador,71.0,4.0,"B,S,C,V",3.0
+175,Dean and Deluca (Belcolade),U.S.A.,Ghana,60.0,4.0,"B,S,C,V",3.0
+180,Dean and Deluca (Belcolade),U.S.A.,Papua New Guinea,64.0,4.0,"B,S,C,V",3.0
+180,Dean and Deluca (Belcolade),U.S.A.,Peru,64.0,4.0,"B,S,C,V",3.0
+263,Debauve & Gallais (Michel Cluizel),France,Venezuela,66.0,4.0,"B,S,C,V",3.75
+423,Debauve & Gallais (Michel Cluizel),France,Papua New Guinea,64.0,4.0,"B,S,C,V",3.0
+2222,Definite,Dominican Republic,Dominican Republic,70.0,2.0,"B,S",2.5
+2222,Definite,Dominican Republic,Dominican Republic,70.0,2.0,"B,S",2.5
+2222,Definite,Dominican Republic,Dominican Republic,80.0,2.0,"B,S",3.0
+1916,Desbarres,Canada,Tanzania,72.0,2.0,"B,S",2.5
+2422,Desbarres,Canada,Guatemala,72.0,2.0,"B,S",3.0
+166,DeVries,U.S.A.,Costa Rica,77.0,2.0,"B,S",3.5
+166,DeVries,U.S.A.,Dominican Republic,77.0,2.0,"B,S",3.5
+241,DeVries,U.S.A.,Bolivia,80.0,2.0,"B,S",2.75
+661,Dick Taylor,U.S.A.,Madagascar,80.0,2.0,"B,S",2.75
+682,Dick Taylor,U.S.A.,Venezuela,75.0,2.0,"B,S",2.75
+769,Dick Taylor,U.S.A.,Dominican Republic,74.0,2.0,"B,S",3.0
+769,Dick Taylor,U.S.A.,Ecuador,70.0,2.0,"B,S",3.25
+895,Dick Taylor,U.S.A.,Bolivia,75.0,2.0,"B,S",2.75
+1034,Dick Taylor,U.S.A.,Ecuador,70.0,2.0,"B,S",3.25
+1193,Dick Taylor,U.S.A.,Ecuador,76.0,2.0,"B,S",3.5
+1235,Dick Taylor,U.S.A.,Dominican Republic,74.0,2.0,"B,S",3.5
+1634,Dick Taylor,U.S.A.,Bolivia,70.0,2.0,"B,S",3.75
+1864,Dick Taylor,U.S.A.,Vietnam,78.0,2.0,"B,S",3.5
+1952,Dick Taylor,U.S.A.,Guatemala,70.0,2.0,"B,S",3.75
+1972,Dick Taylor,U.S.A.,Brazil,75.0,2.0,"B,S",3.75
+2016,Dick Taylor,U.S.A.,Solomon Islands,72.0,2.0,"B,S",4.0
+2258,Dick Taylor,U.S.A.,Fiji,80.0,2.0,"B,S",3.75
+2434,Dick Taylor,U.S.A.,Madagascar,72.0,2.0,"B,S",3.75
+2270,Dick Taylor,U.S.A.,Belize,72.0,2.0,"B,S",4.0
+2466,Dick Taylor,U.S.A.,Blend,73.0,2.0,"B,S",3.5
+2554,Dick Taylor,U.S.A.,Jamaica,75.0,2.0,"B,S",3.75
+2656,Dick Taylor,U.S.A.,Mexico,72.0,2.0,"B,S",4.0
+2406,Diogo Vaz,Sao Tome & Principe,Sao Tome,75.0,4.0,"B,S,C,L",2.5
+2402,Diogo Vaz,Sao Tome & Principe,Sao Tome,70.0,4.0,"B,S,C,L",2.75
+2402,Diogo Vaz,Sao Tome & Principe,Sao Tome,65.0,4.0,"B,S,C,L",3.0
+2406,Diogo Vaz,Sao Tome & Principe,Sao Tome,75.0,4.0,"B,S,C,L",3.0
+1371,Doble & Bignall,U.K.,Panama,72.0,3.0,"B,S,C",3.25
+1371,Doble & Bignall,U.K.,Venezuela,72.0,3.0,"B,S,C",3.25
+1407,Doble & Bignall,U.K.,Nicaragua,72.0,3.0,"B,S,C",3.5
+1688,Doble & Bignall,U.K.,Venezuela,85.0,3.0,"B,S,C",3.0
+311,Dole (Guittard),U.S.A.,U.S.A.,70.0,,,3.75
+63,Dolfin (Belcolade),Belgium,Blend,70.0,3.0,"B,S,L",1.5
+304,Dolfin (Belcolade),Belgium,Blend,88.0,3.0,"B,S,L",3.0
+87,Domori,Italy,Venezuela,70.0,2.0,"B,S",3.0
+87,Domori,Italy,Peru,70.0,2.0,"B,S",3.25
+87,Domori,Italy,Venezuela,70.0,2.0,"B,S",3.5
+129,Domori,Italy,Venezuela,75.0,2.0,"B,S",3.25
+135,Domori,Italy,Venezuela,60.0,2.0,"B,S",3.25
+135,Domori,Italy,Madagascar,70.0,2.0,"B,S",3.5
+192,Domori,Italy,Madagascar,70.0,2.0,"B,S",3.5
+192,Domori,Italy,Indonesia,70.0,2.0,"B,S",3.75
+111,Domori,Italy,Venezuela,70.0,2.0,"B,S",4.0
+192,Domori,Italy,Ecuador,70.0,2.0,"B,S",4.0
+192,Domori,Italy,Venezuela,70.0,2.0,"B,S",4.0
+227,Domori,Italy,Venezuela,70.0,2.0,"B,S",3.0
+272,Domori,Italy,Colombia,70.0,2.0,"B,S",3.0
+272,Domori,Italy,Blend,78.0,2.0,"B,S",3.5
+272,Domori,Italy,Blend,70.0,2.0,"B,S",3.75
+470,Domori,Italy,Venezuela,70.0,2.0,"B,S",3.0
+693,Domori,Italy,Venezuela,70.0,2.0,"B,S",3.5
+863,Domori,Italy,Tanzania,70.0,2.0,"B,S",3.5
+863,Domori,Italy,Venezuela,70.0,2.0,"B,S",3.75
+1109,Domori,Italy,Venezuela,100.0,,,3.0
+1672,Domori,Italy,Ecuador,70.0,2.0,"B,S",3.75
+1672,Domori,Italy,Venezuela,70.0,2.0,"B,S",3.75
+2040,Domori,Italy,Tanzania,70.0,2.0,"B,S",4.0
+1672,Dormouse,U.K.,Venezuela,70.0,3.0,"B,S,C",2.5
+1676,Dormouse,U.K.,Colombia,80.0,3.0,"B,S,C",2.75
+1676,Dormouse,U.K.,Madagascar,77.0,3.0,"B,S,C",2.75
+1880,Dormouse,U.K.,Grenada,75.0,3.0,"B,S*,C",2.75
+2052,Dormouse,U.K.,Philippines,71.5,3.0,"B,S*,C",2.75
+2052,Dormouse,U.K.,Guatemala,72.0,3.0,"B,S*,C",3.5
+2096,Dormouse,U.K.,Peru,80.0,2.0,"B,S*",3.5
+2696,Dormouse,U.K.,Belize,78.0,3.0,"B,S,C",3.25
+2390,Double Spiral,U.S.A.,Dominican Republic,75.0,2.0,"B,S",2.5
+2390,Double Spiral,U.S.A.,Tanzania,70.0,2.0,"B,S",2.75
+2390,Double Spiral,U.S.A.,Dominican Republic,75.0,2.0,"B,S",3.0
+523,Duffy's,U.K.,Ecuador,70.0,3.0,"B,S,C",2.5
+516,Duffy's,U.K.,Panama,70.0,3.0,"B,S,C",3.5
+516,Duffy's,U.K.,Ecuador,72.0,3.0,"B,S,C",3.75
+523,Duffy's,U.K.,Peru,70.0,3.0,"B,S,C",3.75
+697,Duffy's,U.K.,Panama,72.0,3.0,"B,S,C",3.0
+697,Duffy's,U.K.,Nicaragua,71.0,3.0,"B,S,C",3.25
+661,Duffy's,U.K.,Dominican Republic,65.0,3.0,"B,S,C",3.5
+765,Duffy's,U.K.,Venezuela,71.0,3.0,"B,S,C",3.5
+623,Duffy's,U.K.,Honduras,72.0,3.0,"B,S,C",3.75
+923,Duffy's,U.K.,Venezuela,72.0,3.0,"B,S,C",3.75
+1331,Duffy's,U.K.,Nicaragua,70.0,4.0,"B,S,C,L",3.5
+1331,Duffy's,U.K.,Nicaragua,76.0,4.0,"B,S,C,L",3.75
+1662,Duffy's,U.K.,Guatemala,70.0,4.0,"B,S,C,L",4.0
+1964,Duffy's,U.K.,Nigeria,70.0,4.0,"B,S,C,L",2.75
+2100,Duffy's,U.K.,Guatemala,80.0,4.0,"B,S,C,L",3.25
+2366,Duffy's,U.K.,Philippines,70.0,4.0,"B,S,C,L",3.5
+2648,Duffy's,U.K.,Nicaragua,70.0,4.0,"B,S,C,L",3.5
+1506,Dulcinea,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.25
+841,Durand,France,Madagascar,82.0,,,2.75
+1630,Durci,U.S.A.,Dominican Republic,70.0,3.0,"B,S,C",3.25
+1630,Durci,U.S.A.,Venezuela,70.0,3.0,"B,S,C",3.25
+1626,Durci,U.S.A.,Peru,70.0,3.0,"B,S,C",3.5
+1626,Durci,U.S.A.,Venezuela,70.0,3.0,"B,S,C",3.5
+1630,Durci,U.S.A.,Ecuador,70.0,3.0,"B,S,C",4.0
+2040,Durci,U.S.A.,Peru,70.0,3.0,"B,S,C",4.0
+1343,East Van Roasters,Canada,Peru,70.0,3.0,"B,S,C",3.25
+1343,East Van Roasters,Canada,Madagascar,70.0,3.0,"B,S,C",3.5
+1343,East Van Roasters,Canada,Dominican Republic,70.0,3.0,"B,S,C",3.75
+1812,Eau de Rose,Canada,Colombia,70.0,3.0,"B,S,C",3.25
+1812,Eau de Rose,Canada,Colombia,70.0,3.0,"B,S,C",3.25
+919,Eclat (Felchlin),U.S.A.,Peru,72.0,3.0,"B,S,C",2.75
+2358,Eclat (Fruition),U.S.A.,Peru,80.0,2.0,"B,S",3.5
+1876,Edelmond,Germany,Venezuela,68.0,2.0,"B,S",3.0
+2534,El Buen,U.S.A.,Madagascar,70.0,2.0,"B,S",3.0
+2534,El Buen,U.S.A.,Colombia,70.0,2.0,"B,S",3.0
+252,El Ceibo,Bolivia,Bolivia,71.0,4.0,"B,S,C,L",2.75
+709,El Ceibo,Bolivia,Bolivia,75.0,4.0,"B,S,C,L",3.75
+32,El Rey,Venezuela,Venezuela,70.0,5.0,"B,S,C,V,L",2.75
+206,El Rey,Venezuela,Venezuela,74.0,5.0,"B,S,C,V,L",2.5
+206,El Rey,Venezuela,Venezuela,58.0,5.0,"B,S,C,V,L",2.5
+206,El Rey,Venezuela,Venezuela,61.0,5.0,"B,S,C,V,L",3.0
+439,El Rey,Venezuela,Venezuela,60.5,5.0,"B,S,C,V,L",2.75
+439,El Rey,Venezuela,Venezuela,70.0,5.0,"B,S,C,V,L",3.0
+1662,El Rey,Venezuela,Venezuela,70.0,5.0,"B,S,C,V,L",3.75
+2382,Eldora,U.S.A.,Guatemala,70.0,3.0,"B,S,C",3.5
+1137,Emerald Estate,St. Lucia,St. Lucia,60.0,2.0,"B,S",2.75
+1137,Emerald Estate,St. Lucia,St. Lucia,70.0,2.0,"B,S",3.25
+1450,Emily's,Japan,Venezuela,79.0,3.0,"B,S,C",3.0
+1454,Emily's,Japan,Peru,78.0,3.0,"B,S,C",3.5
+2114,Encuentro,France,Dominican Republic,70.0,2.0,"B,S",3.25
+2108,Encuentro,France,Haiti,70.0,2.0,"B,S",3.5
+2108,Encuentro,France,Guatemala,70.0,2.0,"B,S",3.5
+2118,Encuentro,France,Madagascar,70.0,2.0,"B,S",3.5
+1916,ENNA,U.S.A.,Honduras,75.0,2.0,"B,S",3.25
+2198,ENNA,U.S.A.,Vietnam,72.0,2.0,"B,S",3.0
+2350,ENNA,U.S.A.,Sierra Leone,70.0,3.0,"B,S,C",2.5
+2350,ENNA,U.S.A.,Tanzania,80.0,3.0,"B,S,C",3.0
+2350,ENNA,U.S.A.,Trinidad,72.0,3.0,"B,S,C",3.5
+565,Enric Rovira (Claudio Corallo),Spain,Blend,80.0,,,3.25
+1209,Erithaj (A. Morin),France,Vietnam,80.0,3.0,"B,S,C",3.0
+1205,Erithaj (A. Morin),France,Vietnam,70.0,3.0,"B,S,C",3.25
+1209,Erithaj (A. Morin),France,Vietnam,74.0,3.0,"B,S,C",3.25
+252,Escazu,U.S.A.,Venezuela,72.0,4.0,"B,S,C,V",3.0
+414,Escazu,U.S.A.,Costa Rica,65.0,4.0,"B,S,C,V",2.0
+431,Escazu,U.S.A.,Blend,74.0,4.0,"B,S,C,V",2.75
+423,Escazu,U.S.A.,Venezuela,81.0,4.0,"B,S,C,V",3.5
+903,Escazu,U.S.A.,Venezuela,70.0,4.0,"B,S,C,V",2.75
+2570,Escazu,U.S.A.,Blend,65.0,3.0,"B,S,C",3.0
+2570,Escazu,U.S.A.,Colombia,70.0,2.0,"B,S",3.5
+666,Ethel's Artisan (Mars),U.S.A.,Blend,55.0,4.0,"B,S,C,V",2.5
+666,Ethel's Artisan (Mars),U.S.A.,Trinidad,55.0,4.0,"B,S,C,V",2.5
+666,Ethel's Artisan (Mars),U.S.A.,Venezuela,70.0,4.0,"B,S,C,V",2.5
+672,Ethel's Artisan (Mars),U.S.A.,Blend,62.0,4.0,"B,S,C,V",2.5
+666,Ethel's Artisan (Mars),U.S.A.,Blend,62.0,4.0,"B,S,C,V",2.75
+1275,Ethereal,U.S.A.,Belize,80.0,3.0,"B,S,C",3.0
+1275,Ethereal,U.S.A.,Ecuador,80.0,3.0,"B,S,C",3.5
+1275,Ethereal,U.S.A.,Dominican Republic,80.0,3.0,"B,S,C",3.75
+2142,Ethereal,U.S.A.,Guatemala,80.0,3.0,"B,S,C",3.5
+2664,Ethereal,U.S.A.,Uganda,70.0,3.0,"B,S,C",3.0
+2450,Exquisito,U.S.A.,Peru,73.0,3.0,"B,S,C",3.0
+565,Fearless (AMMA),U.S.A.,Brazil,75.0,2.0,"B,S",2.75
+1736,Feitoria Cacao,Portugal,Venezuela,76.0,2.0,"B,S",2.5
+1736,Feitoria Cacao,Portugal,Belize,76.0,2.0,"B,S",2.75
+1732,Feitoria Cacao,Portugal,Jamaica,76.0,2.0,"B,S",3.0
+105,Felchlin,Switzerland,Blend,62.0,5.0,"B,S,C,V,L",2.0
+48,Felchlin,Switzerland,Madagascar,64.0,5.0,"B,S,C,V,L",3.0
+48,Felchlin,Switzerland,Venezuela,65.0,5.0,"B,S,C,V,L",3.0
+105,Felchlin,Switzerland,Dominican Republic,74.0,5.0,"B,S,C,V,L",3.0
+48,Felchlin,Switzerland,Ecuador,72.0,5.0,"B,S,C,V,L",3.5
+56,Felchlin,Switzerland,Bolivia,68.0,5.0,"B,S,C,V,L",4.0
+494,Felchlin,Switzerland,Grenada,58.0,5.0,"B,S,C,V,L",3.5
+1283,Finca,U.S.A.,Puerto Rico,65.0,3.0,"B,S,C",2.25
+1287,Finca,U.S.A.,Dominican Republic,85.0,3.0,"B,S,C",2.5
+1283,Finca,U.S.A.,Dominican Republic,80.0,3.0,"B,S,C",3.0
+1283,Finca,U.S.A.,Dominican Republic,70.0,3.0,"B,S,C",3.25
+2474,Finnia,Canada,Honduras,70.0,3.0,"B,S,C",2.75
+2482,Finnia,Canada,Colombia,70.0,3.0,"B,S,C",2.75
+2478,Finnia,Canada,Mexico,70.0,3.0,"B,S,C",3.0
+2486,Finnia,Canada,Blend,70.0,3.0,"B,S,C",3.25
+2398,Firetree,U.K.,Philippines,73.0,4.0,"B,S,C,L",3.25
+2394,Firetree,U.K.,Papua New Guinea,72.0,4.0,"B,S,C,L",3.5
+2398,Firetree,U.K.,Solomon Islands,69.0,4.0,"B,S,C,L",3.5
+2398,Firetree,U.K.,Vanuatu,72.0,4.0,"B,S,C,L",3.75
+2154,Five (5)Mile,U.S.A.,Belize,75.0,2.0,"B,S",2.75
+2154,Five (5)Mile,U.S.A.,Guatemala,75.0,2.0,"B,S",2.75
+2154,Five (5)Mile,U.S.A.,Colombia,75.0,2.0,"B,S",3.0
+2150,Five (5)Mile,U.S.A.,Dominican Republic,75.0,2.0,"B,S",3.5
+2202,FJAK,Norway,Madagascar,70.0,3.0,"B,S,C",3.0
+2206,FJAK,Norway,India,68.0,3.0,"B,S,C",3.5
+2206,FJAK,Norway,Tanzania,70.0,3.0,"B,S,C",3.5
+1267,Forever Cacao,U.K.,Peru,72.0,3.0,"B,S*,C",2.75
+1776,Forteza (Cortes),Puerto Rico,Dominican Republic,70.0,6.0,"B,S,C,V,L,Sa",2.75
+1776,Forteza (Cortes),Puerto Rico,Dominican Republic,80.0,6.0,"B,S,C,V,L,Sa",2.75
+1772,Fossa,Singapore,Madagascar,70.0,2.0,"B,S",2.75
+1776,Fossa,Singapore,Ecuador,75.0,2.0,"B,S",3.5
+1776,Fossa,Singapore,Tanzania,67.0,2.0,"B,S",3.75
+2076,Fossa,Singapore,Dominican Republic,72.0,2.0,"B,S",2.75
+2072,Fossa,Singapore,Bolivia,70.0,2.0,"B,S",3.0
+2072,Fossa,Singapore,Indonesia,70.0,2.0,"B,S",3.0
+2072,Fossa,Singapore,Philippines,70.0,2.0,"B,S",3.25
+2072,Fossa,Singapore,Haiti,68.0,2.0,"B,S",3.5
+2430,Fossa,Singapore,Mexico,70.0,2.0,"B,S",3.0
+2430,Fossa,Singapore,Madagascar,70.0,2.0,"B,S",3.5
+2712,Fossa,Singapore,Indonesia,72.0,2.0,"B,S",3.5
+2712,Fossa,Singapore,Malaysia,72.0,2.0,"B,S",3.5
+2318,Foundry,New Zealand,Papua New Guinea,70.0,2.0,"B,S",3.0
+2322,Foundry,New Zealand,Bolivia,70.0,2.0,"B,S",3.0
+2322,Foundry,New Zealand,Vanuatu,70.0,2.0,"B,S",3.0
+2322,Foundry,New Zealand,Colombia,70.0,2.0,"B,S",3.0
+2318,Foundry,New Zealand,Tanzania,70.0,2.0,"B,S",3.25
+2322,Foundry,New Zealand,Ecuador,70.0,2.0,"B,S",3.75
+2326,Foundry,New Zealand,Peru,70.0,2.0,"B,S",3.75
+915,Franceschi,Venezuela,Venezuela,60.0,3.0,"B,S,C",3.5
+911,Franceschi,Venezuela,Venezuela,70.0,3.0,"B,S,C",3.75
+1355,Franceschi,Venezuela,Venezuela,70.0,3.0,"B,S,C",3.5
+1355,Franceschi,Venezuela,Venezuela,70.0,3.0,"B,S,C",3.75
+2044,Franceschi,Venezuela,Venezuela,60.0,4.0,"B,S,C,L",2.5
+2100,Franceschi,Venezuela,Venezuela,70.0,3.0,"B,S,C",3.0
+2122,Franceschi,Venezuela,Venezuela,85.0,2.0,"B,S",3.0
+2100,Franceschi,Venezuela,Venezuela,70.0,3.0,"B,S,C",3.25
+2118,Franceschi,Venezuela,Venezuela,72.0,2.0,"B,S",3.5
+1351,Frederic Blondeel,Belgium,Ghana,60.0,4.0,"B,S,C,L",3.5
+1351,Frederic Blondeel,Belgium,Madagascar,65.0,4.0,"B,S,C,L",3.5
+1542,Frederic Blondeel,Belgium,Vietnam,80.0,4.0,"B,S,C,L",3.0
+1538,Frederic Blondeel,Belgium,Costa Rica,70.0,4.0,"B,S,C,L",3.5
+1538,Frederic Blondeel,Belgium,Peru,75.0,4.0,"B,S,C,L",3.5
+781,French Broad,U.S.A.,Peru,70.0,2.0,"B,S",3.5
+785,French Broad,U.S.A.,Dominican Republic,65.0,2.0,"B,S",3.5
+887,French Broad,U.S.A.,Peru,81.0,2.0,"B,S*",2.0
+883,French Broad,U.S.A.,Peru,70.0,2.0,"B,S",2.5
+883,French Broad,U.S.A.,Peru,66.0,2.0,"B,S*",3.5
+1042,French Broad,U.S.A.,Peru,66.0,2.0,"B,S",3.5
+1209,French Broad,U.S.A.,Costa Rica,80.0,2.0,"B,S",3.0
+1295,French Broad,U.S.A.,Nicaragua,68.0,2.0,"B,S",3.25
+1634,French Broad,U.S.A.,Guatemala,73.0,2.0,"B,S",3.5
+1940,French Broad,U.S.A.,Peru,70.0,2.0,"B,S",3.5
+2430,French Broad,U.S.A.,India,71.0,3.0,"B,S,C",3.25
+370,Fresco,U.S.A.,Jamaica,80.0,3.0,"B,S,C",2.75
+370,Fresco,U.S.A.,Jamaica,70.0,3.0,"B,S,C",3.0
+370,Fresco,U.S.A.,Jamaica,70.0,3.0,"B,S,C",3.25
+370,Fresco,U.S.A.,Venezuela,65.0,3.0,"B,S,C",3.5
+636,Fresco,U.S.A.,Ghana,74.0,3.0,"B,S,C",2.75
+682,Fresco,U.S.A.,Madagascar,74.0,3.0,"B,S,C",2.75
+688,Fresco,U.S.A.,Madagascar,74.0,3.0,"B,S,C",3.0
+642,Fresco,U.S.A.,Jamaica,70.0,3.0,"B,S,C",3.25
+682,Fresco,U.S.A.,Dominican Republic,72.0,3.0,"B,S,C",3.25
+745,Fresco,U.S.A.,Venezuela,76.0,3.0,"B,S,C",3.25
+642,Fresco,U.S.A.,Dominican Republic,72.0,3.0,"B,S,C",3.5
+642,Fresco,U.S.A.,Jamaica,70.0,3.0,"B,S,C",3.5
+745,Fresco,U.S.A.,Venezuela,70.0,3.0,"B,S,C",4.0
+931,Fresco,U.S.A.,Papua New Guinea,69.0,2.0,"B,S",3.0
+899,Fresco,U.S.A.,Papua New Guinea,69.0,2.0,"B,S",3.5
+899,Fresco,U.S.A.,Papua New Guinea,69.0,2.0,"B,S",3.5
+915,Fresco,U.S.A.,Madagascar,74.0,3.0,"B,S,C",4.0
+927,Fresco,U.S.A.,Papua New Guinea,69.0,2.0,"B,S",4.0
+1030,Fresco,U.S.A.,Dominican Republic,72.0,3.0,"B,S,C",3.25
+1081,Fresco,U.S.A.,Dominican Republic,72.0,3.0,"B,S,C",3.75
+1117,Fresco,U.S.A.,Peru,70.0,3.0,"B,S,C",3.75
+1149,Fresco,U.S.A.,Peru,70.0,3.0,"B,S,C",4.0
+1383,Fresco,U.S.A.,Peru,70.0,3.0,"B,S,C",3.0
+1383,Fresco,U.S.A.,Peru,70.0,3.0,"B,S,C",3.5
+1383,Fresco,U.S.A.,Peru,70.0,3.0,"B,S,C",3.5
+1387,Fresco,U.S.A.,Peru,70.0,3.0,"B,S,C",3.5
+2024,Fresco,U.S.A.,Guatemala,70.0,3.0,"B,S,C",3.5
+2028,Fresco,U.S.A.,Guatemala,70.0,3.0,"B,S,C",3.5
+2024,Fresco,U.S.A.,Guatemala,70.0,3.0,"B,S,C",3.75
+2174,Fresco,U.S.A.,Venezuela,72.0,3.0,"B,S,C",3.25
+2174,Fresco,U.S.A.,Venezuela,72.0,3.0,"B,S,C",3.5
+2708,Fresco,U.S.A.,Peru,74.0,3.0,"B,S,C",3.0
+2642,Fresco,U.S.A.,Ghana,68.0,3.0,"B,S,C",3.25
+2708,Fresco,U.S.A.,Peru,74.0,3.0,"B,S,C",3.25
+2642,Fresco,U.S.A.,Ghana,68.0,3.0,"B,S,C",3.5
+2644,Fresco,U.S.A.,Nicaragua,70.0,3.0,"B,S,C",3.5
+2704,Fresco,U.S.A.,Madagascar,70.0,3.0,"B,S,C",3.5
+2644,Fresco,U.S.A.,Nicaragua,70.0,3.0,"B,S,C",3.75
+2644,Fresco,U.S.A.,Venezuela,68.0,3.0,"B,S,C",4.0
+2000,Fresh Coast,U.S.A.,Brazil,70.0,2.0,"B,S",3.5
+2000,Fresh Coast,U.S.A.,Tanzania,70.0,2.0,"B,S",3.75
+1375,Fresh Coast aka Just Good Choc.,U.S.A.,Belize,70.0,2.0,"B,S",3.5
+1375,Fresh Coast aka Just Good Choc.,U.S.A.,Madagascar,70.0,2.0,"B,S",3.5
+1375,Fresh Coast aka Just Good Choc.,U.S.A.,Peru,70.0,2.0,"B,S",4.0
+1912,Friis Holm,Denmark,Nicaragua,70.0,2.0,"B,S",3.5
+1956,Friis Holm,Denmark,Nicaragua,70.0,3.0,"B,S,C",3.75
+2126,Friis Holm,Denmark,Nicaragua,60.0,3.0,"B,S,C",3.0
+2130,Friis Holm,Denmark,Nicaragua,70.0,3.0,"B,S,C",3.0
+2126,Friis Holm,Denmark,Nicaragua,70.0,3.0,"B,S,C",3.25
+2134,Friis Holm,Denmark,Nicaragua,70.0,3.0,"B,S,C",3.25
+2122,Friis Holm,Denmark,Nicaragua,68.0,3.0,"B,S,C",3.5
+2130,Friis Holm,Denmark,Nicaragua,70.0,3.0,"B,S,C",3.5
+2122,Friis Holm,Denmark,Nicaragua,70.0,3.0,"B,S,C",3.75
+2126,Friis Holm,Denmark,Nicaragua,70.0,3.0,"B,S,C",3.75
+2130,Friis Holm,Denmark,Nicaragua,70.0,3.0,"B,S,C",3.75
+2126,Friis Holm,Denmark,Guatemala,70.0,3.0,"B,S,C",4.0
+2130,Friis Holm,Denmark,Nicaragua,70.0,3.0,"B,S,C",4.0
+623,Friis Holm (Bonnat),Denmark,Nicaragua,70.0,3.0,"B,S,C",3.25
+623,Friis Holm (Bonnat),Denmark,Nicaragua,70.0,3.0,"B,S,C",3.5
+623,Friis Holm (Bonnat),Denmark,Nicaragua,70.0,3.0,"B,S,C",3.5
+895,Friis Holm (Bonnat),Denmark,Nicaragua,70.0,3.0,"B,S,C",3.25
+899,Friis Holm (Bonnat),Denmark,Honduras,70.0,3.0,"B,S,C",3.25
+899,Friis Holm (Bonnat),Denmark,Nicaragua,70.0,3.0,"B,S,C",3.25
+923,Friis Holm (Bonnat),Denmark,Nicaragua,70.0,3.0,"B,S,C",3.75
+1034,Friis Holm (Bonnat),Denmark,Nicaragua,70.0,3.0,"B,S,C",3.25
+1034,Friis Holm (Bonnat),Denmark,Nicaragua,70.0,3.0,"B,S,C",3.5
+1259,Friis Holm (Bonnat),Denmark,Nicaragua,70.0,3.0,"B,S,C",3.5
+1680,Friis Holm (Bonnat),Denmark,Nicaragua,60.0,3.0,"B,S,C",3.0
+1680,Friis Holm (Bonnat),Denmark,Nicaragua,85.0,3.0,"B,S,C",3.25
+781,Fruition,U.S.A.,Costa Rica,70.0,3.0,"B,S,C",3.0
+753,Fruition,U.S.A.,Costa Rica,66.0,3.0,"B,S,C",3.25
+863,Fruition,U.S.A.,Peru,70.0,3.0,"B,S,C",2.5
+1185,Fruition,U.S.A.,Ecuador,75.0,3.0,"B,S,C",3.0
+1046,Fruition,U.S.A.,Dominican Republic,70.0,3.0,"B,S,C",3.75
+1359,Fruition,U.S.A.,Peru,76.0,3.0,"B,S,C",3.0
+1347,Fruition,U.S.A.,Trinidad,70.0,3.0,"B,S,C",3.75
+1780,Fruition,U.S.A.,Bolivia,74.0,2.0,"B,S",3.75
+1780,Fruition,U.S.A.,Costa Rica,74.0,2.0,"B,S",4.0
+2366,Fruition,U.S.A.,Colombia,85.0,2.0,"B,S",3.5
+2278,Fruition,U.S.A.,Madagascar,74.0,2.0,"B,S",3.75
+2550,Fruition,U.S.A.,Dominican Republic,77.0,2.0,"B,S",3.25
+2554,Fruition,U.S.A.,Dominican Republic,68.0,4.0,"B,S,C,V",3.75
+2664,Fruition,U.S.A.,Peru,72.0,3.0,"B,S,C",3.75
+2174,Fu Wan,Taiwan,Taiwan,70.0,3.0,"B,S,C",2.5
+2190,Fu Wan,Taiwan,Madagascar,70.0,2.0,"B,S",3.0
+2202,Fu Wan,Taiwan,Tanzania,70.0,2.0,"B,S",3.0
+2202,Fu Wan,Taiwan,Venezuela,70.0,3.0,"B,S,C",3.5
+1367,Garden Island,U.S.A.,U.S.A.,85.0,3.0,"B,S,V",2.5
+1642,Georgia Ramon,Germany,Madagascar,65.0,4.0,"B,S,C,L",3.25
+1646,Georgia Ramon,Germany,Dominican Republic,70.0,4.0,"B,S,C,L",3.5
+1646,Georgia Ramon,Germany,Dominican Republic,80.0,4.0,"B,S,C,L",3.5
+1646,Georgia Ramon,Germany,Madagascar,75.0,4.0,"B,S,C,L",3.5
+1642,Georgia Ramon,Germany,Ghana,70.0,4.0,"B,S,C,L",4.0
+2012,Georgia Ramon,Germany,St. Lucia,77.0,3.0,"B,S,C",3.5
+2012,Georgia Ramon,Germany,Venezuela,75.0,3.0,"B,S,C",3.5
+2096,Georgia Ramon,Germany,Guatemala,72.0,3.0,"B,S,C",2.75
+2282,Georgia Ramon,Germany,Venezuela,75.0,3.0,"B,S,C",2.75
+1672,Glennmade,U.S.A.,Brazil,66.0,2.0,"B,S",3.0
+1848,Glennmade,U.S.A.,Belize,70.0,2.0,"B,S",3.5
+1924,Goodnow Farms,U.S.A.,Mexico,77.0,3.0,"B,S,C",2.75
+1924,Goodnow Farms,U.S.A.,Guatemala,77.0,3.0,"B,S,C",3.25
+1924,Goodnow Farms,U.S.A.,Nicaragua,77.0,3.0,"B,S,C",3.25
+2032,Goodnow Farms,U.S.A.,Peru,70.0,3.0,"B,S,C",3.25
+2446,Goodnow Farms,U.S.A.,Colombia,73.0,3.0,"B,S,C",2.5
+2446,Goodnow Farms,U.S.A.,Costa Rica,73.0,3.0,"B,S,C",3.0
+2602,Goodnow Farms,U.S.A.,Ecuador,70.0,3.0,"B,S,C",3.75
+2194,Gotham,U.S.A.,Belize,70.0,2.0,"B,S",2.75
+2642,Gotham,U.S.A.,India,70.0,2.0,"B,S",3.0
+2642,Gotham,U.S.A.,Bolivia,70.0,2.0,"B,S",3.25
+2644,Gotham,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.25
+741,Grand Place,Vietnam,Vietnam,72.0,5.0,"B,S,C,V,L",3.0
+2692,Great Lakes,U.S.A.,Madagascar,72.0,3.0,"B,S,C",3.5
+2692,Great Lakes,U.S.A.,Tanzania,70.0,3.0,"B,S,C",3.5
+2692,Great Lakes,U.S.A.,Dominican Republic,75.0,3.0,"B,S,C",3.5
+2696,Great Lakes,U.S.A.,Vietnam,73.0,3.0,"B,S,C",3.5
+15,Green & Black's (ICAM),U.K.,Blend,70.0,5.0,"B,S,C,V,L",2.5
+1896,Green Bean to Bar,Japan,Madagascar,70.0,2.0,"B,S",3.5
+2382,Green Bean to Bar,Japan,Peru,73.0,2.0,"B,S",2.5
+2696,Green Door,U.K.,India,70.0,3.0,"B,S,C",3.0
+241,Grenada Chocolate Co.,Grenada,Grenada,71.0,5.0,"B,S,C,V,L",2.5
+363,Grenada Chocolate Co.,Grenada,Grenada,60.0,5.0,"B,S,C,V,L",2.75
+494,Grenada Chocolate Co.,Grenada,Grenada,82.0,5.0,"B,S,C,V,L",3.25
+355,Guido Castagna,Italy,Ecuador,64.0,4.0,"B,S,C,L",3.0
+355,Guido Castagna,Italy,Ghana,64.0,4.0,"B,S,C,L",3.0
+355,Guido Castagna,Italy,Blend,64.0,4.0,"B,S,C,L",3.0
+355,Guido Castagna,Italy,Venezuela,76.0,4.0,"B,S,C,L",3.0
+355,Guido Castagna,Italy,Blend,64.0,4.0,"B,S,C,L",3.25
+2060,Guido Castagna,Italy,Madagascar,70.0,4.0,"B,S,C,L",2.75
+87,Guittard,U.S.A.,Venezuela,65.0,5.0,"B,S,C,V,L",2.5
+15,Guittard,U.S.A.,Colombia,65.0,5.0,"B,S,C,V,L",3.0
+99,Guittard,U.S.A.,Blend,61.0,5.0,"B,S,C,V,L",3.0
+87,Guittard,U.S.A.,Madagascar,65.0,5.0,"B,S,C,V,L",3.5
+93,Guittard,U.S.A.,Ecuador,65.0,5.0,"B,S,C,V,L",3.5
+93,Guittard,U.S.A.,Blend,61.0,5.0,"B,S,C,V,L",3.5
+147,Guittard,U.S.A.,Blend,72.0,5.0,"B,S,C,V,L",3.5
+259,Guittard,U.S.A.,Peru,65.0,5.0,"B,S,C,V,L",3.0
+276,Guittard,U.S.A.,Blend,64.0,5.0,"B,S,C,V,L",3.0
+276,Guittard,U.S.A.,Venezuela,65.0,5.0,"B,S,C,V,L",3.5
+316,Guittard,U.S.A.,U.S.A.,55.0,5.0,"B,S,C,V,L",3.0
+387,Guittard,U.S.A.,Blend,91.0,5.0,"B,S,C,V,L",3.0
+387,Guittard,U.S.A.,Blend,70.0,5.0,"B,S,C,V,L",3.5
+552,Guittard,U.S.A.,Trinidad,65.0,5.0,"B,S,C,V,L",3.0
+654,Guittard,U.S.A.,Blend,72.0,5.0,"B,S,C,V,L",2.75
+654,Guittard,U.S.A.,Blend,61.0,5.0,"B,S,C,V,L",3.25
+654,Guittard,U.S.A.,Blend,72.0,5.0,"B,S,C,V,L",3.25
+1053,Guittard,U.S.A.,Haiti,65.0,5.0,"B,S,C,V,L",2.75
+1053,Guittard,U.S.A.,Nicaragua,65.0,5.0,"B,S,C,V,L",2.75
+1053,Guittard,U.S.A.,Jamaica,65.0,5.0,"B,S,C,V,L",3.25
+1053,Guittard,U.S.A.,Ecuador,65.0,5.0,"B,S,C,V,L",3.5
+1602,Guittard,U.S.A.,Blend,70.0,5.0,"B,S,C,V,L",3.75
+1205,Habitual,Canada,Blend,100.0,,,2.0
+1197,Habitual,Canada,Papua New Guinea,80.0,3.0,"B,S,C",2.75
+1197,Habitual,Canada,Blend,74.0,3.0,"B,S,C",2.75
+1201,Habitual,Canada,Blend,65.0,3.0,"B,S,C",2.75
+1201,Habitual,Canada,Blend,70.0,3.0,"B,S,C",3.0
+1201,Habitual,Canada,Blend,80.0,3.0,"B,S,C",3.0
+1197,Habitual,Canada,Dominican Republic,75.0,3.0,"B,S,C",3.25
+1201,Habitual,Canada,U.S.A.,66.0,3.0,"B,S,C",3.25
+1197,Habitual,Canada,Blend,70.0,3.0,"B,S,C",3.5
+166,Hachez,Germany,Ecuador,77.0,4.0,"B,S,C,V",2.5
+1327,Hacienda El Castillo,Ecuador,Ecuador,55.0,4.0,"B,S,C,L",2.75
+1327,Hacienda El Castillo,Ecuador,Ecuador,70.0,4.0,"B,S,C,L",3.0
+701,Haigh,Australia,Blend,70.0,,,3.0
+1696,Harper Macaw,U.S.A.,Brazil,67.0,3.0,"B,S,C",3.0
+1700,Harper Macaw,U.S.A.,Brazil,77.0,3.0,"B,S,C",3.5
+1700,Harper Macaw,U.S.A.,Brazil,74.0,3.0,"B,S,C",3.5
+1808,Harper Macaw,U.S.A.,Brazil,85.0,3.0,"B,S,C",3.25
+2040,Harper Macaw,U.S.A.,Brazil,75.0,3.0,"B,S,C",3.0
+2330,Harris & James,U.K.,India,70.0,3.0,"B,S,C",3.0
+2270,Harris & James,U.K.,Vietnam,70.0,3.0,"B,S,C",3.25
+2382,Hazel Hill,U.S.A.,Peru,65.0,3.0,"B,S,C",2.75
+2378,Hazel Hill,U.S.A.,Tanzania,72.0,3.0,"B,S,C",3.25
+2378,Hazel Hill,U.S.A.,Dominican Republic,70.0,3.0,"B,S,C",3.5
+2606,Hecho,Mexico,Mexico,70.0,2.0,"B,S",3.5
+1876,Heilemann,Germany,Peru,64.0,3.0,"B,S,L",2.75
+2302,Heinde & Verre,Netherlands,Indonesia,71.0,4.0,"B,S,C,L",2.5
+2306,Heinde & Verre,Netherlands,Blend,71.0,4.0,"B,S,C,L",2.5
+2302,Heinde & Verre,Netherlands,Venezuela,71.0,4.0,"B,S,C,L",3.0
+1748,Heirloom Cacao Preservation (Brasstown),U.S.A.,Belize,70.0,3.0,"B,S,C",3.25
+1748,Heirloom Cacao Preservation (Fruition),U.S.A.,Costa Rica,74.0,3.0,"B,S,C",3.5
+1243,Heirloom Cacao Preservation (Guittard),U.S.A.,Bolivia,67.0,3.0,"B,S,C",3.0
+1239,Heirloom Cacao Preservation (Guittard),U.S.A.,Bolivia,67.0,3.0,"B,S,C",3.5
+1243,Heirloom Cacao Preservation (Guittard),U.S.A.,Ecuador,67.0,3.0,"B,S,C",3.75
+1243,Heirloom Cacao Preservation (Guittard),U.S.A.,U.S.A.,67.0,3.0,"B,S,C",3.75
+1744,Heirloom Cacao Preservation (Manoa),U.S.A.,U.S.A.,72.0,3.0,"B,S,C",3.5
+1744,Heirloom Cacao Preservation (Millcreek),U.S.A.,Ecuador,70.0,3.0,"B,S,C",3.5
+1748,Heirloom Cacao Preservation (Mindo),U.S.A.,Ecuador,77.0,3.0,"B,S,C",3.5
+1744,Heirloom Cacao Preservation (Zokoko),U.S.A.,Bolivia,68.0,3.0,"B,S,C",3.75
+1744,Heirloom Cacao Preservation (Zokoko),U.S.A.,Bolivia,72.0,3.0,"B,S,C",4.0
+1458,hello cocoa (now Markham & Fitz),U.S.A.,Uganda,57.0,3.0,"B,S,C",2.75
+1462,hello cocoa (now Markham & Fitz),U.S.A.,Venezuela,74.0,3.0,"B,S,C",3.5
+2614,Hemisphere,U.S.A.,Ecuador,70.0,2.0,"B,S",2.75
+2614,Hemisphere,U.S.A.,Nicaragua,70.0,2.0,"B,S",3.25
+1546,hexx,U.S.A.,Tanzania,70.0,2.0,"B,S*",2.75
+1546,hexx,U.S.A.,Madagascar,74.0,2.0,"B,S*",3.0
+1546,hexx,U.S.A.,Venezuela,70.0,2.0,"B,S*",3.0
+1550,hexx,U.S.A.,Ecuador,73.0,2.0,"B,S*",3.25
+1550,hexx,U.S.A.,Peru,70.0,2.0,"B,S*",3.25
+2150,hexx,U.S.A.,Peru,70.0,2.0,"B,S*",2.25
+2146,hexx,U.S.A.,Ecuador,73.0,2.0,"B,S*",2.5
+2150,hexx,U.S.A.,Madagascar,74.0,2.0,"B,S*",2.75
+2150,hexx,U.S.A.,Tanzania,70.0,2.0,"B,S*",3.0
+2146,hexx,U.S.A.,Dominican Republic,71.0,2.0,"B,S*",3.5
+1712,Hogarth,New Zealand,Madagascar,70.0,3.0,"B,S,C",2.75
+1712,Hogarth,New Zealand,Venezuela,72.0,3.0,"B,S,C",2.75
+1712,Hogarth,New Zealand,Dominican Republic,75.0,3.0,"B,S,C",3.25
+1712,Hogarth,New Zealand,Peru,66.0,3.0,"B,S,C",3.5
+2426,Hogarth,New Zealand,Venezuela,68.0,3.0,"B,S,C",3.25
+2450,Hogarth,New Zealand,Ecuador,85.0,3.0,"B,S,C",3.5
+414,Hoja Verde (Tulicorp),Ecuador,Ecuador,80.0,4.0,"B,S,C,L",2.0
+414,Hoja Verde (Tulicorp),Ecuador,Ecuador,80.0,2.0,"B,S",2.5
+414,Hoja Verde (Tulicorp),Ecuador,Ecuador,72.0,2.0,"B,S",3.0
+414,Hoja Verde (Tulicorp),Ecuador,Ecuador,58.0,4.0,"B,S,C,L",3.25
+414,Hoja Verde (Tulicorp),Ecuador,Ecuador,58.0,4.0,"B,S,C,L",3.5
+431,Holy Cacao,Israel,Ivory Coast,70.0,2.0,"B,S",2.5
+431,Holy Cacao,Israel,Dominican Republic,70.0,2.0,"B,S",2.75
+431,Holy Cacao,Israel,Peru,70.0,2.0,"B,S",3.5
+431,Holy Cacao,Israel,Dominican Republic,75.0,2.0,"B,S",3.75
+1466,Holy Cacao,Israel,Ecuador,70.0,4.0,"B,S,C,L",3.5
+1466,Holy Cacao,Israel,Madagascar,70.0,4.0,"B,S,C,L",3.5
+1466,Holy Cacao,Israel,Trinidad,70.0,4.0,"B,S,C,L",3.5
+1466,Holy Cacao,Israel,Venezuela,70.0,4.0,"B,S,C,L",3.5
+1872,Holy Cacao,Israel,Peru,70.0,4.0,"B,S,C,L",2.75
+1327,Honest,South Africa,Ecuador,72.0,2.0,"B,S*",2.5
+1113,Hotel Chocolat,U.K.,St. Lucia,100.0,,,1.75
+1030,Hotel Chocolat,U.K.,St. Lucia,70.0,2.0,"B,S",4.0
+1654,Hotel Chocolat,U.K.,St. Lucia,70.0,2.0,"B,S",2.75
+2134,Hotel Chocolat,U.K.,Colombia,75.0,4.0,"B,S,C,L",2.75
+2386,Hotel Chocolat,U.K.,Honduras,72.0,4.0,"B,S,C,L",3.0
+2386,Hotel Chocolat,U.K.,Tanzania,80.0,4.0,"B,S,C,L",3.0
+296,Hotel Chocolat (Coppeneur),U.K.,Uganda,80.0,,,2.5
+296,Hotel Chocolat (Coppeneur),U.K.,Tanzania,75.0,4.0,"B,S,C,L",2.75
+245,Hotel Chocolat (Coppeneur),U.K.,St. Lucia,72.0,3.0,"B,S,C",3.0
+300,Hotel Chocolat (Coppeneur),U.K.,Sao Tome,72.0,4.0,"B,S,C,L",3.0
+552,Hotel Chocolat (Coppeneur),U.K.,Ecuador,70.0,,,2.75
+600,Hotel Chocolat (Coppeneur),U.K.,Venezuela,70.0,4.0,"B,S,C,L",2.75
+552,Hotel Chocolat (Coppeneur),U.K.,Dominican Republic,70.0,,,3.0
+623,Hotel Chocolat (Coppeneur),U.K.,Ecuador,80.0,4.0,"B,S,C,L",3.0
+623,Hotel Chocolat (Coppeneur),U.K.,St. Lucia,65.0,4.0,"B,S,C,L",3.0
+623,Hotel Chocolat (Coppeneur),U.K.,St. Lucia,65.0,4.0,"B,S,C,L",3.25
+809,Hotel Chocolat (Coppeneur),U.K.,Madagascar,66.0,4.0,"B,S,V,L",3.5
+1113,Hotel Chocolat (Coppeneur),U.K.,Ecuador,100.0,1.0,B,2.5
+1109,Hotel Chocolat (Coppeneur),U.K.,Peru,100.0,,,2.75
+1113,Hotel Chocolat (Coppeneur),U.K.,Dominican Republic,100.0,,,2.75
+1038,Hotel Chocolat (Coppeneur),U.K.,Trinidad,75.0,4.0,"B,S,C,L",3.0
+1065,Hotel Chocolat (Coppeneur),U.K.,Ecuador,90.0,2.0,"B,S",3.0
+1065,Hotel Chocolat (Coppeneur),U.K.,Madagascar,72.0,4.0,"B,S,C,L",3.0
+1038,Hotel Chocolat (Coppeneur),U.K.,Vietnam,80.0,4.0,"B,S,C,L",3.5
+1065,Hotel Chocolat (Coppeneur),U.K.,Ecuador,82.0,2.0,"B,S",3.5
+1097,Hummingbird,Canada,Venezuela,70.0,3.0,"B,S,C",3.25
+1097,Hummingbird,Canada,Venezuela,70.0,3.0,"B,S,C",3.75
+1307,Hummingbird,Canada,Bolivia,70.0,3.0,"B,S,C",3.0
+1311,Hummingbird,Canada,Bolivia,70.0,3.0,"B,S,C",3.0
+1311,Hummingbird,Canada,Nicaragua,70.0,3.0,"B,S,C",3.0
+1387,Hummingbird,Canada,Dominican Republic,70.0,3.0,"B,S,C",3.5
+1311,Hummingbird,Canada,Dominican Republic,70.0,3.0,"B,S,C",3.75
+1542,Hummingbird,Canada,Vietnam,70.0,3.0,"B,S,C",3.5
+729,Idilio (Felchlin),Switzerland,Venezuela,72.0,3.0,"B,S,C",3.25
+737,Idilio (Felchlin),Switzerland,Venezuela,72.0,3.0,"B,S,C",3.5
+725,Idilio (Felchlin),Switzerland,Venezuela,72.0,3.0,"B,S,C",3.75
+725,Idilio (Felchlin),Switzerland,Venezuela,72.0,3.0,"B,S,C",3.75
+733,Idilio (Felchlin),Switzerland,Venezuela,72.0,3.0,"B,S,C",3.75
+733,Idilio (Felchlin),Switzerland,Venezuela,74.0,3.0,"B,S,C",4.0
+737,Idilio (Felchlin),Switzerland,Venezuela,70.0,3.0,"B,S,C",4.0
+737,Idilio (Felchlin),Switzerland,Venezuela,72.0,3.0,"B,S,C",4.0
+737,Idilio (Felchlin),Switzerland,Venezuela,72.0,3.0,"B,S,C",4.0
+1085,Idilio (Felchlin),Switzerland,Venezuela,72.0,3.0,"B,S,C",3.75
+1788,Indah,India,India,61.0,4.0,"B,S,C,L",2.5
+1255,Indi,U.S.A.,Honduras,77.0,3.0,"B,S,C",3.0
+2008,Indi,U.S.A.,Vietnam,72.0,3.0,"B,S,C",3.25
+943,iQ Chocolate,Scotland,Peru,72.0,4.0,"B,S*,C,L",2.75
+943,iQ Chocolate,Scotland,Peru,72.0,4.0,"B,S*,C,L",3.0
+1279,Isidro,U.S.A.,Peru,72.0,2.0,"B,S",2.25
+1279,Isidro,U.S.A.,Belize,72.0,2.0,"B,S",3.25
+1279,Isidro,U.S.A.,Dominican Republic,72.0,2.0,"B,S",3.25
+1275,Isidro,U.S.A.,Madagascar,72.0,2.0,"B,S",3.5
+2250,Islands Chocolate,St.Vincent-Grenadines,St.Vincent-Grenadines,72.0,4.0,"B,S,C,L",2.75
+1546,Izard,U.S.A.,Dominican Republic,70.0,2.0,"B,S",2.75
+1542,Izard,U.S.A.,Belize,70.0,2.0,"B,S",3.5
+5,Jacque Torres,U.S.A.,Ghana,71.0,5.0,"B,S,C,V,L",2.0
+2146,Jean Marie Auboine,U.S.A.,Venezuela,72.0,3.0,"B,S,C",3.25
+1976,Johnny Iuzzini,U.S.A.,Jamaica,67.0,4.0,"B,S,C,L",3.0
+1976,Johnny Iuzzini,U.S.A.,Peru,75.0,4.0,"B,S,C,L",3.0
+1972,Johnny Iuzzini,U.S.A.,Venezuela,72.0,3.0,"B,S,C",3.5
+1976,Johnny Iuzzini,U.S.A.,Vietnam,65.0,4.0,"B,S,C,L",3.5
+1980,Johnny Iuzzini,U.S.A.,Ecuador,70.0,4.0,"B,S,C,L",3.5
+2008,Johnny Iuzzini,U.S.A.,Madagascar,68.0,5.0,"B,S,C,V,L",3.5
+2008,Johnny Iuzzini,U.S.A.,Ecuador,78.0,4.0,"B,S,C,L",3.75
+2100,Johnny Iuzzini,U.S.A.,India,66.0,4.0,"B,S,C,L",3.0
+2104,Johnny Iuzzini,U.S.A.,Colombia,73.0,4.0,"B,S,C,L",3.25
+2104,Johnny Iuzzini,U.S.A.,Trinidad,80.0,4.0,"B,S,C,L",3.25
+1534,Jordis,Czech Republic,Madagascar,63.0,2.0,"B,S",2.75
+2458,Jordis,Czech Republic,Venezuela,75.0,3.0,"B,S,C",2.75
+2218,Kad Kokoa,Thailand,Thailand,70.0,3.0,"B,S,C",3.0
+2214,Kad Kokoa,Thailand,Thailand,70.0,3.0,"B,S,C",3.5
+2218,Kad Kokoa,Thailand,Thailand,70.0,3.0,"B,S,C",3.5
+2218,Kad Kokoa,Thailand,Thailand,70.0,3.0,"B,S,C",3.75
+1069,Kah Kow,Dominican Republic,Dominican Republic,82.0,5.0,"B,S,C,V,L",3.0
+1069,Kah Kow,Dominican Republic,Dominican Republic,55.0,5.0,"B,S,C,V,L",3.25
+1073,Kah Kow,Dominican Republic,Dominican Republic,62.0,5.0,"B,S,C,V,L",3.25
+1061,Kah Kow,Dominican Republic,Dominican Republic,70.0,5.0,"B,S,C,V,L",3.5
+2498,Kah Kow,U.S.A.,Dominican Republic,68.0,4.0,"B,S,C,L",3.75
+2498,Kah Kow,U.S.A.,Dominican Republic,70.0,3.0,"B,S,C",3.75
+2502,Kah Kow,U.S.A.,Dominican Republic,67.0,4.0,"B,S,C,L",3.75
+2394,Kah Kow - USA,Dominican Republic,Dominican Republic,70.0,3.0,"B,S,C",3.0
+2454,Kah Kow - USA,U.S.A.,Dominican Republic,72.0,4.0,"B,S,C,L",3.0
+2390,Kah Kow - USA,Dominican Republic,Dominican Republic,71.5,3.0,"B,S,C",3.5
+2422,Kah Kow - USA,Dominican Republic,Dominican Republic,68.0,4.0,"B,S,C,L",3.75
+2454,Kah Kow - USA,U.S.A.,Dominican Republic,65.0,4.0,"B,S,C,L",3.75
+2338,Kaitxo,Spain,Nicaragua,75.0,3.0,"B,S,C",3.0
+2338,Kaitxo,Spain,Peru,75.0,3.0,"B,S,C",3.0
+2334,Kaitxo,Spain,Tanzania,75.0,3.0,"B,S,C",3.25
+387,Kakao,Germany,Vanuatu,65.0,,,3.75
+837,Kakao,Germany,Peru,64.0,,,2.5
+248,Kallari (Ecuatoriana),Ecuador,Ecuador,85.0,4.0,"B,S,C,V",2.5
+263,Kallari (Ecuatoriana),Ecuador,Ecuador,75.0,4.0,"B,S,C,V",2.5
+245,Kallari (Ecuatoriana),Ecuador,Ecuador,75.0,4.0,"B,S,C,V",2.75
+248,Kallari (Ecuatoriana),Ecuador,Ecuador,85.0,4.0,"B,S,C,V",2.75
+241,Kallari (Ecuatoriana),Ecuador,Ecuador,70.0,4.0,"B,S,C,V",3.0
+248,Kallari (Ecuatoriana),Ecuador,Ecuador,85.0,4.0,"B,S,C,V",3.0
+269,Kallari (Ecuatoriana),Ecuador,Ecuador,85.0,4.0,"B,S,C,V",3.0
+241,Kallari (Ecuatoriana),Ecuador,Ecuador,70.0,4.0,"B,S,C,V",3.5
+404,Kaoka (Cemoi),France,Blend,70.0,,,2.75
+423,Kaoka (Cemoi),France,Ecuador,80.0,,,2.75
+2708,Kasama,Canada,Philippines,70.0,3.0,"B,S,C",3.25
+2708,Kasama,Canada,Papua New Guinea,70.0,3.0,"B,S,C",3.5
+1133,Kerchner,U.S.A.,Dominican Republic,70.0,3.0,"B,S,C",3.75
+431,Ki' Xocolatl,Mexico,Mexico,72.0,5.0,"B,S,C,V,L",2.0
+2478,Kin + Pod,Canada,Colombia,70.0,3.0,"B,S,C",3.25
+1251,Kiskadee,U.S.A.,Dominican Republic,60.0,2.0,"B,S",3.0
+1968,Krak,Amsterdam,Belize,70.0,2.0,"B,S",3.0
+1968,Krak,Amsterdam,Vietnam,70.0,2.0,"B,S",3.0
+2016,Krak,Amsterdam,Mexico,70.0,2.0,"B,S",3.25
+2064,Krak,Amsterdam,Madagascar,70.0,2.0,"B,S",3.0
+2068,Krak,Amsterdam,Philippines,70.0,2.0,"B,S",3.25
+2044,Krak,Amsterdam,Mexico,70.0,2.0,"B,S",3.75
+2286,Krak,Netherlands,Colombia,70.0,2.0,"B,S",3.0
+2282,Krak,Amsterdam,Papua New Guinea,70.0,2.0,"B,S",3.25
+1422,Kto,U.S.A.,Peru,72.0,2.0,"B,S",2.5
+1422,Kto,U.S.A.,Venezuela,72.0,3.0,"B,S,C",2.75
+1422,Kto,U.S.A.,Belize,72.0,3.0,"B,S,C",3.0
+1422,Kto,U.S.A.,Madagascar,72.0,3.0,"B,S,C",3.25
+1426,Kto,U.S.A.,Belize,90.0,2.0,"B,S",3.25
+1426,Kto,U.S.A.,Dominican Republic,72.0,3.0,"B,S,C",3.25
+1426,Kto,U.S.A.,Dominican Republic,72.0,3.0,"B,S,C",3.25
+1852,K'ul,U.S.A.,Peru,70.0,4.0,"B,S,C,L",2.75
+1840,K'ul,U.S.A.,Haiti,70.0,4.0,"B,S,C,L",3.25
+1852,K'ul,U.S.A.,Brazil,70.0,4.0,"B,S,C,L",3.75
+1852,K'ul,U.S.A.,Ecuador,70.0,4.0,"B,S,C,L",3.75
+1359,Kyya,U.S.A.,Uganda,72.5,5.0,"B,S,C,V,Sa",2.5
+1363,Kyya,U.S.A.,Ecuador,72.5,5.0,"B,S,C,V,Sa",2.5
+1359,Kyya,U.S.A.,Dominican Republic,72.5,5.0,"B,S,C,V,Sa",3.0
+1363,Kyya,U.S.A.,Madagascar,72.5,5.0,"B,S,C,V,Sa",3.0
+451,L.A. Burdick (Felchlin),U.S.A.,Bolivia,68.0,5.0,"B,S,C,V,L",3.0
+431,L.A. Burdick (Felchlin),U.S.A.,Madagascar,64.0,5.0,"B,S,C,V,L",3.5
+597,L.A. Burdick (Felchlin),U.S.A.,Venezuela,71.0,5.0,"B,S,C,V,L",3.0
+576,L.A. Burdick (Felchlin),U.S.A.,Grenada,75.0,5.0,"B,S,C,V,L",3.25
+576,L.A. Burdick (Felchlin),U.S.A.,Dominican Republic,74.0,5.0,"B,S,C,V,L",3.75
+682,L.A. Burdick (Felchlin),U.S.A.,Ecuador,74.0,5.0,"B,S,C,V,L",3.75
+891,L.A. Burdick (Felchlin),U.S.A.,Peru,74.0,5.0,"B,S,C,V,L",3.25
+927,L.A. Burdick (Felchlin),U.S.A.,Venezuela,68.0,5.0,"B,S,C,V,L",3.75
+891,L.A. Burdick (Felchlin),U.S.A.,Brazil,70.0,5.0,"B,S,C,V,L",4.0
+2426,La Cascade du Chocolat,U.S.A.,Fiji,68.0,3.0,"B,S,C",3.0
+1892,La Chocolaterie Nanairo,Japan,Peru,70.0,,,2.25
+1892,La Chocolaterie Nanairo,Japan,Peru,70.0,,,2.5
+1892,La Chocolaterie Nanairo,Japan,Belize,70.0,,,3.0
+1892,La Chocolaterie Nanairo,Japan,Peru,70.0,,,3.0
+2138,La Chorena,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.0
+2138,La Chorena,U.S.A.,Peru,75.0,2.0,"B,S",3.0
+2138,La Chorena,U.S.A.,Belize,70.0,4.0,"B,S,C,L",3.25
+2138,La Chorena,U.S.A.,Guatemala,70.0,2.0,"B,S",3.25
+2254,La Feverie (Hasnaa),France,Belize,70.0,2.0,"B,S",3.5
+2254,La Feverie (Hasnaa),France,Guatemala,70.0,2.0,"B,S",3.5
+2358,La Feverie (Hasnaa),France,Peru,72.0,2.0,"B,S",3.5
+230,La Maison du Chocolat (Valrhona),France,Blend,74.0,4.0,"B,S,C,L",3.5
+439,La Maison du Chocolat (Valrhona),France,Blend,60.0,4.0,"B,S,C,L",3.0
+346,La Maison du Chocolat (Valrhona),France,Ghana,68.0,4.0,"B,S,C,L",3.25
+346,La Maison du Chocolat (Valrhona),France,Venezuela,69.0,4.0,"B,S,C,L",3.5
+445,La Maison du Chocolat (Valrhona),France,Blend,60.0,4.0,"B,S,C,L",3.75
+741,La Maison du Chocolat (Valrhona),France,Grenada,68.0,4.0,"B,S,C,L",3.5
+891,La Maison du Chocolat (Valrhona),France,Dominican Republic,66.0,4.0,"B,S,C,L",3.5
+1121,La Maison du Chocolat (Valrhona),France,Blend,74.0,4.0,"B,S,C,L",2.75
+1145,La Maison du Chocolat (Valrhona),France,Tobago,60.0,4.0,"B,S,C,L",3.25
+1189,La Maison du Chocolat (Valrhona),France,Ecuador,56.0,4.0,"B,S,C,L",3.25
+721,La Oroquidea,Peru,Peru,72.0,,,2.5
+713,La Pepa de Oro,Ecuador,Ecuador,60.0,,,3.25
+2186,La Rifa,Mexico,Mexico,70.0,2.0,"B,S",3.0
+2182,La Rifa,Mexico,Mexico,70.0,2.0,"B,S",3.5
+2186,La Rifa,Mexico,Mexico,70.0,2.0,"B,S",3.5
+1434,Laia aka Chat-Noir,France,Cuba,70.0,4.0,"B,S,C,L",2.75
+1438,Laia aka Chat-Noir,France,Blend,68.0,4.0,"B,S,C,L",2.75
+1590,Laia aka Chat-Noir,France,Madagascar,75.0,4.0,"B,S,C,L",2.75
+1590,Laia aka Chat-Noir,France,Vietnam,75.0,4.0,"B,S,C,L",2.75
+1590,Laia aka Chat-Noir,France,Cuba,75.0,4.0,"B,S,C,L",3.0
+1594,Laia aka Chat-Noir,France,Ivory Coast,75.0,4.0,"B,S,C,L",3.0
+1590,Laia aka Chat-Noir,France,Peru,75.0,4.0,"B,S,C,L",3.25
+1642,Laia aka Chat-Noir,France,Brazil,75.0,4.0,"B,S,C,L",3.25
+1638,Laia aka Chat-Noir,France,Sao Tome,75.0,4.0,"B,S,C,L",3.5
+1642,Laia aka Chat-Noir,France,Vietnam,75.0,4.0,"B,S,C,L",3.75
+927,Lajedo do Ouro,Brazil,Brazil,70.0,,,3.5
+327,Lake Champlain (Callebaut),U.S.A.,Tanzania,75.0,,,2.5
+833,L'Amourette,U.S.A.,Venezuela,75.0,5.0,"B,S,C,V,L",3.0
+833,L'Amourette,U.S.A.,Venezuela,75.0,5.0,"B,S,C,V,L",3.0
+853,L'Amourette,U.S.A.,Blend,72.0,5.0,"B,S,C,V,L",3.0
+1784,L'Amourette,U.S.A.,Nicaragua,80.0,2.0,"B,S",3.5
+2048,Land,U.K.,Nicaragua,71.0,3.0,"B,S,C",3.0
+2048,Land,U.K.,Honduras,70.0,3.0,"B,S,C",3.25
+2048,Land,U.K.,Nicaragua,73.0,3.0,"B,S,C",3.5
+1972,Landmark (Amano),U.S.A.,Bolivia,74.0,3.0,"B,S,C",3.75
+2266,Legast,Belgium,Colombia,70.0,3.0,"B,S,C",2.75
+2262,Legast,Belgium,Costa Rica,70.0,3.0,"B,S,C",3.25
+2266,Legast,Belgium,Peru,70.0,3.0,"B,S,C",3.5
+1371,Letterpress,U.S.A.,Peru,70.0,2.0,"B,S",3.5
+1566,Letterpress,U.S.A.,Costa Rica,70.0,2.0,"B,S",3.0
+1562,Letterpress,U.S.A.,Bolivia,70.0,2.0,"B,S",3.25
+1566,Letterpress,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.25
+1562,Letterpress,U.S.A.,Trinidad,70.0,2.0,"B,S",3.5
+1566,Letterpress,U.S.A.,Tanzania,70.0,2.0,"B,S",3.5
+1728,Letterpress,U.S.A.,Liberia,70.0,2.0,"B,S",3.25
+1952,Letterpress,U.S.A.,Belize,70.0,2.0,"B,S",3.25
+1952,Letterpress,U.S.A.,Honduras,70.0,2.0,"B,S",3.5
+1984,Letterpress,U.S.A.,Peru,70.0,3.0,"B,S,C",4.0
+2122,Letterpress,U.S.A.,Ghana,70.0,3.0,"B,S,C",3.75
+2338,Letterpress,U.S.A.,Jamaica,70.0,3.0,"B,S,C",3.25
+2442,Letterpress,U.S.A.,Bolivia,70.0,3.0,"B,S,C",3.25
+2562,Letterpress,U.S.A.,Sao Tome & Principe,70.0,3.0,"B,S,C",3.5
+2562,Letterpress,U.S.A.,U.S.A.,70.0,3.0,"B,S,C",3.75
+1231,Levy,Finland,Madagascar,71.0,3.0,"B,S,C",3.5
+1856,Lilla,Finland,Madagascar,70.0,2.0,"B,S",3.0
+947,Lillie Belle,U.S.A.,Blend,75.0,2.0,"B,S",2.75
+947,Lillie Belle,U.S.A.,Dominican Republic,74.0,2.0,"B,S",3.0
+855,Lillie Belle,U.S.A.,Peru,65.0,2.0,"B,S",3.5
+903,Lillie Belle,U.S.A.,Bolivia,68.0,2.0,"B,S",3.5
+947,Lillie Belle,U.S.A.,Bolivia,68.0,2.0,"B,S",3.5
+903,Lillie Belle,U.S.A.,Peru,68.0,2.0,"B,S",3.75
+157,Lindt & Sprungli,Switzerland,Blend,85.0,4.0,"B,S,C,V",3.0
+2538,Lirio,U.S.A.,Sierra Leone,72.0,2.0,"B,S",2.5
+2538,Lirio,U.S.A.,India,72.0,2.0,"B,S",3.0
+2538,Lirio,U.S.A.,Vietnam,72.0,2.0,"B,S",3.0
+1049,Loiza,Puerto Rico,Puerto Rico,65.0,5.0,"B,S,C,V,L",2.5
+1093,Lonohana,U.S.A.,U.S.A.,71.0,4.0,"B,S,C,V",3.0
+1097,Lonohana,U.S.A.,U.S.A.,72.0,4.0,"B,S,C,V",3.0
+1097,Lonohana,U.S.A.,U.S.A.,70.0,4.0,"B,S,C,V",3.5
+1395,Lonohana,U.S.A.,U.S.A.,65.0,4.0,"B,S,C,V",3.25
+1383,Lonohana,U.S.A.,U.S.A.,70.0,2.0,"B,S",3.75
+1395,Lonohana,U.S.A.,U.S.A.,75.0,4.0,"B,S,C,V",3.75
+2590,Loon,U.S.A.,Bolivia,70.0,3.0,"B,S,C",2.75
+2586,Loon,U.S.A.,Belize,75.0,3.0,"B,S,C",3.0
+1502,Love Bar,U.S.A.,Nicaragua,75.0,2.0,"B,S",2.0
+2194,Love Brown,Taiwan,Nicaragua,75.0,2.0,"B,S",2.5
+2194,Love Brown,Taiwan,Sumatra,70.0,2.0,"B,S",3.0
+2198,Love Brown,Taiwan,Nicaragua,80.0,2.0,"B,S",3.25
+2198,Love Brown,Taiwan,Nicaragua,78.0,2.0,"B,S",3.5
+1976,Luisa Abram,Brazil,Brazil,81.0,2.0,"B,S",3.25
+2238,Luisa Abram,Brazil,Brazil,70.0,2.0,"B,S",3.0
+2692,Luisa Abram,Brazil,Brazil,70.0,3.0,"B,S,C",3.25
+2518,Luisa's Vegan,U.K.,Papua New Guinea,72.0,3.0,"B,S,C",3.25
+552,Luker,Colombia,Blend,46.0,5.0,"B,S,C,V,L",2.75
+552,Luker,Colombia,Blend,60.0,5.0,"B,S,C,V,L",3.0
+552,Luker,Colombia,Blend,58.0,5.0,"B,S,C,V,L",3.0
+552,Luker,Colombia,Colombia,65.0,5.0,"B,S,C,V,L",3.5
+2506,Lumineux,U.S.A.,India,72.0,3.0,"B,S,C",3.0
+2502,Lumineux,U.S.A.,Madagascar,73.0,3.0,"B,S,C",3.25
+2502,Lumineux,U.S.A.,Tanzania,75.0,3.0,"B,S,C",3.25
+2506,Lumineux,U.S.A.,Uganda,68.0,3.0,"B,S,C",3.25
+2506,Lumineux,U.S.A.,Ivory Coast,67.0,3.0,"B,S,C",3.5
+552,Machu Picchu Trading Co.,Peru,Peru,55.0,,,2.25
+721,Machu Picchu Trading Co.,Peru,Peru,70.0,,,1.5
+2426,MaDe Atlantic City Chocolate Bar,U.S.A.,Uganda,75.0,3.0,"B,S,C",2.5
+2430,MaDe Atlantic City Chocolate Bar,U.S.A.,Ghana,75.0,3.0,"B,S,C",2.75
+284,Madecasse (Cinagra),Madagascar,Madagascar,67.0,5.0,"B,S,C,V,L",3.5
+288,Madecasse (Cinagra),Madagascar,Madagascar,75.0,5.0,"B,S,C,V,L",3.5
+284,Madecasse (Cinagra),Madagascar,Madagascar,70.0,5.0,"B,S,C,V,L",3.75
+284,Madecasse (Cinagra),Madagascar,Madagascar,63.0,5.0,"B,S,C,V,L",4.0
+2664,Madhu,U.S.A.,Colombia,70.0,2.0,"B,S",2.5
+607,Madre,U.S.A.,Mexico,72.0,4.0,"B,S,C,V",2.75
+672,Madre,U.S.A.,Dominican Republic,70.0,4.0,"B,S,C,V",2.5
+693,Madre,U.S.A.,Costa Rica,70.0,4.0,"B,S,C,V",2.75
+991,Madre,U.S.A.,U.S.A.,70.0,4.0,"B,S,C,V",3.25
+995,Madre,U.S.A.,U.S.A.,70.0,4.0,"B,S,C,V",3.25
+995,Madre,U.S.A.,U.S.A.,70.0,4.0,"B,S,C,V",3.5
+1085,Madre,U.S.A.,Puerto Rico,70.0,4.0,"B,S,C,V",2.75
+1089,Madre,U.S.A.,U.S.A.,70.0,4.0,"B,S,C,V",2.75
+1089,Madre,U.S.A.,Mexico,70.0,4.0,"B,S,C,V",2.75
+1085,Madre,U.S.A.,Brazil,70.0,4.0,"B,S,C,V",3.5
+1940,Madre,U.S.A.,Solomon Islands,73.0,2.0,"B,S",3.5
+300,Maglio,Italy,Tanzania,75.0,4.0,"B,S,C,V",2.0
+308,Maglio,Italy,Ecuador,70.0,4.0,"B,S,V,L",3.0
+308,Maglio,Italy,Cuba,70.0,5.0,"B,S,C,V,L",3.25
+308,Maglio,Italy,Dominican Republic,70.0,5.0,"B,S,C,V,L",3.75
+531,Majani,Italy,Ecuador,70.0,4.0,"B,S,C,L",2.0
+184,Malagasy (Chocolaterie Robert),Madagascar,Madagascar,75.0,4.0,"B,S,C,L",2.75
+184,Malagasy (Chocolaterie Robert),Madagascar,Madagascar,73.0,4.0,"B,S,C,L",3.5
+1121,Malagos,Philippines,Philippines,65.0,5.0,"B,S,C,V,L",3.5
+2226,Malai,Thailand,Thailand,70.0,3.0,"B,S*,C",2.75
+311,Malie Kai (Guittard),U.S.A.,U.S.A.,55.0,5.0,"B,S,C,V,L",2.75
+502,Malie Kai (Guittard),U.S.A.,U.S.A.,55.0,5.0,"B,S,C,V,L",3.5
+1856,Malmo,Sweden,Venezuela,70.0,3.0,"B,S,C",3.0
+821,Mana,U.S.A.,Dominican Republic,74.0,3.0,"B,S,C",3.75
+1219,Mana,U.S.A.,Peru,74.0,3.0,"B,S,C",2.5
+1219,Mana,U.S.A.,Venezuela,74.0,3.0,"B,S,C",2.75
+1446,Mana,U.S.A.,Ecuador,74.0,2.0,"B,S",2.5
+1331,Manifesto Cacao,Colombia,Colombia,70.0,4.0,"B,S,C,L",2.75
+1007,Manoa,U.S.A.,U.S.A.,72.0,3.0,"B,S,C",2.75
+1007,Manoa,U.S.A.,Peru,72.0,3.0,"B,S,C",3.0
+1003,Manoa,U.S.A.,Liberia,72.0,3.0,"B,S,C",3.25
+1007,Manoa,U.S.A.,U.S.A.,72.0,3.0,"B,S,C",3.25
+1089,Manoa,U.S.A.,U.S.A.,72.0,3.0,"B,S,C",3.75
+1522,Manoa,U.S.A.,Papua New Guinea,72.0,3.0,"B,S,C",3.5
+1522,Manoa,U.S.A.,Costa Rica,72.0,3.0,"B,S,C",3.75
+2032,Manoa,U.S.A.,Peru,70.0,3.0,"B,S,C",3.25
+2442,Manoa,U.S.A.,U.S.A.,70.0,3.0,"B,S,C",3.5
+871,Manufaktura Czekolady,Poland,Dominican Republic,70.0,2.0,"B,S",3.25
+875,Manufaktura Czekolady,Poland,Ecuador,70.0,2.0,"B,S",3.25
+871,Manufaktura Czekolady,Poland,Ghana,70.0,2.0,"B,S",3.5
+1279,Manufaktura Czekolady,Poland,Colombia,85.0,2.0,"B,S",3.5
+1255,Manufaktura Czekolady,Poland,Venezuela,70.0,2.0,"B,S",3.75
+1848,Manufaktura Czekolady,Poland,Peru,70.0,3.0,"B,S,C",3.5
+1844,Manufaktura Czekolady,Poland,Nicaragua,70.0,3.0,"B,S,C",3.75
+1606,Map Chocolate,U.S.A.,Trinidad,70.0,3.0,"B,S,C",2.75
+1610,Map Chocolate,U.S.A.,Colombia,75.0,3.0,"B,S,C",2.75
+1610,Map Chocolate,U.S.A.,Tanzania,72.0,3.0,"B,S,C",3.0
+1474,Map Chocolate,U.S.A.,Dominican Republic,70.0,3.0,"B,S,C",3.5
+1474,Map Chocolate,U.S.A.,Peru,62.0,3.0,"B,S,C",3.5
+1478,Map Chocolate,U.S.A.,Ecuador,70.0,3.0,"B,S,C",3.5
+1606,Map Chocolate,U.S.A.,Nicaragua,70.0,3.0,"B,S,C",3.5
+1606,Map Chocolate,U.S.A.,Peru,68.0,3.0,"B,S,C",3.5
+1634,Map Chocolate,U.S.A.,Honduras,78.0,3.0,"B,S,C",3.5
+1896,Map Chocolate,U.S.A.,Vietnam,75.0,3.0,"B,S,C",3.25
+1956,Map Chocolate,U.S.A.,Vietnam,73.0,2.0,"B,S",3.0
+2262,Map Chocolate,U.S.A.,Blend,72.0,3.0,"B,S,C",3.0
+2262,Map Chocolate,U.S.A.,Mexico,72.0,3.0,"B,S,C",3.25
+2040,Map Chocolate,U.S.A.,Dominican Republic,72.0,3.0,"B,S,C",3.5
+1884,Marana,Peru,Peru,70.0,3.0,"B,S,C",2.75
+2610,Marana,Peru,Peru,80.0,3.0,"B,S,C",3.25
+2610,Marana,Peru,Peru,70.0,3.0,"B,S,C",3.5
+2598,Maribea,U.S.A.,Mexico,72.0,3.0,"B,S,C",2.75
+2598,Maribea,U.S.A.,Bolivia,72.0,3.0,"B,S,C",2.75
+2598,Maribea,U.S.A.,Brazil,72.0,3.0,"B,S,C",3.25
+1808,Marigold's Finest,Canada,Blend,75.0,2.0,"B,S",3.25
+2158,Markham & Fitz,U.S.A.,Haiti,75.0,2.0,"B,S",2.75
+895,Marou,Vietnam,Vietnam,80.0,3.0,"B,S,C",3.0
+845,Marou,Vietnam,Vietnam,76.0,3.0,"B,S,C",3.5
+845,Marou,Vietnam,Vietnam,72.0,3.0,"B,S,C",3.5
+845,Marou,Vietnam,Vietnam,70.0,3.0,"B,S,C",3.5
+849,Marou,Vietnam,Vietnam,78.0,3.0,"B,S,C",3.5
+955,Marou,Vietnam,Vietnam,74.0,3.0,"B,S,C",3.5
+1149,Marou,Vietnam,Vietnam,75.0,3.0,"B,S,C",3.5
+1650,Marou,Vietnam,Vietnam,85.0,2.0,"B,S",3.25
+1650,Marou,Vietnam,Vietnam,68.0,2.0,"B,S",3.5
+1650,Marou,Vietnam,Vietnam,70.0,2.0,"B,S",3.75
+2258,Marou,Vietnam,Vietnam,75.0,3.0,"B,S,C",3.5
+537,Mars,U.S.A.,Costa Rica,65.0,,,3.0
+544,Mars,U.S.A.,Ivory Coast,65.0,,,3.0
+544,Mars,U.S.A.,Nigeria,65.0,,,3.25
+544,Mars,U.S.A.,Ghana,65.0,,,3.5
+1189,Marsatta,U.S.A.,Dominican Republic,74.0,4.0,"B,S,C,V",2.25
+1189,Marsatta,U.S.A.,Dominican Republic,89.0,4.0,"B,S,C,V",2.5
+1836,Martin Mayer,Austria,Bolivia,76.0,3.0,"B,S,C",2.75
+1836,Martin Mayer,Austria,Haiti,82.0,3.0,"B,S,C",3.0
+1836,Martin Mayer,Austria,Colombia,74.0,3.0,"B,S,C",3.25
+572,Mast Brothers,U.S.A.,Venezuela,81.0,2.0,"B,S",2.75
+572,Mast Brothers,U.S.A.,Venezuela,75.0,2.0,"B,S",3.0
+572,Mast Brothers,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.25
+713,Mast Brothers,U.S.A.,Venezuela,81.0,2.0,"B,S",2.75
+777,Mast Brothers,U.S.A.,Papua New Guinea,71.0,2.0,"B,S",2.75
+701,Mast Brothers,U.S.A.,Venezuela,76.0,2.0,"B,S",3.0
+709,Mast Brothers,U.S.A.,Venezuela,70.0,2.0,"B,S",3.0
+777,Mast Brothers,U.S.A.,Peru,75.0,2.0,"B,S",3.0
+777,Mast Brothers,U.S.A.,Dominican Republic,73.0,2.0,"B,S",3.25
+672,Mast Brothers,U.S.A.,Blend,72.0,2.0,"B,S",3.5
+773,Mast Brothers,U.S.A.,Belize,70.0,2.0,"B,S",3.5
+777,Mast Brothers,U.S.A.,Dominican Republic,74.0,2.0,"B,S",3.75
+999,Mast Brothers,U.S.A.,Blend,72.0,2.0,"B,S",2.5
+999,Mast Brothers,U.S.A.,Venezuela,73.0,2.0,"B,S",2.75
+959,Mast Brothers,U.S.A.,Blend,73.0,2.0,"B,S",3.5
+1359,Mast Brothers,U.S.A.,Blend,75.0,2.0,"B,S",3.75
+1450,Mast Brothers,U.S.A.,Guatemala,76.0,2.0,"B,S",3.0
+1450,Mast Brothers,U.S.A.,Tanzania,74.0,2.0,"B,S",3.25
+1177,Matale,Australia,Vanuatu,72.0,3.0,"B,S,C",3.5
+1181,Matale,Australia,Blend,70.0,3.0,"B,S,C",3.75
+1177,Matale,Australia,Madagascar,68.0,3.0,"B,S,C",4.0
+1177,Matale,Australia,Papua New Guinea,74.0,3.0,"B,S,C",4.0
+2704,Maui Kuia,U.S.A.,U.S.A.,70.0,3.0,"B,S,C",3.5
+1367,Maverick,U.S.A.,Belize,70.0,2.0,"B,S",3.25
+1367,Maverick,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.25
+1430,Maverick,U.S.A.,Peru,82.0,2.0,"B,S",3.25
+1430,Maverick,U.S.A.,Peru,63.0,3.0,"B,S,C",3.5
+2482,Maverick,U.S.A.,U.S.A.,70.0,3.0,"B,S,C",3.0
+2486,Maverick,U.S.A.,Vietnam,75.0,3.0,"B,S,C",3.0
+2482,Maverick,U.S.A.,Madagascar,65.0,3.0,"B,S,C",3.25
+1728,Mayacama,U.S.A.,Dominican Republic,72.0,2.0,"B,S",3.0
+2474,McGuire,Canada,Guatemala,70.0,3.0,"B,S,C",2.5
+2478,McGuire,Canada,Belize,70.0,3.0,"B,S,C",3.25
+1287,Meadowlands,U.S.A.,Bolivia,70.0,2.0,"B,S",2.5
+1287,Meadowlands,U.S.A.,Venezuela,70.0,2.0,"B,S",2.75
+1287,Meadowlands,U.S.A.,Belize,70.0,2.0,"B,S",3.0
+1291,Meadowlands,U.S.A.,Nicaragua,70.0,2.0,"B,S",3.0
+1291,Meadowlands,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.5
+2362,Mellow,Denmark,Ecuador,85.0,2.0,"B,S*",2.5
+2362,Mellow,Denmark,Dominican Republic,70.0,2.0,"B,S*",2.75
+2362,Mellow,Denmark,Philippines,70.0,2.0,"B,S*",3.25
+2362,Mellow,Denmark,Tanzania,70.0,2.0,"B,S*",3.25
+837,Menakao (aka Cinagra),Madagascar,Madagascar,80.0,4.0,"B,S,C,L",2.5
+841,Menakao (aka Cinagra),Madagascar,Madagascar,72.0,4.0,"B,S,C,L",2.5
+1347,Mesocacao,Honduras,Honduras,80.0,3.0,"B,S,C",3.25
+1351,Mesocacao,Honduras,Nicaragua,70.0,3.0,"B,S,C",3.25
+1347,Mesocacao,Honduras,Honduras,70.0,3.0,"B,S,C",3.5
+1351,Mesocacao,Honduras,Nicaragua,80.0,3.0,"B,S,C",3.5
+1494,Mesocacao,Honduras,El Salvador,80.0,3.0,"B,S,C",2.75
+1494,Mesocacao,Honduras,El Salvador,70.0,3.0,"B,S,C",3.0
+2250,Mestico,Brazil,Brazil,75.0,3.0,"B,S,C",2.5
+1267,Metiisto,Sweden,Brazil,70.0,3.0,"B,S,C",3.0
+1267,Metiisto,Sweden,Madagascar,72.0,3.0,"B,S,C",3.5
+2166,Metiisto,Australia,Solomon Islands,72.0,3.0,"B,S,C",3.25
+2170,Metiisto,Australia,Solomon Islands,67.0,3.0,"B,S,C",3.75
+1688,Metropolitan,Amsterdam,Blend,70.0,3.0,"B,S,V",3.5
+2210,Meybol,Germany,Peru,70.0,3.0,"B,S,C",3.5
+24,Michel Cluizel,France,Blend,60.0,4.0,"B,S,C,V",2.0
+24,Michel Cluizel,France,Blend,85.0,4.0,"B,S,C,V",2.0
+81,Michel Cluizel,France,Blend,99.0,4.0,"B,S,C,V",2.0
+24,Michel Cluizel,France,Sao Tome,70.0,4.0,"B,S,C,V",3.0
+24,Michel Cluizel,France,Dominican Republic,67.0,4.0,"B,S,C,V",3.75
+24,Michel Cluizel,France,Madagascar,65.0,4.0,"B,S,C,V",3.75
+24,Michel Cluizel,France,Papua New Guinea,64.0,4.0,"B,S,C,V",3.75
+117,Michel Cluizel,France,Venezuela,66.0,4.0,"B,S,C,V",3.5
+135,Michel Cluizel,France,Sao Tome,67.0,4.0,"B,S,C,V",3.5
+963,Michel Cluizel,France,Mexico,66.0,4.0,"B,S,C,V",3.75
+2020,Michel Cluizel,France,Colombia,69.0,4.0,"B,S,C,V",3.25
+2270,Michel Cluizel,France,Brazil,70.0,4.0,"B,S,C,V",3.0
+2438,Michel Cluizel,France,Guatemala,70.0,4.0,"B,S,C,V",3.5
+887,Middlebury,U.S.A.,Blend,65.0,4.0,"B,S*,C,Sa",1.5
+887,Middlebury,U.S.A.,Bolivia,75.0,4.0,"B,S*,C,Sa",2.0
+887,Middlebury,U.S.A.,Indonesia,70.0,4.0,"B,S*,C,Sa",2.5
+1117,Middlebury,U.S.A.,Dominican Republic,75.0,3.0,"B,S*,Sa",2.5
+1117,Middlebury,U.S.A.,Belize,80.0,4.0,"B,S,C,Sa",3.25
+1538,Middlebury,U.S.A.,Tanzania,75.0,3.0,"B,S,C",3.25
+1490,Middlebury,U.S.A.,Belize,80.0,3.0,"B,S,C",3.5
+1490,Middlebury,U.S.A.,Trinidad,70.0,3.0,"B,S,C",3.5
+1538,Middlebury,U.S.A.,Nicaragua,70.0,3.0,"B,S,C",3.5
+1490,Middlebury,U.S.A.,Dominican Republic,75.0,3.0,"B,S,C",3.75
+1490,Middlebury,U.S.A.,Venezuela,75.0,3.0,"B,S,C",3.75
+2112,Mike & Becky,Belgium,Dominican Republic,70.0,3.0,"B,S,C",3.0
+2112,Mike & Becky,Belgium,India,70.0,3.0,"B,S,C",3.25
+2114,Mike & Becky,Belgium,Peru,70.0,3.0,"B,S,C",3.25
+2112,Mike & Becky,Belgium,Belize,70.0,3.0,"B,S,C",3.5
+825,Millcreek Cacao Roasters,U.S.A.,Ecuador,70.0,4.0,"B,S,C,V",3.5
+1073,Millcreek Cacao Roasters,U.S.A.,Ecuador,70.0,4.0,"B,S,C,V",2.5
+2346,Millesime,Belgium,Ecuador,70.0,3.0,"B,S,C",3.0
+2346,Millesime,Belgium,India,74.0,3.0,"B,S,C",3.0
+2346,Millesime,Belgium,Brazil,76.0,3.0,"B,S,C",3.0
+2566,Millesime,Belgium,Panama,75.0,3.0,"B,S,C",2.75
+2570,Millesime,Belgium,India,74.0,3.0,"B,S,C",3.0
+2570,Millesime,Belgium,Tanzania,90.0,3.0,"B,S,C",3.0
+2214,Milton,Japan,Brazil,70.0,2.0,"B,S",3.0
+2214,Milton,Japan,Vietnam,70.0,2.0,"B,S",3.25
+2210,Milton,Japan,Madagascar,70.0,2.0,"B,S",3.5
+2214,Milton,Japan,Peru,70.0,2.0,"B,S",3.75
+607,Mindo,U.S.A.,Ecuador,77.0,3.0,"B,S,C",2.75
+2382,Mindo,U.S.A.,Ecuador,67.0,3.0,"B,S,C",2.75
+1920,Minimal,Japan,Haiti,70.0,2.0,"B,S",3.5
+1960,Mirzam,U.A.E.,Papua New Guinea,72.0,2.0,"B,S",3.0
+1960,Mirzam,U.A.E.,Madagascar,72.0,2.0,"B,S",3.25
+1960,Mirzam,U.A.E.,India,65.0,3.0,"B,S,C",3.5
+1960,Mirzam,U.A.E.,Vietnam,65.0,2.0,"B,S",3.5
+2370,Mirzam,U.A.E.,Tanzania,72.0,3.0,"B,S,C",3.75
+2458,Misina,Czech Republic,Vietnam,70.0,3.0,"B,S,C",3.5
+1626,Mission,Brazil,Brazil,70.0,2.0,"B,S",3.5
+1880,Mission,Brazil,Brazil,75.0,2.0,"B,S",3.75
+2354,Mission,Brazil,Puerto Rico,70.0,3.0,"B,S,C",3.0
+955,Mita,Colombia,Colombia,65.0,,,2.5
+607,Moho,U.S.A.,Belize,67.0,3.0,"B,S,C",2.75
+1030,Moho,U.S.A.,Belize,72.0,3.0,"B,S,C",3.0
+1026,Moho,U.S.A.,Belize,73.0,3.0,"B,S,C",3.25
+2198,Moka Origins,U.S.A.,Brazil,72.0,3.0,"B,S,C",2.5
+2170,Moka Origins,U.S.A.,Cameroon,68.0,2.0,"B,S",3.0
+2350,Moka Origins,U.S.A.,Sierra Leone,72.0,3.0,"B,S,C",3.0
+2338,Moka Origins,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.5
+2450,Moka Origins,U.S.A.,Tanzania,72.0,2.0,"B,S",3.75
+2648,Moku,U.S.A.,Madagascar,70.0,3.0,"B,S,C",2.75
+2652,Moku,U.S.A.,Dominican Republic,70.0,3.0,"B,S,C",3.25
+1618,Molucca,U.S.A.,Indonesia,70.0,2.0,"B,S",2.75
+1614,Molucca,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.0
+1618,Molucca,U.S.A.,Peru,70.0,2.0,"B,S",3.25
+661,Momotombo,Nicaragua,Nicaragua,70.0,2.0,"B,S",2.75
+661,Momotombo,Nicaragua,Nicaragua,70.0,2.0,"B,S",2.75
+2142,Momotombo,Nicaragua,Nicaragua,70.0,3.0,"B,S,C",3.25
+1812,Monarque,Canada,Dominican Republic,72.0,2.0,"B,S",3.5
+2680,Monarque,Canada,Philippines,76.0,3.0,"B,S,C",3.5
+1391,Monsieur Truffe,Australia,Papua New Guinea,70.0,,,3.25
+2222,Monsoon,U.S.A.,Mexico,70.0,3.0,"B,S,C",3.25
+2656,Monsoon,U.S.A.,Peru,72.0,3.0,"B,S,C",3.5
+2542,Monsoon,U.S.A.,Ecuador,75.0,2.0,"B,S",3.75
+1654,Montecristi,Ecuador,Ecuador,70.0,,,3.25
+1654,Montecristi,Ecuador,Ecuador,63.0,,,3.5
+1658,Montecristi,Ecuador,Ecuador,85.0,,,3.5
+2490,MUCHO,Mexico,Mexico,70.0,3.0,"B,S,C",3.0
+1462,Muchomas (Mesocacao),U.S.A.,Nicaragua,70.0,3.0,"B,S,C",3.5
+1462,Muchomas (Mesocacao),U.S.A.,Nicaragua,80.0,3.0,"B,S,C",3.5
+2190,Musee du Chocolat Theobroma,Japan,Venezuela,70.0,2.0,"B,S",3.5
+1896,Mutari,U.S.A.,Dominican Republic,71.0,2.0,"B,S",2.75
+1896,Mutari,U.S.A.,Tanzania,68.0,2.0,"B,S",2.75
+1900,Mutari,U.S.A.,Madagascar,68.0,2.0,"B,S",2.75
+1900,Mutari,U.S.A.,Vietnam,80.0,2.0,"B,S",3.0
+1049,Nahua,Costa Rica,Costa Rica,58.0,3.0,"B,S,C",2.5
+1049,Nahua,Costa Rica,Costa Rica,70.0,3.0,"B,S,C",3.0
+867,Naive,Lithuania,Grenada,71.0,4.0,"B,S,C,V",2.5
+1046,Naive,Lithuania,Blend,70.0,4.0,"B,S,C,L",3.75
+1133,Naive,Lithuania,Peru,78.0,4.0,"B,S,C,L",3.75
+1399,Naive,Lithuania,Venezuela,75.0,4.0,"B,S,C,L",2.75
+1399,Naive,Lithuania,Venezuela,70.0,4.0,"B,S,C,L",3.0
+1379,Naive,Lithuania,Nicaragua,70.0,4.0,"B,S,C,L",3.25
+2458,Naive,Lithuania,Nicaragua,67.0,3.0,"B,S,C",2.75
+2418,Naive,Lithuania,El Salvador,70.0,3.0,"B,S,C",3.25
+1007,Nanea,U.S.A.,U.S.A.,85.0,,,3.5
+1403,Nathan Miller,U.S.A.,Peru,72.0,2.0,"B,S",2.25
+1403,Nathan Miller,U.S.A.,Dominican Republic,70.0,2.0,"B,S*",2.5
+1403,Nathan Miller,U.S.A.,Madagascar,73.5,2.0,"B,S",2.5
+1403,Nathan Miller,U.S.A.,Ghana,70.0,3.0,"B,S,C",3.5
+2060,Nearynogs,Ireland,Dominican Republic,70.0,2.0,"B,S",3.25
+15,Neuhaus (Callebaut),Belgium,Blend,73.0,5.0,"B,S,C,V,L",2.0
+15,Neuhaus (Callebaut),Belgium,Sao Tome,75.0,5.0,"B,S,C,V,L",2.75
+24,Neuhaus (Callebaut),Belgium,Venezuela,71.0,5.0,"B,S,C,V,L",3.0
+135,Neuhaus (Callebaut),Belgium,Blend,73.0,5.0,"B,S,C,V,L",1.0
+230,Neuhaus (Callebaut),Belgium,Trinidad,67.0,5.0,"B,S,C,V,L",3.75
+531,Neuhaus (Callebaut),Belgium,Papua New Guinea,70.0,5.0,"B,S,C,V,L",2.5
+1526,Nibble,U.S.A.,Venezuela,72.0,2.0,"B,S",2.25
+1526,Nibble,U.S.A.,Dominican Republic,72.0,2.0,"B,S",2.75
+1526,Nibble,U.S.A.,Madagascar,72.0,2.0,"B,S",3.0
+1526,Nibble,U.S.A.,Peru,72.0,2.0,"B,S",3.0
+2134,Nibble,U.S.A.,Brazil,72.0,2.0,"B,S",3.0
+1022,Night Owl,U.S.A.,Peru,75.0,3.0,"B,S,C",2.75
+1022,Night Owl,U.S.A.,Ecuador,75.0,3.0,"B,S,C",3.5
+2398,Nikoa,Ecuador,Ecuador,72.0,3.0,"B,S,C",3.75
+2142,Nina,Peru,Peru,70.0,3.0,"B,S,C",3.0
+2162,Ninth (9th) & Larkin,U.S.A.,Vietnam,72.0,3.0,"B,S,C",2.75
+2158,Ninth (9th) & Larkin,U.S.A.,Tanzania,72.0,3.0,"B,S,C",3.0
+2174,Ninth (9th) & Larkin,U.S.A.,Dominican Republic,72.0,3.0,"B,S,C",3.0
+2282,Ninth (9th) & Larkin,U.S.A.,Fiji,74.0,3.0,"B,S,C",2.75
+2394,Ninth (9th) & Larkin,U.S.A.,Colombia,72.0,3.0,"B,S,C",3.25
+1295,Noble Bean aka Jerjobo,U.S.A.,Ghana,75.0,4.0,"B,S*,V,L",3.0
+1299,Noble Bean aka Jerjobo,U.S.A.,Belize,75.0,4.0,"B,S*,V,L",3.0
+1299,Noble Bean aka Jerjobo,U.S.A.,Peru,75.0,4.0,"B,S*,V,L",3.25
+837,Noir d' Ebine,U.S.A.,Venezuela,70.0,,,3.0
+841,Noir d' Ebine,U.S.A.,Ecuador,70.0,,,3.0
+935,Nova Monda,Nicaragua,Nicaragua,75.0,2.0,"B,S",2.75
+931,Nova Monda,Nicaragua,Nicaragua,70.0,2.0,"B,S",3.0
+935,Nova Monda,Nicaragua,Ecuador,80.0,2.0,"B,S",3.25
+1458,Nuance,U.S.A.,Ecuador,70.0,2.0,"B,S",2.75
+1458,Nuance,U.S.A.,Venezuela,70.0,2.0,"B,S",3.0
+1458,Nuance,U.S.A.,Madagascar,70.0,2.0,"B,S",3.5
+1454,Nuance,U.S.A.,Ghana,70.0,2.0,"B,S",3.75
+1470,Nuance,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.75
+2486,Nuance,U.S.A.,Nigeria,70.0,3.0,"B,S,C",3.0
+2486,Nuance,U.S.A.,Vietnam,70.0,3.0,"B,S,C",3.25
+1876,Nugali,Brazil,Brazil,70.0,3.0,"B,S,C",3.5
+478,Oakland Chocolate Co.,U.S.A.,Jamaica,70.0,5.0,"B,S,C,V,L",2.5
+1638,Obolo,Chile,Peru,70.0,2.0,"B,S",3.75
+2386,Obolo,Chile,Peru,70.0,2.0,"B,S",3.75
+1558,Ocelot,Scotland,Congo,70.0,3.0,"B,S,C",3.75
+1558,Ocelot,Scotland,Peru,75.0,3.0,"B,S,C",4.0
+1411,Ocho,New Zealand,Papua New Guinea,66.0,2.0,"B,S",2.75
+1411,Ocho,New Zealand,Papua New Guinea,70.0,2.0,"B,S",3.0
+1411,Ocho,New Zealand,Papua New Guinea,88.0,2.0,"B,S",3.25
+1411,Ocho,New Zealand,Papua New Guinea,74.0,2.0,"B,S",3.5
+1760,Ocho,New Zealand,Samoa,100.0,1.0,B,2.75
+1760,Ocho,New Zealand,Samoa,70.0,2.0,"B,S",3.5
+2490,Odyssey,U.S.A.,Guatemala,70.0,2.0,"B,S",3.0
+2494,Odyssey,U.S.A.,Tanzania,70.0,2.0,"B,S",3.0
+2494,Odyssey,U.S.A.,Uganda,70.0,2.0,"B,S",3.25
+2494,Odyssey,U.S.A.,India,70.0,2.0,"B,S",3.25
+2498,Odyssey,U.S.A.,Colombia,70.0,2.0,"B,S",3.25
+2494,Odyssey,U.S.A.,Bolivia,70.0,2.0,"B,S",3.75
+2498,Odyssey,U.S.A.,Vietnam,70.0,2.0,"B,S",3.75
+2582,Odyssey,U.S.A.,Blend,100.0,1.0,B,3.0
+2704,Odyssey,U.S.A.,Venezuela,80.0,2.0,"B,S",3.0
+2582,Odyssey,U.S.A.,U.S.A.,70.0,2.0,"B,S",3.25
+2696,Odyssey,U.S.A.,Peru,70.0,2.0,"B,S",3.25
+2704,Odyssey,U.S.A.,Venezuela,70.0,2.0,"B,S",3.5
+2566,Odyssey,U.S.A.,Haiti,70.0,2.0,"B,S",3.75
+1594,Ohiyo,U.S.A.,Trinidad,70.0,3.0,"B,S,C",2.75
+1598,Ohiyo,U.S.A.,Tanzania,70.0,3.0,"B,S,C",3.0
+761,Oialla by Bojessen (Malmo),Germany,Bolivia,70.0,2.0,"B,S",3.5
+2142,Oialla by Bojessen (Malmo),Germany,Brazil,78.0,3.0,"B,S,C",3.75
+457,Olive and Sinclair,U.S.A.,Blend,67.0,3.0,"B,S,C",2.75
+457,Olive and Sinclair,U.S.A.,Blend,75.0,3.0,"B,S,C",3.0
+486,Olive and Sinclair,U.S.A.,Dominican Republic,72.0,3.0,"B,S,C",3.0
+486,Olive and Sinclair,U.S.A.,Ghana,72.0,3.0,"B,S,C",3.0
+688,Olivia,Canada,Blend,76.0,5.0,"B,S,C,V,L",2.0
+688,Olivia,Canada,Blend,76.0,5.0,"B,S,C,V,L",2.75
+688,Olivia,Canada,Blend,85.0,5.0,"B,S,C,V,L",2.75
+688,Olivia,Canada,Blend,85.0,5.0,"B,S,C,V,L",3.0
+693,Omanhene,Ghana,Ghana,80.0,4.0,"B,S,C,L",2.75
+1247,Omnom,Iceland,Papua New Guinea,70.0,3.0,"B,S,C",3.0
+1247,Omnom,Iceland,Madagascar,66.0,3.0,"B,S,C",3.5
+1816,Omnom,Iceland,Tanzania,70.0,3.0,"B,S,C",3.75
+2036,Omnom,Iceland,Nicaragua,73.0,3.0,"B,S,C",3.0
+2514,Or Dubh,U.S.A.,Madagascar,70.0,2.0,"B,S",3.25
+2518,Or Dubh,U.S.A.,Vietnam,70.0,2.0,"B,S",3.25
+2518,Or Dubh,U.S.A.,Tanzania,70.0,2.0,"B,S",3.5
+2680,Orfeve,Switzerland,Colombia,75.0,3.0,"B,S,C",2.75
+2676,Orfeve,Switzerland,Peru,70.0,3.0,"B,S,C",3.25
+2680,Orfeve,Switzerland,Peru,75.0,3.0,"B,S,C",3.25
+2676,Orfeve,Switzerland,Madagascar,75.0,3.0,"B,S,C",3.5
+1161,organicfair,Canada,Belize,74.0,3.0,"B,S,C",2.75
+1165,organicfair,Canada,Dominican Republic,72.0,3.0,"B,S,C",2.75
+1165,organicfair,Canada,Nicaragua,72.0,3.0,"B,S,C",2.75
+1165,organicfair,Canada,Dominican Republic,72.0,3.0,"B,S,C",3.0
+1165,organicfair,Canada,Ecuador,72.0,3.0,"B,S,C",3.0
+2076,organicfair,South Africa,Panama,71.0,3.0,"B,S,C",3.0
+331,Original Beans (Felchlin),Switzerland,Congo,70.0,3.0,"B,S,C",3.0
+341,Original Beans (Felchlin),Switzerland,Peru,75.0,3.0,"B,S,C",3.0
+341,Original Beans (Felchlin),Switzerland,Bolivia,68.0,3.0,"B,S,C",3.25
+733,Original Beans (Felchlin),Switzerland,Bolivia,66.0,3.0,"B,S,C",3.75
+1438,Original Beans (Felchlin),Switzerland,Papua New Guinea,68.0,3.0,"B,S,C",2.75
+1442,Original Beans (Felchlin),Switzerland,Blend,80.0,2.0,"B,S",3.25
+24,Original Hawaiin Chocolate Factory,U.S.A.,U.S.A.,60.0,5.0,"B,S,C,V,L",3.0
+316,Original Hawaiin Chocolate Factory,U.S.A.,U.S.A.,60.0,5.0,"B,S,C,V,L",3.0
+859,Orquidea,Peru,Peru,65.0,4.0,"B,S,C,L",3.0
+859,Orquidea,Peru,Peru,72.0,4.0,"B,S,C,L",3.0
+266,Pacari,Ecuador,Ecuador,100.0,,,2.0
+224,Pacari,Ecuador,Ecuador,60.0,4.0,"B,S,C,L",2.75
+224,Pacari,Ecuador,Ecuador,72.0,4.0,"B,S,C,L",3.0
+224,Pacari,Ecuador,Ecuador,65.0,4.0,"B,S,C,L",3.0
+266,Pacari,Ecuador,Ecuador,70.0,4.0,"B,S,C,L",3.5
+721,Pacari,Ecuador,Ecuador,70.0,4.0,"B,S,C,L",3.5
+817,Pacari,Ecuador,Ecuador,85.0,4.0,"B,S,C,L",2.75
+863,Pacari,Ecuador,Peru,70.0,4.0,"B,S,C,L",4.0
+1415,Pacari,Ecuador,Ecuador,70.0,4.0,"B,S,C,L",3.25
+1415,Pacari,Ecuador,Ecuador,70.0,4.0,"B,S,C,L",3.5
+1415,Pacari,Ecuador,Ecuador,70.0,4.0,"B,S,C,L",3.75
+1415,Pacari,Ecuador,Ecuador,70.0,4.0,"B,S,C,L",4.0
+1848,Pacari,Ecuador,Colombia,70.0,4.0,"B,S,C,L",4.0
+2234,Palet D'Or,Japan,Vietnam,72.0,5.0,"B,S,C,V,L",3.25
+2230,Palet D'Or,Japan,Haiti,70.0,5.0,"B,S,C,V,L",3.5
+2234,Palet D'Or,Japan,Cuba,72.0,5.0,"B,S,C,V,L",3.75
+1239,Palette de Bine,Canada,Bolivia,72.0,2.0,"B,S",2.75
+1303,Palette de Bine,Canada,Ecuador,75.0,2.0,"B,S",2.75
+1399,Palette de Bine,Canada,Blend,75.0,2.0,"B,S",3.5
+1239,Palette de Bine,Canada,Madagascar,78.0,2.0,"B,S",3.75
+1399,Palette de Bine,Canada,Trinidad,70.0,2.0,"B,S",3.75
+1570,Palette de Bine,Canada,Bolivia,70.0,2.0,"B,S",3.25
+1570,Palette de Bine,Canada,Trinidad,70.0,2.0,"B,S*",3.25
+1574,Palette de Bine,Canada,Tanzania,72.0,2.0,"B,S",3.5
+1574,Palette de Bine,Canada,Vietnam,72.0,2.0,"B,S",3.75
+1720,Palette de Bine,Canada,Guatemala,70.0,2.0,"B,S",2.75
+1720,Palette de Bine,Canada,Belize,72.0,2.0,"B,S",3.0
+1992,Palette de Bine,Canada,Peru,72.0,2.0,"B,S",2.75
+2000,Palette de Bine,Canada,Dominican Republic,75.0,2.0,"B,S",2.75
+1992,Palette de Bine,Canada,Haiti,70.0,2.0,"B,S",3.5
+2286,Palette de Bine,Canada,Peru,70.0,2.0,"B,S",3.5
+1860,Pangea,Spain,Fiji,76.0,2.0,"B,S",3.0
+2334,Pangea,Spain,Bolivia,76.0,2.0,"B,S",2.75
+2334,Pangea,Spain,Philippines,76.0,2.0,"B,S",3.0
+2298,Pangea,Spain,Belize,75.0,2.0,"B,S",3.25
+2298,Pangea,Spain,Madagascar,76.0,2.0,"B,S",3.25
+2302,Pangea,Spain,Dominican Republic,76.0,2.0,"B,S",3.25
+2302,Pangea,Spain,Peru,71.0,2.0,"B,S",3.5
+1363,Park 75,U.S.A.,Blend,65.0,3.0,"B,S,V",3.5
+1251,Parliament,U.S.A.,Bolivia,70.0,2.0,"B,S",3.0
+1255,Parliament,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.5
+1542,Parliament,U.S.A.,Guatemala,70.0,2.0,"B,S",3.5
+1856,Parliament,U.S.A.,Tanzania,70.0,2.0,"B,S",3.25
+2274,Parre Chocolat,U.S.A.,Guatemala,75.0,3.0,"B,S,C",2.75
+2274,Parre Chocolat,U.S.A.,Dominican Republic,75.0,3.0,"B,S,C",2.75
+2278,Parre Chocolat,U.S.A.,Colombia,75.0,3.0,"B,S,C",3.0
+1137,Pascha,Peru,Peru,55.0,4.0,"B,S,C,V",2.5
+1137,Pascha,Peru,Peru,70.0,4.0,"B,S,C,V",2.75
+196,Patric,U.S.A.,Madagascar,70.0,3.0,"B,S,C",4.0
+439,Patric,U.S.A.,Madagascar,67.0,3.0,"B,S,C",3.5
+439,Patric,U.S.A.,Venezuela,70.0,3.0,"B,S,C",3.5
+331,Patric,U.S.A.,Madagascar,75.0,3.0,"B,S,C",4.0
+636,Patric,U.S.A.,Blend,70.0,3.0,"B,S,C",3.75
+1034,Patric,U.S.A.,Peru,67.0,3.0,"B,S,C",4.0
+1271,Paul Young,U.K.,Madagascar,73.0,2.0,"B,S*",2.25
+1271,Paul Young,U.K.,Madagascar,64.0,2.0,"B,S*",2.75
+1454,Peppalo,U.S.A.,Dominican Republic,82.0,3.0,"B,S,C",3.0
+2258,Perrenial,U.S.A.,Fiji,75.0,3.0,"B,S*,C",3.0
+2294,Petite Patrie,Canada,Peru,70.0,4.0,"B,S,C,L",3.25
+93,Pierre Marcolini,Belgium,Indonesia,72.0,5.0,"B,S,C,V,L",3.0
+93,Pierre Marcolini,Belgium,Venezuela,72.0,5.0,"B,S,C,V,L",3.75
+81,Pierre Marcolini,Belgium,Mexico,72.0,5.0,"B,S,C,V,L",4.0
+166,Pierre Marcolini,Belgium,Blend,85.0,5.0,"B,S,C,V,L",3.5
+129,Pierre Marcolini,Belgium,Ecuador,72.0,5.0,"B,S,C,V,L",3.75
+111,Pierre Marcolini,Belgium,Blend,70.0,5.0,"B,S,C,V,L",4.0
+141,Pierre Marcolini,Belgium,Madagascar,72.0,5.0,"B,S,C,V,L",4.0
+414,Pierre Marcolini,Belgium,Brazil,72.0,5.0,"B,S,C,V,L",3.0
+445,Pierre Marcolini,Belgium,Mexico,72.0,5.0,"B,S,C,V,L",3.0
+478,Pierre Marcolini,Belgium,Venezuela,75.0,5.0,"B,S,C,V,L",3.0
+531,Pierre Marcolini,Belgium,Peru,85.0,5.0,"B,S,C,V,L",3.0
+478,Pierre Marcolini,Belgium,Trinidad,75.0,5.0,"B,S,C,V,L",3.25
+516,Pierre Marcolini,Belgium,Cuba,78.0,5.0,"B,S,C,V,L",3.75
+1658,Pierre Marcolini,Belgium,Cameroon,70.0,5.0,"B,S,C,V,L",3.25
+2342,Pierre Marcolini,Belgium,Madagascar,76.0,4.0,"B,S,C,L",3.0
+2342,Pierre Marcolini,Belgium,Cameroon,70.0,4.0,"B,S,C,L",3.0
+2700,Pierre Marcolini,Belgium,China,72.0,4.0,"B,S,C,L",3.5
+2462,Piety and Desire,U.S.A.,Vietnam,70.0,3.0,"B,S,C",3.0
+2462,Piety and Desire,U.S.A.,Tanzania,70.0,3.0,"B,S,C",3.5
+2462,Piety and Desire,U.S.A.,India,73.0,3.0,"B,S,C",3.5
+1772,Pinellas,U.S.A.,Honduras,80.0,4.0,"B,S,V,L",2.5
+1315,Pitch Dark,U.S.A.,Fiji,73.0,2.0,"B,S",2.5
+1311,Pitch Dark,U.S.A.,Madagascar,73.0,2.0,"B,S",3.25
+1319,Pitch Dark,U.S.A.,Ecuador,73.0,2.0,"B,S",3.25
+1319,Pitch Dark,U.S.A.,Ecuador,73.0,2.0,"B,S",3.5
+1506,Pitch Dark,U.S.A.,Nicaragua,62.0,3.0,"B,S,C",2.5
+1506,Pitch Dark,U.S.A.,Nicaragua,80.0,2.0,"B,S",2.75
+1510,Pitch Dark,U.S.A.,Nicaragua,80.0,3.0,"B,S,C",2.75
+1510,Pitch Dark,U.S.A.,Nicaragua,80.0,3.0,"B,S,C",2.75
+1510,Pitch Dark,U.S.A.,Nicaragua,80.0,2.0,"B,S",3.25
+2530,Pollinator,U.S.A.,Bolivia,70.0,3.0,"B,S,C",3.0
+2530,Pollinator,U.S.A.,Dominican Republic,70.0,3.0,"B,S,C",3.0
+2530,Pollinator,U.S.A.,Tanzania,70.0,3.0,"B,S,C",3.25
+829,Pomm (aka Dead Dog),U.S.A.,Dominican Republic,76.0,3.0,"B,S,C",2.5
+829,Pomm (aka Dead Dog),U.S.A.,Peru,82.0,3.0,"B,S,C",2.75
+2582,Poppy and Peep,U.S.A.,Haiti,71.0,3.0,"B,S,C",2.75
+2582,Poppy and Peep,U.S.A.,Guatemala,76.0,3.0,"B,S,C",3.0
+2586,Poppy and Peep,U.S.A.,Ghana,66.0,3.0,"B,S,C",3.0
+607,Potomac,U.S.A.,Costa Rica,82.0,2.0,"B,S",3.75
+789,Potomac,U.S.A.,Peru,70.0,2.0,"B,S",2.75
+654,Potomac,U.S.A.,Costa Rica,70.0,2.0,"B,S",3.0
+647,Potomac,U.S.A.,Costa Rica,70.0,2.0,"B,S",3.5
+789,Potomac,U.S.A.,Brazil,70.0,2.0,"B,S",3.5
+1387,Potomac,U.S.A.,Venezuela,70.0,2.0,"B,S",3.75
+1820,Potomac,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.75
+2076,Potomac,U.S.A.,Colombia,70.0,2.0,"B,S",4.0
+2538,Potomac,U.S.A.,Uganda,75.0,2.0,"B,S",3.75
+2622,Potomac,U.S.A.,Peru,70.0,2.0,"B,S",3.75
+40,Pralus,France,Vanuatu,75.0,4.0,"B,S,C,L",3.0
+99,Pralus,France,Cuba,75.0,4.0,"B,S,C,L",3.0
+99,Pralus,France,Blend,75.0,4.0,"B,S,C,L",3.0
+105,Pralus,France,Brazil,75.0,4.0,"B,S,C,L",3.0
+99,Pralus,France,Blend,75.0,4.0,"B,S,C,L",3.5
+32,Pralus,France,Jamaica,75.0,4.0,"B,S,C,L",3.75
+93,Pralus,France,Ecuador,80.0,4.0,"B,S,C,L",3.75
+162,Pralus,France,Sao Tome,75.0,4.0,"B,S,C,L",4.0
+280,Pralus,France,Dominican Republic,75.0,4.0,"B,S,C,L",2.0
+202,Pralus,France,Madagascar,100.0,2.0,"B,C",3.0
+280,Pralus,France,Brazil,75.0,4.0,"B,S,C,L",3.5
+451,Pralus,France,Venezuela,75.0,4.0,"B,S,C,L",2.0
+486,Pralus,France,Venezuela,75.0,4.0,"B,S,C,L",3.5
+717,Pralus,France,Venezuela,75.0,4.0,"B,S,C,L",3.25
+1446,Pralus,France,Peru,75.0,3.0,"B,S,C",3.25
+2406,Pralus,France,Papua New Guinea,75.0,4.0,"B,S,C,L",3.0
+2410,Pralus,France,Indonesia,75.0,4.0,"B,S,C,L",3.0
+2410,Pralus,France,Venezuela,75.0,4.0,"B,S,C,L",3.0
+2414,Pralus,France,Madagascar,75.0,4.0,"B,S,C,L",3.0
+2418,Pralus,France,Colombia,75.0,4.0,"B,S,C,L",3.0
+2410,Pralus,France,Trinidad,75.0,4.0,"B,S,C,L",3.25
+2414,Pralus,France,Ghana,75.0,4.0,"B,S,C,L",3.25
+2410,Pralus,France,Sao Tome & Principe,75.0,4.0,"B,S,C,L",3.5
+2414,Pralus,France,Tanzania,75.0,4.0,"B,S,C,L",3.5
+2418,Pralus,France,Ecuador,75.0,4.0,"B,S,C,L",3.5
+2118,Primo Botanica,U.S.A.,Tanzania,75.0,2.0,"B,S*",3.25
+2118,Primo Botanica,U.S.A.,Peru,75.0,2.0,"B,S*",3.25
+2318,Public Chocolatory,South Korea,Vietnam,70.0,2.0,"B,S",2.75
+1223,Pump Street Bakery,U.K.,Venezuela,75.0,3.0,"B,S,C",2.75
+1227,Pump Street Bakery,U.K.,Ecuador,85.0,3.0,"B,S,C",2.75
+1223,Pump Street Bakery,U.K.,Ecuador,75.0,3.0,"B,S,C",3.0
+1223,Pump Street Bakery,U.K.,Madagascar,72.0,3.0,"B,S,C",3.25
+1688,Pump Street Bakery,U.K.,Honduras,80.0,3.0,"B,S,C",2.75
+1502,Pump Street Bakery,U.K.,Grenada,70.0,3.0,"B,S,C",3.5
+1530,Pump Street Bakery,U.K.,Madagascar,74.0,3.0,"B,S,C",3.5
+1872,Pump Street Bakery,U.K.,Ecuador,77.0,3.0,"B,S,C",3.5
+1956,Pump Street Bakery,U.K.,Jamaica,75.0,2.0,"B,S",3.75
+2166,Pump Street Bakery,U.K.,Solomon Islands,72.0,3.0,"B,S,C",3.25
+931,Pura Delizia,Italy,Venezuela,73.0,4.0,"B,S,C,L",2.75
+1988,Pura Delizia,Italy,Ecuador,73.0,4.0,"B,S,C,L",3.25
+1988,Pura Delizia,Italy,Papua New Guinea,75.0,4.0,"B,S,C,L",3.25
+1984,Pura Delizia,Italy,Vietnam,75.0,4.0,"B,S,C,L",3.5
+1988,Pura Delizia,Italy,Philippines,66.0,4.0,"B,S,C,L",3.5
+1988,Pura Delizia,Italy,Dominican Republic,65.0,4.0,"B,S,C,L",3.75
+935,Q Chocolate,Brazil,Brazil,60.0,3.0,"B,S,C",3.0
+935,Q Chocolate,Brazil,Brazil,65.0,3.0,"B,S,C",3.25
+1069,Q Chocolate,Brazil,Brazil,55.0,3.0,"B,S,C",2.75
+1057,Q Chocolate,Brazil,Brazil,75.0,3.0,"B,S,C",3.25
+1069,Q Chocolate,Brazil,Brazil,80.0,3.0,"B,S,C",3.25
+1057,Q Chocolate,Brazil,Brazil,85.0,3.0,"B,S,C",3.5
+2238,Qantu,Canada,Peru,70.0,3.0,"B,S,C",3.0
+2426,Qantu,Canada,Peru,70.0,3.0,"B,S,C",3.75
+2470,Qantu,Canada,Peru,70.0,3.0,"B,S,C",3.5
+2506,Qantu,Canada,Peru,70.0,3.0,"B,S,C",4.0
+2594,Qantu,Canada,Peru,70.0,3.0,"B,S,C",3.75
+1796,Quetzalli (Wolter),Mexico,Mexico,70.0,3.0,"B,S,C",2.75
+1800,Quetzalli (Wolter),Mexico,Mexico,74.0,3.0,"B,S,C",3.0
+785,Raaka,U.S.A.,Dominican Republic,85.0,3.0,"B,S,C",3.5
+959,Raaka,U.S.A.,Madagascar,75.0,3.0,"B,S,C",3.25
+1708,Raaka,U.S.A.,Congo,75.0,3.0,"B,S,C",2.75
+1788,Raaka,U.S.A.,Peru,70.0,3.0,"B,S,C",3.0
+2032,Raaka,U.S.A.,Haiti,70.0,3.0,"B,S,C",3.25
+2032,Raaka,U.S.A.,Haiti,70.0,3.0,"B,S,C",3.5
+470,Rain Republic,Guatemala,Guatemala,70.0,5.0,"B,S,C,V,L",2.75
+565,Rancho San Jacinto,Ecuador,Ecuador,75.0,,,3.0
+1558,Ranger,U.S.A.,Peru,70.0,2.0,"B,S",2.5
+1562,Ranger,U.S.A.,Peru,80.0,2.0,"B,S",3.25
+1562,Ranger,U.S.A.,Peru,73.0,2.0,"B,S",3.5
+2668,Ranger,U.S.A.,Mexico,70.0,2.0,"B,S",3.25
+1872,Raoul Boulanger,France,Peru,75.0,3.0,"B,S,C",3.25
+2166,Raphio,U.S.A.,Ecuador,72.0,3.0,"B,S,C",3.5
+2158,Raphio,U.S.A.,Tanzania,72.0,3.0,"B,S,C",3.75
+2158,Raphio,U.S.A.,Peru,72.0,3.0,"B,S,C",3.75
+2330,Raphio,U.S.A.,Dominican Republic,72.0,3.0,"B,S,C",3.5
+2334,Raphio,U.S.A.,Nicaragua,72.0,3.0,"B,S,C",3.5
+2618,Raphio,U.S.A.,Ghana,72.0,3.0,"B,S,C",3.5
+867,Raw Cocoa,Poland,Peru,70.0,,,2.5
+147,Republica del Cacao (aka Confecta),Ecuador,Ecuador,75.0,4.0,"B,S,C,L",3.0
+147,Republica del Cacao (aka Confecta),Ecuador,Ecuador,67.0,4.0,"B,S,C,L",3.5
+170,Republica del Cacao (aka Confecta),Ecuador,Ecuador,75.0,4.0,"B,S,C,L",3.75
+439,Republica del Cacao (aka Confecta),Ecuador,Ecuador,75.0,4.0,"B,S,C,L",2.5
+494,Republica del Cacao (aka Confecta),Ecuador,Ecuador,75.0,4.0,"B,S,C,L",3.25
+745,Ritual,U.S.A.,Costa Rica,75.0,2.0,"B,S",3.5
+967,Ritual,U.S.A.,Ecuador,75.0,2.0,"B,S",3.25
+979,Ritual,U.S.A.,Trinidad,75.0,2.0,"B,S",3.5
+891,Ritual,U.S.A.,Madagascar,75.0,2.0,"B,S",4.0
+1181,Ritual,U.S.A.,Peru,75.0,2.0,"B,S",3.0
+1089,Ritual,U.S.A.,Belize,75.0,2.0,"B,S",3.75
+1466,Ritual,U.S.A.,Ecuador,85.0,2.0,"B,S",3.5
+1466,Ritual,U.S.A.,Blend,70.0,2.0,"B,S",3.5
+1860,Ritual,U.S.A.,Ecuador,75.0,2.0,"B,S",3.75
+2008,Ritual,U.S.A.,Mexico,75.0,3.0,"B,S,C",3.75
+2282,Ritual,U.S.A.,Nicaragua,70.0,2.0,"B,S",3.5
+2418,Ritual,U.S.A.,Trinidad,80.0,2.0,"B,S",3.5
+2514,Ritual,U.S.A.,Madagascar,75.0,3.0,"B,S,C",3.5
+2080,River-Sea,U.S.A.,Tanzania,72.0,3.0,"B,S,C",3.0
+2354,River-Sea,U.S.A.,Fiji,70.0,3.0,"B,S,C",2.5
+2354,River-Sea,U.S.A.,Peru,70.0,3.0,"B,S,C",2.5
+1844,Roasting Masters,South Korea,Costa Rica,70.0,2.0,"B,S",3.25
+1844,Roasting Masters,South Korea,Costa Rica,70.0,2.0,"B,S",3.25
+1844,Roasting Masters,South Korea,Costa Rica,70.0,2.0,"B,S",3.25
+1061,Robert (aka Chocolaterie Robert),Madagascar,Madagascar,75.0,5.0,"B,S,C,V,L",3.25
+1061,Robert (aka Chocolaterie Robert),Madagascar,Madagascar,68.0,4.0,"B,S,C,L",3.25
+923,Rococo (Grenada Chocolate Co.),U.K.,Grenada,66.0,,,3.5
+213,Rogue,U.S.A.,Dominican Republic,70.0,2.0,"B,S",2.75
+213,Rogue,U.S.A.,Jamaica,70.0,2.0,"B,S",2.75
+213,Rogue,U.S.A.,Madagascar,70.0,2.0,"B,S",3.0
+213,Rogue,U.S.A.,Trinidad,70.0,2.0,"B,S",3.0
+327,Rogue,U.S.A.,Venezuela,70.0,2.0,"B,S",3.5
+565,Rogue,U.S.A.,Peru,75.0,2.0,"B,S",3.75
+793,Rogue,U.S.A.,Bolivia,75.0,2.0,"B,S",3.0
+979,Rogue,U.S.A.,Ecuador,75.0,2.0,"B,S",3.75
+1038,Rogue,U.S.A.,Madagascar,70.0,2.0,"B,S",3.5
+1081,Rogue,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.5
+1193,Rogue,U.S.A.,Jamaica,75.0,2.0,"B,S",3.75
+1081,Rogue,U.S.A.,Bolivia,75.0,2.0,"B,S",4.0
+1209,Rogue,U.S.A.,Venezuela,80.0,2.0,"B,S",3.75
+1566,Rogue,U.S.A.,Bolivia,75.0,2.0,"B,S",3.25
+1446,Rogue,U.S.A.,Venezuela,70.0,2.0,"B,S",3.75
+1748,Rogue,U.S.A.,Honduras,75.0,2.0,"B,S",3.75
+717,Rozsavolgyi,Hungary,Venezuela,71.0,3.0,"B,S,C",2.5
+765,Rozsavolgyi,Hungary,Principe,77.0,3.0,"B,S,C",2.75
+713,Rozsavolgyi,Hungary,Venezuela,73.0,3.0,"B,S,C",3.5
+717,Rozsavolgyi,Hungary,Venezuela,70.0,3.0,"B,S,C",3.5
+871,Rozsavolgyi,Hungary,Venezuela,76.0,3.0,"B,S,C",2.25
+809,Rozsavolgyi,Hungary,Venezuela,84.0,3.0,"B,S,C",2.5
+871,Rozsavolgyi,Hungary,Madagascar,72.0,3.0,"B,S,C",2.5
+2004,Rozsavolgyi,Hungary,Venezuela,73.0,3.0,"B,S,C",3.75
+2672,Rozsavolgyi,Hungary,Peru,72.0,3.0,"B,S,C",3.75
+1964,Ruket,Italy,Honduras,72.0,3.0,"B,S*,C",2.75
+2036,Ruket,Italy,Haiti,75.0,3.0,"B,S,C",3.0
+2036,Ruket,Italy,Nicaragua,70.0,3.0,"B,S,C",3.5
+2668,Ruket,Italy,Indonesia,77.0,2.0,"B,S",2.75
+2660,Ruket,Italy,Tanzania,72.0,2.0,"B,S",3.5
+615,S.A.I.D.,Italy,Blend,100.0,,,1.5
+615,S.A.I.D.,Italy,Dominican Republic,70.0,,,3.0
+607,S.A.I.D.,Italy,Madagascar,64.0,,,3.5
+615,S.A.I.D.,Italy,Blend,72.0,,,3.5
+615,S.A.I.D.,Italy,Blend,72.0,,,3.5
+813,Sacred,U.S.A.,Blend,83.0,4.0,"B,S*,C,V",2.75
+813,Sacred,U.S.A.,Blend,69.0,4.0,"B,S*,C,V",3.25
+288,Salgado,Argentina,Brazil,70.0,4.0,"B,S,C,L",3.5
+288,Salgado,Argentina,Ecuador,70.0,4.0,"B,S,C,L",3.5
+288,Salgado,Argentina,Venezuela,70.0,4.0,"B,S,C,L",3.5
+292,Salgado,Argentina,Ecuador,70.0,4.0,"B,S,C,L",3.5
+2004,San Jose,Ecuador,Ecuador,70.0,4.0,"B,S,C,L",3.25
+32,Santander (Compania Nacional),Colombia,Colombia,53.0,5.0,"B,S,C,V,L",2.0
+32,Santander (Compania Nacional),Colombia,Colombia,65.0,5.0,"B,S,C,V,L",3.0
+32,Santander (Compania Nacional),Colombia,Colombia,70.0,5.0,"B,S,C,V,L",3.75
+404,Santander (Compania Nacional),Colombia,Colombia,75.0,3.0,"B,S,L",2.75
+414,Santander (Compania Nacional),Colombia,Colombia,70.0,5.0,"B,S,C,V,L",3.0
+761,Santome,France,Sao Tome,70.0,5.0,"B,S,C,V,L",2.75
+15,Scharffen Berger,U.S.A.,Blend,82.0,5.0,"B,S,C,V,L",2.0
+40,Scharffen Berger,U.S.A.,Blend,68.0,5.0,"B,S,C,V,L",2.0
+56,Scharffen Berger,U.S.A.,Jamaica,70.0,5.0,"B,S,C,V,L",2.0
+56,Scharffen Berger,U.S.A.,Blend,62.0,5.0,"B,S,C,V,L",3.0
+15,Scharffen Berger,U.S.A.,Blend,70.0,5.0,"B,S,C,V,L",3.5
+117,Scharffen Berger,U.S.A.,Blend,72.0,5.0,"B,S,C,V,L",3.0
+135,Scharffen Berger,U.S.A.,Blend,62.0,5.0,"B,S,C,V,L",3.0
+188,Scharffen Berger,U.S.A.,Blend,75.0,5.0,"B,S,C,V,L",3.0
+135,Scharffen Berger,U.S.A.,Venezuela,75.0,5.0,"B,S,C,V,L",3.75
+227,Scharffen Berger,U.S.A.,Blend,72.0,5.0,"B,S,C,V,L",3.0
+336,Scharffen Berger,U.S.A.,Brazil,68.0,5.0,"B,S,C,V,L",3.75
+445,Scharffen Berger,U.S.A.,Vietnam,72.0,5.0,"B,S,C,V,L",3.75
+336,Scharffen Berger,U.S.A.,Ghana,65.0,5.0,"B,S,C,V,L",4.0
+464,Scharffen Berger,U.S.A.,Grenada,68.0,5.0,"B,S,C,V,L",3.5
+464,Scharffen Berger,U.S.A.,Madagascar,65.0,5.0,"B,S,C,V,L",3.75
+781,Scharffen Berger,U.S.A.,Papua New Guinea,68.0,5.0,"B,S,C,V,L",3.75
+959,Scharffen Berger,U.S.A.,Peru,78.0,4.0,"B,S,C,L",4.0
+1658,Seaforth,U.K.,Dominican Republic,70.0,2.0,"B,S",2.75
+1658,Seaforth,U.K.,Grenada,70.0,2.0,"B,S",2.75
+2104,Seahorse,U.S.A.,Honduras,70.0,2.0,"B,S",2.75
+2108,Seahorse,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.0
+2104,Seahorse,U.S.A.,Tanzania,70.0,2.0,"B,S",3.25
+2446,Seahorse,U.S.A.,Fiji,70.0,2.0,"B,S",2.75
+2446,Seahorse,U.S.A.,Uganda,70.0,2.0,"B,S",3.5
+2660,Seahorse,U.S.A.,Trinidad,75.0,2.0,"B,S",3.25
+2590,Seahorse,U.S.A.,Peru,70.0,2.0,"B,S",3.5
+2594,Seahorse,U.S.A.,Vietnam,70.0,2.0,"B,S",3.5
+2660,Seahorse,U.S.A.,India,70.0,2.0,"B,S",3.5
+2370,Shane Chocolate Works,U.S.A.,Guatemala,70.0,3.0,"B,S,C",3.0
+2370,Shane Chocolate Works,U.S.A.,Colombia,70.0,3.0,"B,S,C",3.0
+2366,Shane Chocolate Works,U.S.A.,Belize,70.0,3.0,"B,S,C",3.5
+1335,Shark Mountain,U.S.A.,Ecuador,75.0,2.0,"B,S",3.0
+1335,Shark Mountain,U.S.A.,Belize,72.0,2.0,"B,S",3.25
+1466,Shark Mountain,U.S.A.,Venezuela,77.0,2.0,"B,S",2.75
+1450,Shark Mountain,U.S.A.,Jamaica,72.0,2.0,"B,S",3.25
+1450,Shark Mountain,U.S.A.,Papua New Guinea,73.0,2.0,"B,S",3.5
+1466,Shark Mountain,U.S.A.,Dominican Republic,74.0,2.0,"B,S",3.5
+713,Shark's,U.S.A.,U.S.A.,73.0,4.0,"B,S,C,V",2.0
+721,Shark's,U.S.A.,U.S.A.,73.0,4.0,"B,S,C,V",2.5
+757,Shattell,Peru,Peru,75.0,3.0,"B,S,C",3.5
+1884,Shattell,Peru,Peru,70.0,3.0,"B,S,C",3.25
+1586,Sibu,Costa Rica,Costa Rica,82.0,3.0,"B,S,C",3.25
+1586,Sibu,Costa Rica,Costa Rica,70.0,3.0,"B,S,C",3.5
+911,Sibu Sura,U.S.A.,Peru,70.0,,,2.5
+717,Silvio Bessone,Italy,Belize,67.0,4.0,"B,S,C,Sa",3.0
+741,Silvio Bessone,Italy,Colombia,68.0,4.0,"B,S,C,Sa",3.0
+725,Silvio Bessone,Italy,Sao Tome,65.0,4.0,"B,S,C,Sa",3.25
+729,Silvio Bessone,Italy,Brazil,60.0,4.0,"B,S,C,Sa",3.25
+1339,Sirene,Canada,Madagascar,67.0,3.0,"B,S,C",3.75
+1339,Sirene,Canada,Madagascar,73.0,3.0,"B,S,C",3.75
+1343,Sirene,Canada,Ecuador,73.0,3.0,"B,S,C",3.75
+1502,Sirene,Canada,Madagascar,100.0,1.0,B,3.0
+1506,Sirene,Canada,Ecuador,100.0,1.0,B,3.0
+1614,Sirene,Canada,Guatemala,73.0,2.0,"B,S",3.0
+1614,Sirene,Canada,Guatemala,73.0,2.0,"B,S*",3.25
+1650,Sirene,Canada,Haiti,73.0,2.0,"B,S",3.25
+1788,Sirene,Canada,Bolivia,73.0,2.0,"B,S",3.5
+1856,Sirene,Canada,Tanzania,73.0,2.0,"B,S",3.5
+1860,Sirene,Canada,Ecuador,73.0,2.0,"B,S",3.75
+1996,Sirene,Canada,Peru,73.0,2.0,"B,S",3.75
+2652,Sirene,Canada,Mexico,73.0,3.0,"B,S,C",3.0
+2652,Sirene,Canada,India,73.0,3.0,"B,S,C",3.25
+1454,Sjolinds,U.S.A.,Ghana,70.0,4.0,"B,S,C,V",2.75
+1462,Sjolinds,U.S.A.,Nicaragua,72.0,3.0,"B,S,C",3.0
+1626,"Smooth Chocolator, The",Australia,Bolivia,72.0,3.0,"B,S,C",2.75
+1666,"Smooth Chocolator, The",Australia,Peru,67.0,3.0,"B,S,C",3.0
+1618,"Smooth Chocolator, The",Australia,Madagascar,65.0,3.0,"B,S,C",3.25
+1622,"Smooth Chocolator, The",Australia,Madagascar,70.0,3.0,"B,S,C",3.5
+1662,"Smooth Chocolator, The",Australia,Papua New Guinea,65.0,3.0,"B,S,C",3.5
+1622,"Smooth Chocolator, The",Australia,Tanzania,67.0,3.0,"B,S,C",3.75
+1622,"Smooth Chocolator, The",Australia,Trinidad,70.0,3.0,"B,S,C",3.75
+1666,"Smooth Chocolator, The",Australia,Venezuela,70.0,3.0,"B,S,C",3.75
+1622,"Smooth Chocolator, The",Australia,Ecuador,72.0,3.0,"B,S,C",4.0
+1864,"Smooth Chocolator, The",Australia,Vietnam,70.0,3.0,"B,S,C",3.0
+1908,"Smooth Chocolator, The",Australia,Guatemala,70.0,3.0,"B,S,C",3.25
+1740,"Smooth Chocolator, The",Australia,Venezuela,70.0,3.0,"B,S,C",3.75
+1756,"Smooth Chocolator, The",Australia,Belize,70.0,3.0,"B,S,C",3.75
+1864,"Smooth Chocolator, The",Australia,Australia,67.0,3.0,"B,S,C",3.75
+1740,"Smooth Chocolator, The",Australia,Ecuador,70.0,3.0,"B,S,C",4.0
+1940,"Smooth Chocolator, The",Australia,Dominican Republic,70.0,3.0,"B,S,C",3.5
+1952,"Smooth Chocolator, The",Australia,Haiti,70.0,3.0,"B,S,C",3.5
+502,Snake & Butterfly,U.S.A.,Madagascar,68.0,3.0,"B,S,C",3.0
+502,Snake & Butterfly,U.S.A.,Ecuador,68.0,3.0,"B,S,C",3.25
+693,Snake & Butterfly,U.S.A.,Ghana,67.0,3.0,"B,S,C",1.5
+2112,Soeka,Amsterdam,Sulawesi,66.0,3.0,"B,S*,C",3.25
+1968,Soklet,India,India,70.0,3.0,"B,S,C",2.75
+1518,Sol Cacao,U.S.A.,Madagascar,72.0,2.0,"B,S",3.0
+1812,Sol Cacao,U.S.A.,Ecuador,70.0,2.0,"B,S",3.5
+1840,Solkiki,U.K.,Dominican Republic,85.0,2.0,"B,S",2.75
+1840,Solkiki,U.K.,Peru,68.0,2.0,"B,S",2.75
+2366,Solkiki,U.K.,Philippines,70.0,3.0,"B,S,C",2.5
+1792,Solomons Gold,New Zealand,Solomon Islands,70.0,2.0,"B,S",3.25
+1796,Solomons Gold,New Zealand,Solomon Islands,75.0,2.0,"B,S",3.25
+1157,Solstice,U.S.A.,Madagascar,70.0,2.0,"B,S",3.0
+1157,Solstice,U.S.A.,Venezuela,70.0,2.0,"B,S",3.0
+1161,Solstice,U.S.A.,Bolivia,70.0,2.0,"B,S",3.25
+1161,Solstice,U.S.A.,Peru,70.0,3.0,"B,S,C",3.25
+1161,Solstice,U.S.A.,Blend,70.0,3.0,"B,S,C",3.5
+1335,Solstice,U.S.A.,Uganda,70.0,3.0,"B,S,C",3.0
+1992,Solstice,U.S.A.,Tanzania,70.0,3.0,"B,S,C",3.25
+2068,Solstice,U.S.A.,India,70.0,3.0,"B,S,C",3.25
+2660,Solstice,U.S.A.,Vietnam,70.0,3.0,"B,S,C",3.5
+377,Soma,Canada,Dominican Republic,70.0,3.0,"B,S,C",3.0
+387,Soma,Canada,Dominican Republic,70.0,3.0,"B,S,C",3.0
+377,Soma,Canada,Ghana,70.0,3.0,"B,S,C",3.5
+387,Soma,Canada,Papua New Guinea,70.0,3.0,"B,S,C",3.5
+387,Soma,Canada,Madagascar,70.0,3.0,"B,S,C",3.75
+387,Soma,Canada,Venezuela,70.0,3.0,"B,S,C",3.75
+607,Soma,Canada,Blend,70.0,3.0,"B,S,C",3.75
+676,Soma,Canada,Grenada,70.0,3.0,"B,S,C",2.75
+676,Soma,Canada,Bolivia,70.0,3.0,"B,S,C",3.5
+688,Soma,Canada,Venezuela,70.0,3.0,"B,S,C",3.5
+682,Soma,Canada,Dominican Republic,70.0,3.0,"B,S,C",3.75
+676,Soma,Canada,Blend,70.0,3.0,"B,S,C",4.0
+676,Soma,Canada,Peru,64.0,3.0,"B,S,C",4.0
+817,Soma,Canada,Haiti,70.0,3.0,"B,S,C",3.25
+951,Soma,Canada,Guatemala,70.0,3.0,"B,S,C",3.5
+967,Soma,Canada,Blend,70.0,3.0,"B,S,C",3.5
+983,Soma,Canada,Papua New Guinea,85.0,3.0,"B,S,C",3.5
+833,Soma,Canada,U.S.A.,70.0,3.0,"B,S,C",3.75
+951,Soma,Canada,Venezuela,70.0,3.0,"B,S,C",3.75
+867,Soma,Canada,Blend,70.0,3.0,"B,S,C",4.0
+867,Soma,Canada,Blend,70.0,3.0,"B,S,C",4.0
+1073,Soma,Canada,Peru,70.0,3.0,"B,S,C",2.75
+1030,Soma,Canada,Indonesia,70.0,3.0,"B,S,C",3.25
+1077,Soma,Canada,Blend,70.0,3.0,"B,S,C",3.25
+1173,Soma,Canada,Venezuela,70.0,3.0,"B,S,C",3.25
+1019,Soma,Canada,Dominican Republic,77.0,3.0,"B,S,C",3.75
+1073,Soma,Canada,Trinidad,70.0,3.0,"B,S,C",3.75
+1077,Soma,Canada,Venezuela,70.0,3.0,"B,S,C",3.75
+1077,Soma,Canada,Blend,88.0,3.0,"B,S,C",4.0
+1077,Soma,Canada,Venezuela,70.0,3.0,"B,S,C",4.0
+1081,Soma,Canada,Blend,67.0,3.0,"B,S,C",4.0
+1177,Soma,Canada,Jamaica,70.0,3.0,"B,S,C",4.0
+1307,Soma,Canada,Nicaragua,70.0,3.0,"B,S,C",3.25
+1339,Soma,Canada,Blend,70.0,3.0,"B,S,C",3.25
+1227,Soma,Canada,Nicaragua,70.0,3.0,"B,S,C",3.5
+1307,Soma,Canada,Ecuador,80.0,3.0,"B,S,C",3.5
+1259,Soma,Canada,Peru,70.0,3.0,"B,S,C",3.75
+1307,Soma,Canada,Vanuatu,70.0,3.0,"B,S,C",3.75
+1594,Soma,Canada,Venezuela,70.0,3.0,"B,S,C",3.5
+1594,Soma,Canada,Venezuela,75.0,3.0,"B,S,C",4.0
+1832,Soma,Canada,Ecuador,70.0,3.0,"B,S,C",3.25
+1820,Soma,Canada,Dominican Republic,62.0,3.0,"B,S,C",3.5
+1820,Soma,Canada,Madagascar,70.0,3.0,"B,S,C",3.5
+1828,Soma,Canada,Brazil,70.0,3.0,"B,S,C",3.5
+1828,Soma,Canada,Nicaragua,70.0,3.0,"B,S,C",3.75
+1828,Soma,Canada,Blend,75.0,3.0,"B,S,C",3.75
+1828,Soma,Canada,Vietnam,70.0,3.0,"B,S,C",4.0
+2016,Soma,Canada,Fiji,70.0,3.0,"B,S,C",3.25
+2016,Soma,Canada,Colombia,70.0,3.0,"B,S,C",4.0
+2068,Soma,Canada,Haiti,70.0,3.0,"B,S,C",3.0
+2242,Soma,Canada,Madagascar,70.0,3.0,"B,S,C",4.0
+2242,Soma,Canada,Venezuela,70.0,3.0,"B,S,C",4.0
+2680,Soma,Canada,Blend,62.0,4.0,"B,S,C,V",3.25
+2638,Soma,Canada,Madagascar,70.0,3.0,"B,S,C",3.5
+2638,Soma,Canada,Venezuela,70.0,3.0,"B,S,C",3.5
+2700,Soma,Canada,Vietnam,70.0,3.0,"B,S,C",4.0
+1367,Somerville,U.S.A.,Nicaragua,70.0,2.0,"B,S",3.25
+1395,Somerville,U.S.A.,U.S.A.,70.0,2.0,"B,S",3.5
+1932,Soul,Canada,Dominican Republic,70.0,2.0,"B,S",3.25
+1936,Soul,Canada,Ecuador,75.0,2.0,"B,S",3.25
+1936,Soul,Canada,Papua New Guinea,77.0,2.0,"B,S",3.25
+1936,Soul,Canada,Madagascar,70.0,2.0,"B,S",3.5
+1936,Soul,Canada,Venezuela,75.0,2.0,"B,S",3.5
+1940,Soul,Canada,Tanzania,80.0,2.0,"B,S",3.5
+793,Spagnvola,U.S.A.,Dominican Republic,70.0,4.0,"B,S,C,V",3.0
+793,Spagnvola,U.S.A.,Dominican Republic,80.0,4.0,"B,S,C,V",3.0
+793,Spagnvola,U.S.A.,Dominican Republic,75.0,4.0,"B,S,C,V",3.25
+1434,Spencer,Australia,Vanuatu,72.0,3.0,"B,S,C",2.75
+1792,Spencer,Australia,Dominican Republic,70.0,3.0,"B,S,C",3.5
+1792,Spencer,Australia,Ecuador,70.0,3.0,"B,S,C",3.75
+1792,Spencer,Australia,Madagascar,70.0,3.0,"B,S,C",3.75
+1932,Spencer,U.S.A.,Peru,70.0,3.0,"B,S,C",2.75
+1932,Spencer,U.S.A.,Ecuador,70.0,3.0,"B,S,C",3.5
+1932,Spencer,U.S.A.,Dominican Republic,70.0,3.0,"B,S,C",3.75
+2684,Spinnaker,U.S.A.,Belize,70.0,2.0,"B,S",3.25
+2684,Spinnaker,U.S.A.,Madagascar,70.0,2.0,"B,S",3.5
+2684,Spinnaker,U.S.A.,Uganda,70.0,2.0,"B,S",3.5
+1057,Sprungli (Felchlin),Switzerland,Bolivia,70.0,4.0,"B,S,C,L",3.0
+1121,SRSLY,U.S.A.,Dominican Republic,84.0,3.0,"B,S,L",2.25
+1113,SRSLY,U.S.A.,Dominican Republic,70.0,3.0,"B,S,L",3.0
+1634,Starchild,U.S.A.,Ecuador,70.0,4.0,"B,S*,C,V",3.0
+1692,Starchild,U.S.A.,Dominican Republic,70.0,4.0,"B,S*,C,V",3.0
+1692,Starchild,U.S.A.,Guatemala,70.0,4.0,"B,S*,C,V",3.0
+1692,Starchild,U.S.A.,Nicaragua,70.0,4.0,"B,S*,C,V",3.0
+1696,Starchild,U.S.A.,Madagascar,70.0,4.0,"B,S*,C,V",3.0
+729,Stella (aka Bernrain),Switzerland,India,72.0,4.0,"B,S,C,V",3.25
+859,Stella (aka Bernrain),Switzerland,Brazil,68.0,4.0,"B,S,C,V",2.75
+1291,Stone Grindz,U.S.A.,Ecuador,84.0,3.0,"B,S,C",3.5
+1291,Stone Grindz,U.S.A.,Ecuador,70.0,3.0,"B,S,C",3.5
+2012,Stone Grindz,U.S.A.,Bolivia,70.0,3.0,"B,S,C",2.5
+939,StRita Supreme,U.S.A.,Philippines,65.0,4.0,"B,S,C,V",2.5
+943,StRita Supreme,U.S.A.,Philippines,70.0,4.0,"B,S,C,V",2.5
+943,StRita Supreme,U.S.A.,Philippines,75.0,4.0,"B,S,C,V",2.75
+1157,Sublime Origins,U.S.A.,Madagascar,67.0,2.0,"B,S",2.75
+1157,Sublime Origins,U.S.A.,Belize,78.0,2.0,"B,S",3.25
+1800,Summerbird,Denmark,Peru,61.0,5.0,"B,S,C,V,L",2.5
+1800,Summerbird,Denmark,Peru,71.0,5.0,"B,S,C,V,L",3.0
+1796,Suruca Chocolate,Venezuela,Venezuela,70.0,3.0,"B,S,C",2.75
+1796,Suruca Chocolate,Venezuela,Venezuela,60.0,3.0,"B,S,C",3.0
+1618,Svenska Kakaobolaget,Sweden,Sri Lanka,70.0,2.0,"B,S",2.75
+2434,Svenska Kakaobolaget,Sweden,Tanzania,74.0,2.0,"B,S",2.75
+2634,sweet beans,U.S.A.,Honduras,72.0,3.0,"B,S,C",3.0
+2634,sweet beans,U.S.A.,Peru,72.0,3.0,"B,S,C",3.0
+2634,sweet beans,U.S.A.,Uganda,77.0,3.0,"B,S,C",3.5
+2634,sweet beans,U.S.A.,Trinidad,80.0,3.0,"B,S,C",3.75
+2242,Sweet Escalier,Japan,Peru,70.0,5.0,"B,S,C,V,L",2.5
+2234,Sweet Escalier,Japan,Tanzania,75.0,3.0,"B,S,C",2.75
+2234,Sweet Escalier,Japan,Belize,70.0,5.0,"B,S,C,V,L",3.0
+2242,Sweet Escalier,Japan,Brazil,70.0,5.0,"B,S,C,V,L",3.0
+2230,Sweet Escalier,Japan,Venezuela,75.0,5.0,"B,S,C,V,L",3.25
+2474,Sweetness,Canada,Mexico,74.0,3.0,"B,S,C",3.0
+2470,Sweetness,Canada,Peru,68.0,3.0,"B,S,C",3.25
+2482,Sweetness,Canada,Papua New Guinea,73.0,3.0,"B,S,C",3.25
+761,Szanto Tibor,Hungary,Venezuela,70.0,3.0,"B,S,C",3.0
+939,Szanto Tibor,Hungary,Dominican Republic,70.0,3.0,"B,S,C",3.25
+939,Szanto Tibor,Hungary,Madagascar,70.0,3.0,"B,S,C",3.25
+939,Szanto Tibor,Hungary,Peru,70.0,3.0,"B,S,C",3.75
+1193,Szanto Tibor,Hungary,Nicaragua,70.0,3.0,"B,S,C",3.25
+1185,Szanto Tibor,Hungary,Madagascar,70.0,3.0,"B,S,C",3.5
+1185,Szanto Tibor,Hungary,Madagascar,70.0,3.0,"B,S,C",3.5
+1263,Szanto Tibor,Hungary,Venezuela,70.0,3.0,"B,S,C",3.5
+1263,Szanto Tibor,Hungary,Cuba,70.0,3.0,"B,S,C",3.75
+1668,Szanto Tibor,Hungary,Ecuador,70.0,3.0,"B,S,C",3.25
+1704,Szanto Tibor,Hungary,Cuba,88.0,3.0,"B,S,C",3.25
+1704,Szanto Tibor,Hungary,Madagascar,70.0,3.0,"B,S,C",3.25
+1708,Szanto Tibor,Hungary,Vietnam,70.0,3.0,"B,S,C",3.25
+1708,Szanto Tibor,Hungary,Brazil,70.0,3.0,"B,S,C",3.5
+1704,Szanto Tibor,Hungary,Ecuador,70.0,3.0,"B,S,C",3.75
+1105,Tabal,U.S.A.,Mexico,70.0,4.0,"B,S,C,V",2.5
+1101,Tabal,U.S.A.,Costa Rica,70.0,4.0,"B,S,C,V",2.75
+1101,Tabal,U.S.A.,Dominican Republic,70.0,4.0,"B,S,C,V",2.75
+1105,Tabal,U.S.A.,Peru,70.0,4.0,"B,S,C,V",3.0
+1680,Tablette (aka Vanillabeans),Japan,Trinidad,77.0,4.0,"B,S,C,L",2.75
+1450,Tablette (aka Vanillabeans),Japan,Colombia,70.0,5.0,"B,S,C,V,L",3.0
+1450,Tablette (aka Vanillabeans),Japan,Papua New Guinea,62.0,5.0,"B,S,C,V,L",3.25
+1450,Tablette (aka Vanillabeans),Japan,Vietnam,60.0,5.0,"B,S,C,V,L",3.25
+2286,Tala,Vietnam,Vietnam,70.0,3.0,"B,S,C",2.75
+2286,Tala,Vietnam,Vietnam,75.0,3.0,"B,S,C",3.0
+1868,Tan Ban Skrati,Suriname,Suriname,70.0,2.0,"B,S",3.25
+2262,Taste Artisan,U.S.A.,Venezuela,75.0,4.0,"B,S,C,V",3.0
+2326,Taste Artisan,U.S.A.,Peru,75.0,3.0,"B,S,C",3.25
+2326,Taste Artisan,U.S.A.,Peru,75.0,3.0,"B,S,C",4.0
+1646,Taste Artisan aka Coleman and Davis,U.S.A.,Madagascar,75.0,4.0,"B,S,C,V",3.0
+2306,Taucherli,Switzerland,Nicaragua,72.0,3.0,"B,S,C",3.0
+2306,Taucherli,Switzerland,Mexico,70.0,3.0,"B,S,C",3.25
+2566,Taylor Made,U.S.A.,Haiti,67.0,3.0,"B,S,C",2.75
+180,Taza,U.S.A.,Dominican Republic,70.0,3.0,"B,S,C",3.0
+451,Taza,U.S.A.,Mexico,75.0,3.0,"B,S,C",2.75
+785,Taza,U.S.A.,Bolivia,87.0,3.0,"B,S,C",3.25
+1271,Taza,U.S.A.,Belize,68.0,3.0,"B,S,C",3.0
+199,TCHO,U.S.A.,Ghana,70.0,5.0,"B,S,C,V,L",2.5
+280,TCHO,U.S.A.,Peru,70.0,5.0,"B,S,C,V,L",2.5
+284,TCHO,U.S.A.,Peru,70.0,5.0,"B,S,C,V,L",2.5
+280,TCHO,U.S.A.,Madagascar,70.0,5.0,"B,S,C,V,L",2.75
+387,TCHO,U.S.A.,Blend,60.0,5.0,"B,S,C,V,L",2.75
+387,TCHO,U.S.A.,Blend,68.0,5.0,"B,S,C,V,L",3.0
+915,TCHO,U.S.A.,Blend,99.0,,,3.25
+1716,TCHO,U.S.A.,Blend,62.0,5.0,"B,S,C,V,L",2.0
+821,Tejas,U.S.A.,Peru,70.0,4.0,"B,S,C,V",2.0
+801,Tejas,U.S.A.,Madagascar,70.0,4.0,"B,S,C,V",2.75
+829,Tejas,U.S.A.,Bolivia,70.0,3.0,"B,S,C",2.75
+967,Tejas,U.S.A.,Brazil,70.0,3.0,"B,S,C",2.75
+801,Tejas,U.S.A.,Blend,70.0,4.0,"B,S,C,V",3.0
+805,Tejas,U.S.A.,Papua New Guinea,70.0,4.0,"B,S,C,V",3.0
+829,Tejas,U.S.A.,Madagascar,70.0,3.0,"B,S,C",3.0
+971,Tejas,U.S.A.,Venezuela,80.0,4.0,"B,S,C,V",3.0
+817,Tejas,U.S.A.,Ecuador,70.0,4.0,"B,S,C,V",3.25
+825,Tejas,U.S.A.,Ecuador,70.0,3.0,"B,S,C",3.25
+833,Tejas,U.S.A.,Mexico,70.0,3.0,"B,S,C",3.25
+971,Tejas,U.S.A.,Bolivia,67.0,3.0,"B,S,C",3.25
+805,Tejas,U.S.A.,Dominican Republic,70.0,4.0,"B,S,C,V",3.5
+971,Tejas,U.S.A.,Brazil,70.0,3.0,"B,S,C",3.5
+1323,Terroir,U.S.A.,Ecuador,77.0,2.0,"B,S",3.25
+1323,Terroir,U.S.A.,Madagascar,67.0,2.0,"B,S",3.75
+1323,Terroir,U.S.A.,Uganda,73.0,2.0,"B,S",3.75
+1478,Terroir,U.S.A.,Peru,70.0,2.0,"B,S",2.75
+1482,Terroir,U.S.A.,Ecuador,70.0,2.0,"B,S",3.25
+1554,Terroir,U.S.A.,Dominican Republic,70.0,3.0,"B,S,C",3.5
+1478,Terroir,U.S.A.,Belize,70.0,2.0,"B,S",3.75
+1478,Terroir,U.S.A.,Madagascar,70.0,2.0,"B,S",3.75
+1558,Terroir,U.S.A.,Guatemala,70.0,3.0,"B,S,C",3.75
+2374,Terroir,U.S.A.,Haiti,72.0,3.0,"B,S,C",2.75
+2358,Terroir,U.S.A.,Belize,77.0,3.0,"B,S,C",3.0
+2370,Terroir,U.S.A.,Bolivia,77.0,3.0,"B,S,C",3.25
+1614,The Barn,Sweden,Peru,70.0,3.0,"B,S,C",3.0
+188,Theo,U.S.A.,Venezuela,91.0,2.0,"B,S",2.0
+184,Theo,U.S.A.,Ivory Coast,75.0,4.0,"B,S,C,V",2.5
+184,Theo,U.S.A.,Ghana,84.0,4.0,"B,S,C,V",3.0
+188,Theo,U.S.A.,Blend,75.0,3.0,"B,S,C",3.0
+162,Theo,U.S.A.,Madagascar,65.0,3.0,"B,S,C",3.5
+903,Theo,U.S.A.,Congo,65.0,4.0,"B,S,C,V",3.25
+1684,Theobroma,Japan,Peru,70.0,2.0,"B,S",3.25
+2414,Thistle & Rose aka Aggie USU,U.S.A.,Ecuador,70.0,2.0,"B,S",3.5
+2182,Tibito,Colombia,Colombia,70.0,3.0,"B,S,L",3.0
+2182,Tibito,Colombia,Colombia,70.0,3.0,"B,S,L",3.25
+1836,Timo A. Meyer,Germany,Belize,72.0,3.0,"B,S,C",3.75
+2358,Tiny House,U.S.A.,Tanzania,71.0,2.0,"B,S",2.75
+2510,To'ak,Ecuador,Ecuador,75.0,3.0,"B,S,C",3.25
+1418,To'ak (Ecuatoriana),Ecuador,Ecuador,81.0,2.0,"B,S",3.25
+895,Tobago Estate (Pralus),France,Tobago,70.0,,,4.0
+789,Tocoti,U.S.A.,Venezuela,72.0,3.0,"B,S,C",2.75
+789,Tocoti,U.S.A.,Dominican Republic,74.0,3.0,"B,S,C",3.0
+927,Tocoti,U.S.A.,Bolivia,77.0,3.0,"B,S,C",3.0
+2064,Tosier,U.K.,Haiti,70.0,3.0,"B,S,C",2.75
+2060,Tosier,U.K.,Bolivia,70.0,3.0,"B,S,C",3.0
+2060,Tosier,U.K.,Belize,70.0,3.0,"B,S,C",3.5
+2270,Tosier,U.K.,Colombia,70.0,3.0,"B,S,C",2.75
+2314,Tree to Bar,South Korea,Ecuador,70.0,2.0,"B,S",3.5
+1239,Treehouse,U.S.A.,Dominican Republic,72.0,2.0,"B,S",3.0
+907,Treehouse aka Indaphoria,U.S.A.,Dominican Republic,70.0,3.0,"B,S*,C",2.75
+821,Treehouse aka Indaphoria,U.S.A.,Dominican Republic,70.0,3.0,"B,S*,C",3.25
+2526,Triangle Roasters,U.S.A.,Nicaragua,70.0,2.0,"B,S",3.25
+2526,Triangle Roasters,U.S.A.,Haiti,70.0,2.0,"B,S",3.25
+2530,Triangle Roasters,U.S.A.,Guatemala,70.0,2.0,"B,S",3.75
+2664,Triangle Roasters,U.S.A.,Philippines,70.0,2.0,"B,S",3.25
+2210,Tribar,Peru,Peru,73.0,3.0,"B,S,C",3.0
+2218,Tribar,Peru,Peru,70.0,3.0,"B,S,C",3.5
+2490,Tribe,Canada,Vietnam,70.0,2.0,"B,S",2.75
+2490,Tribe,Canada,Honduras,70.0,2.0,"B,S",2.75
+2470,Tribe,Canada,Peru,70.0,2.0,"B,S",3.0
+753,Tsara (Cinagra),Madagascar,Madagascar,72.0,,,3.5
+753,twenty-four blackbirds,U.S.A.,Dominican Republic,73.0,2.0,"B,S",2.75
+1026,twenty-four blackbirds,U.S.A.,Bolivia,75.0,2.0,"B,S",2.5
+1022,twenty-four blackbirds,U.S.A.,Dominican Republic,68.0,2.0,"B,S",3.25
+1235,twenty-four blackbirds,U.S.A.,Madagascar,75.0,2.0,"B,S",3.5
+1700,twenty-four blackbirds,U.S.A.,Dominican Republic,75.0,2.0,"B,S",2.75
+1700,twenty-four blackbirds,U.S.A.,Ecuador,75.0,2.0,"B,S",3.5
+1996,twenty-four blackbirds,U.S.A.,Tanzania,75.0,2.0,"B,S",3.25
+1740,Two Ravens,U.S.A.,Peru,60.0,3.0,"B,S,C",3.0
+709,Un Dimanche A Paris,France,Dominican Republic,63.0,,,3.75
+2000,Uncouth,Canada,Dominican Republic,75.0,2.0,"B,S",2.75
+2004,Uncouth,Canada,Tanzania,75.0,2.0,"B,S",3.0
+2004,Uncouth,Canada,Guatemala,75.0,2.0,"B,S",3.25
+1438,Undone,U.S.A.,Nicaragua,74.0,2.0,"B,S",2.75
+1438,Undone,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.0
+1752,Upchurch,U.S.A.,Madagascar,72.0,2.0,"B,S",3.0
+1752,Upchurch,U.S.A.,Tanzania,72.0,2.0,"B,S",3.25
+1327,Urzi,Italy,Venezuela,65.0,4.0,"B,S,C,V",3.25
+1968,Utopick,Spain,Colombia,70.0,3.0,"B,S,C",3.75
+2210,Utopick,Spain,Nicaragua,70.0,3.0,"B,S,C",3.75
+2478,Vaka,Canada,Belize,74.0,3.0,"B,S,C",3.5
+75,Valrhona,France,Trinidad,64.0,5.0,"B,S,C,V,L",2.5
+63,Valrhona,France,Blend,66.0,5.0,"B,S,C,V,L",3.0
+75,Valrhona,France,Venezuela,64.0,5.0,"B,S,C,V,L",3.0
+75,Valrhona,France,Madagascar,64.0,5.0,"B,S,C,V,L",3.5
+63,Valrhona,France,Blend,70.0,5.0,"B,S,C,V,L",3.75
+147,Valrhona,France,Blend,85.0,5.0,"B,S,C,V,L",1.5
+153,Valrhona,France,Blend,85.0,5.0,"B,S,C,V,L",2.5
+157,Valrhona,France,Blend,71.0,5.0,"B,S,C,V,L",2.75
+117,Valrhona,France,Blend,72.0,5.0,"B,S,C,V,L",3.0
+162,Valrhona,France,Venezuela,64.0,5.0,"B,S,C,V,L",3.25
+129,Valrhona,France,Venezuela,65.0,5.0,"B,S,C,V,L",3.75
+129,Valrhona,France,Madagascar,64.0,5.0,"B,S,C,V,L",4.0
+395,Valrhona,France,Ghana,68.0,5.0,"B,S,C,V,L",3.5
+327,Valrhona,France,Dominican Republic,64.0,5.0,"B,S,C,V,L",3.75
+370,Valrhona,France,Ecuador,66.0,5.0,"B,S,C,V,L",3.75
+709,Valrhona,France,Blend,56.0,5.0,"B,S,C,V,L",3.25
+757,Valrhona,France,Venezuela,64.0,5.0,"B,S,C,V,L",4.0
+931,Valrhona,France,Venezuela,69.0,5.0,"B,S,C,V,L",4.0
+1145,Valrhona,France,Blend,70.0,5.0,"B,S,C,V,L",3.5
+1153,Valrhona,France,Dominican Republic,64.0,5.0,"B,S,C,V,L",3.5
+1510,Valrhona,France,Peru,63.0,5.0,"B,S,C,V,L",4.0
+1972,Valrhona,France,Blend,60.0,3.0,"B,S,C",3.25
+963,Vanleer (Barry Callebaut),U.S.A.,Ghana,72.0,,,2.5
+963,Vanleer (Barry Callebaut),U.S.A.,Ghana,65.0,,,2.75
+404,Vao Vao (Chocolaterie Robert),Madagascar,Madagascar,72.0,3.0,"B,S,C",2.75
+404,Vao Vao (Chocolaterie Robert),Madagascar,Madagascar,76.0,4.0,"B,S,C,V",2.75
+404,Vao Vao (Chocolaterie Robert),Madagascar,Madagascar,80.0,4.0,"B,S,C,V",2.75
+404,Vao Vao (Chocolaterie Robert),Madagascar,Madagascar,70.0,,,3.0
+404,Vao Vao (Chocolaterie Robert),Madagascar,Madagascar,68.0,,,3.0
+404,Vao Vao (Chocolaterie Robert),Madagascar,Madagascar,64.0,,,3.25
+1470,Vicuna,U.S.A.,Bolivia,70.0,2.0,"B,S",3.25
+1470,Vicuna,U.S.A.,Bolivia,70.0,2.0,"B,S",3.25
+2186,Vicuna,U.S.A.,Bolivia,70.0,2.0,"B,S",2.75
+2186,Vicuna,U.S.A.,Guatemala,70.0,2.0,"B,S",3.0
+2190,Vicuna,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.25
+991,Videri,U.S.A.,Blend,70.0,3.0,"B,S,C",3.25
+1117,Videri,U.S.A.,Blend,90.0,3.0,"B,S,C",3.75
+1211,Videri,U.S.A.,Dominican Republic,90.0,3.0,"B,S,C",3.25
+1211,Videri,U.S.A.,Trinidad,75.0,3.0,"B,S,C",3.5
+1227,Videri,U.S.A.,Ecuador,75.0,3.0,"B,S,C",3.5
+2578,Videri,U.S.A.,Guatemala,75.0,2.0,"B,S",2.75
+2578,Videri,U.S.A.,Dominican Republic,75.0,2.0,"B,S",3.0
+2578,Videri,U.S.A.,Blend,70.0,3.0,"B,S,C",3.5
+2578,Videri,U.S.A.,Ecuador,75.0,2.0,"B,S",3.5
+951,Vietcacao (A. Morin),France,Vietnam,70.0,4.0,"B,S,C,L",3.5
+1205,Vintage Plantations,U.S.A.,Peru,75.0,3.0,"B,S,C",3.0
+153,Vintage Plantations (Tulicorp),U.S.A.,Ecuador,100.0,,,2.0
+153,Vintage Plantations (Tulicorp),U.S.A.,Ecuador,90.0,,,2.0
+153,Vintage Plantations (Tulicorp),U.S.A.,Ecuador,75.0,,,3.0
+153,Vintage Plantations (Tulicorp),U.S.A.,Ecuador,65.0,3.0,"B,S,C",3.0
+1458,Violet Sky,U.S.A.,Madagascar,77.0,2.0,"B,S",2.75
+1502,Violet Sky,U.S.A.,Guatemala,77.0,2.0,"B,S",2.75
+1458,Violet Sky,U.S.A.,Belize,77.0,2.0,"B,S",3.0
+1458,Violet Sky,U.S.A.,Venezuela,77.0,2.0,"B,S",3.0
+1458,Violet Sky,U.S.A.,Peru,77.0,2.0,"B,S",3.25
+1720,Vivra,U.S.A.,Peru,70.0,5.0,"B,S,C,V,L",2.5
+1720,Vivra,U.S.A.,Venezuela,70.0,5.0,"B,S,C,V,L",2.5
+1724,Vivra,U.S.A.,Dominican Republic,70.0,5.0,"B,S,C,V,L",3.0
+2178,Vivra,U.S.A.,Bolivia,70.0,5.0,"B,S,C,V,L",2.5
+2182,Vivra,U.S.A.,Haiti,70.0,5.0,"B,S,C,V,L",2.5
+1756,Wellington Chocolate Factory,New Zealand,Dominican Republic,70.0,2.0,"B,S*",3.5
+1756,Wellington Chocolate Factory,New Zealand,Peru,70.0,2.0,"B,S*",3.5
+2012,Wellington Chocolate Factory,New Zealand,Samoa,77.0,2.0,"B,S",3.0
+2092,White Label aka Mutari,U.S.A.,Tanzania,68.0,3.0,"B,S,C",3.0
+2096,White Label aka Mutari,U.S.A.,Bolivia,72.0,3.0,"B,S,C",3.0
+2626,White Label aka Mutari,U.S.A.,Philippines,74.0,3.0,"B,S,C",3.5
+2626,White Label aka Mutari,U.S.A.,Uganda,72.0,3.0,"B,S,C",3.5
+2622,White Label aka Mutari,U.S.A.,Honduras,74.0,2.0,"B,S",3.75
+2622,White Label aka Mutari,U.S.A.,Trinidad,72.0,3.0,"B,S,C",3.75
+733,Whittakers,New Zealand,Ghana,72.0,,,2.5
+1169,Wilkie's Organic,Ireland,Peru,75.0,3.0,"B,S,C",2.5
+1169,Wilkie's Organic,Ireland,Peru,89.0,3.0,"B,S,C",2.75
+1173,Wilkie's Organic,Ireland,Peru,75.0,3.0,"B,S,C",2.75
+1169,Wilkie's Organic,Ireland,Peru,75.0,3.0,"B,S,C",3.25
+457,Willie's Cacao,U.K.,Peru,70.0,3.0,"B,S,C",3.0
+457,Willie's Cacao,U.K.,Venezuela,72.0,3.0,"B,S,C",3.25
+593,Willie's Cacao,U.K.,Madagascar,71.0,3.0,"B,S,C",3.0
+593,Willie's Cacao,U.K.,Venezuela,72.0,3.0,"B,S,C",3.5
+593,Willie's Cacao,U.K.,Indonesia,69.0,3.0,"B,S,C",3.75
+1109,Willie's Cacao,U.K.,Indonesia,100.0,,,2.25
+1227,Willie's Cacao,U.K.,Colombia,88.0,3.0,"B,S,C",3.0
+1848,Willie's Cacao,U.K.,Colombia,70.0,3.0,"B,S,C",4.0
+1912,Wm,U.S.A.,Venezuela,74.0,3.0,"B,S,C",3.0
+1912,Wm,U.S.A.,Bolivia,76.0,3.0,"B,S,C",3.5
+1916,Wm,U.S.A.,Ghana,75.0,3.0,"B,S,C",3.75
+2406,Wm,U.S.A.,Belize,68.0,3.0,"B,S,C",3.25
+2346,Wm,U.S.A.,Venezuela,70.0,3.0,"B,S,C",3.5
+2652,Wm,U.S.A.,Dominican Republic,70.0,3.0,"B,S,C",3.5
+769,Woodblock,U.S.A.,Dominican Republic,70.0,2.0,"B,S",3.5
+741,Woodblock,U.S.A.,Venezuela,70.0,2.0,"B,S",4.0
+825,Woodblock,U.S.A.,Ecuador,70.0,2.0,"B,S",2.5
+825,Woodblock,U.S.A.,Costa Rica,70.0,2.0,"B,S",3.0
+951,Woodblock,U.S.A.,Madagascar,70.0,3.0,"B,S,C",3.25
+1042,Woodblock,U.S.A.,Ecuador,70.0,2.0,"B,S",3.25
+1042,Woodblock,U.S.A.,Trinidad,70.0,2.0,"B,S",3.5
+1243,Woodblock,U.S.A.,Peru,70.0,2.0,"B,S",3.0
+2656,Woodblock,U.S.A.,Tanzania,70.0,2.0,"B,S",3.0
+1057,Xocolat,Dominican Republic,Dominican Republic,66.0,5.0,"B,S,C,L,Sa",3.0
+2374,Xocolatisimo,El Salvador,El Salvador,65.0,4.0,"B,S,C,L",2.75
+2378,Xocolatisimo,El Salvador,El Salvador,75.0,4.0,"B,S,C,L",3.0
+2374,Xocolatisimo,El Salvador,El Salvador,70.0,4.0,"B,S,C,L",3.25
+2522,Xocolatl,U.S.A.,Tanzania,73.0,2.0,"B,S",3.25
+2518,Xocolatl,U.S.A.,Peru,70.0,2.0,"B,S",3.5
+2522,Xocolatl,U.S.A.,Nicaragua,72.0,2.0,"B,S",3.5
+1948,Xocolla,U.S.A.,Dominican Republic,70.0,2.0,"B,S",2.5
+1948,Xocolla,U.S.A.,Madagascar,70.0,2.0,"B,S",2.75
+2618,Zac Squared,U.S.A.,Trinidad,70.0,3.0,"B,S,C",3.25
+2618,Zac Squared,U.S.A.,Vietnam,70.0,3.0,"B,S,C",3.5
+2618,Zac Squared,U.S.A.,Dominican Republic,70.0,3.0,"B,S,C",3.5
+2700,Zacharias,U.S.A.,Bolivia,70.0,3.0,"B,S,C",3.0
+1574,Zak's,U.S.A.,Papua New Guinea,70.0,3.0,"B,S,C",3.0
+1582,Zak's,U.S.A.,Blend,60.0,3.0,"B,S,C",3.0
+1578,Zak's,U.S.A.,Dominican Republic,70.0,3.0,"B,S,C",3.25
+1578,Zak's,U.S.A.,Madagascar,70.0,3.0,"B,S,C",3.25
+1578,Zak's,U.S.A.,Peru,70.0,3.0,"B,S,C",3.25
+1578,Zak's,U.S.A.,Belize,70.0,3.0,"B,S,C",3.5
+1824,Zart Pralinen,Austria,Ecuador,70.0,3.0,"B,S,C",2.75
+1824,Zart Pralinen,Austria,Trinidad,85.0,3.0,"B,S,C",2.75
+1824,Zart Pralinen,Austria,Tanzania,85.0,3.0,"B,S,C",3.0
+1820,Zart Pralinen,Austria,Madagascar,70.0,3.0,"B,S,C",3.5
+1824,Zart Pralinen,Austria,Tanzania,70.0,3.0,"B,S,C",3.5
+1880,Zart Pralinen,Austria,Trinidad,78.0,2.0,"B,S",3.5
+697,Zokoko,Australia,Bolivia,68.0,4.0,"B,S,C,L",3.5
+701,Zokoko,Australia,Papua New Guinea,66.0,4.0,"B,S,C,L",3.5
+701,Zokoko,Australia,Bolivia,72.0,4.0,"B,S,C,L",3.75
+1780,Zokoko,Australia,Blend,65.0,5.0,"B,S,C,V,L",3.25
+1716,Zokoko,Australia,Solomon Islands,78.0,4.0,"B,S,C,L",3.75
+2044,Zoto (Chocolatoa),Belgium,Nicaragua,72.0,3.0,"B,S,C",3.0
+2230,Zoto (Chocolatoa),Belgium,DR Congo,68.0,3.0,"B,S*,C",3.0
+2064,Zoto (Chocolatoa),Belgium,Nicaragua,75.0,3.0,"B,S,C",3.25
+2048,Zoto (Chocolatoa),Belgium,Nicaragua,70.0,3.0,"B,S,C",3.75
+486,Zotter,Austria,Brazil,65.0,4.0,"B,S*,C,Sa",3.0
+749,Zotter,Austria,Congo,65.0,4.0,"B,S*,C,Sa",3.0
+781,Zotter,Austria,India,62.0,4.0,"B,S*,C,Sa",3.25
+749,Zotter,Austria,India,65.0,4.0,"B,S*,C,Sa",3.5
+647,Zotter,Austria,Peru,70.0,4.0,"B,S*,C,Sa",3.75
+875,Zotter,Austria,Peru,70.0,4.0,"B,S*,C,Sa",3.0
+879,Zotter,Austria,Ecuador,75.0,4.0,"B,S*,C,Sa",3.0
+879,Zotter,Austria,Papua New Guinea,75.0,4.0,"B,S*,C,Sa",3.0
+879,Zotter,Austria,Bolivia,90.0,4.0,"B,S*,C,Sa",3.25
+883,Zotter,Austria,Congo,68.0,4.0,"B,S*,C,Sa",3.25
+801,Zotter,Austria,Panama,72.0,4.0,"B,S*,C,Sa",3.5
+801,Zotter,Austria,Blend,65.0,4.0,"B,S*,C,Sa",3.5
+875,Zotter,Austria,Peru,70.0,4.0,"B,S*,C,Sa",3.5
+883,Zotter,Austria,Blend,58.0,4.0,"B,S*,C,Sa",3.5
+875,Zotter,Austria,Dominican Republic,62.0,4.0,"B,S*,C,Sa",3.75
+879,Zotter,Austria,Dominican Republic,70.0,4.0,"B,S*,C,Sa",3.75
+1205,Zotter,Austria,Blend,80.0,4.0,"B,S*,C,Sa",2.75
+1996,Zotter,Austria,Colombia,75.0,3.0,"B,S,C",3.75
+2036,Zotter,Austria,Blend,75.0,3.0,"B,S,C",3.0
+2170,Zotter,Austria,Congo,70.0,3.0,"B,S,C",3.25
+2170,Zotter,Austria,Belize,72.0,3.0,"B,S,C",3.5
